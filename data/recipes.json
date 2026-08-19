@@ -1,0 +1,8292 @@
+[
+ {
+  "id": 1,
+  "name": "Karnıyarık",
+  "category": "Ana Yemekler",
+  "description": "Uzunlamasına kızartılan patlıcanların içine baharatlı kıyma harcı doldurularak fırında pişirildiği, Türk mutfağının en sevilen klasiklerinden biri.",
+  "image": "images/karniyarik.jpg",
+  "calories": 412,
+  "difficulty": "Orta",
+  "time": 65,
+  "prep": 25,
+  "cook": 40,
+  "servings": 4,
+  "pairs": "Pilav, cacık",
+  "tags": [
+   "Klasik",
+   "Fırın",
+   "Ev Yapımı",
+   "Ana Yemekler"
+  ],
+  "chef": "Patlıcanları kızartmadan önce tuzlu suda 15 dakika bekletmek acılığını alır ve daha az yağ çeker.",
+  "nutri": {
+   "carb": 18,
+   "protein": 22,
+   "fat": 27,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    6,
+    "adet",
+    "orta boy patlıcan"
+   ],
+   [
+    400,
+    "g",
+    "kıyma"
+   ],
+   [
+    2,
+    "adet",
+    "soğan"
+   ],
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    200,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    0,
+    "",
+    "maydanoz (süslemek için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Patlıcanları hazırlayın",
+    "Patlıcanların kabuklarını yer yer soyup şeritler halinde bırakın, tuzlu suda 15 dakika bekletip kağıt havluyla kurulayın."
+   ],
+   [
+    "Kızartın",
+    "Sıvı yağda patlıcanları her tarafı yumuşayana kadar kızartıp kağıt havlu üzerine alarak fazla yağını süzün."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Ayrı bir tavada soğanı kavurun, kıymayı ekleyip rengi dönene kadar pişirin. Salça, tuz ve karabiberi ilave edin."
+   ],
+   [
+    "Doldurun",
+    "Patlıcanları ortadan yararak açın, kıyma harcını içlerine bastırmadan doldurun."
+   ],
+   [
+    "Üzerini donatın",
+    "Her patlıcanın üzerine ince domates ve biber dilimleri yerleştirin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında, tepsiye biraz su ilave ederek 25-30 dakika, patlıcanlar iyice yumuşayana kadar pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin, üzerine maydanoz serperek sunun."
+   ]
+  ],
+  "emo": "🍆"
+ },
+ {
+  "id": 2,
+  "name": "İmam Bayıldı",
+  "category": "Ana Yemekler",
+  "description": "Zeytinyağlı Türk mutfağının başyapıtlarından: patlıcanların bol soğan, sarımsak ve domatesle doldurulup ağır ateşte pişirildiği, soğuk servis edilen bir klasik.",
+  "image": "images/imam-bayildi.jpg",
+  "calories": 268,
+  "difficulty": "Orta",
+  "time": 65,
+  "prep": 20,
+  "cook": 45,
+  "servings": 4,
+  "pairs": "Ekmek, yoğurt",
+  "tags": [
+   "Zeytinyağlı",
+   "Vejetaryen",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "İmam bayıldı soğukken daha lezzetlidir; pişirdikten sonra en az birkaç saat dinlendirin.",
+  "nutri": {
+   "carb": 20,
+   "protein": 4,
+   "fat": 19,
+   "fiber": 8
+  },
+  "ingredients": [
+   [
+    6,
+    "adet",
+    "orta boy patlıcan"
+   ],
+   [
+    4,
+    "adet",
+    "soğan"
+   ],
+   [
+    4,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    100,
+    "ml",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "yk",
+    "toz şeker"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "maydanoz"
+   ]
+  ],
+  "steps": [
+   [
+    "Patlıcanları hazırlayın",
+    "Patlıcanları soyup şeritler bırakarak hafifçe kızartın veya fırında közleyin."
+   ],
+   [
+    "Harcı hazırlayın",
+    "Soğanları ince julyen doğrayıp bol zeytinyağında yumuşayana kadar kavurun, sarımsak ve doğranmış domatesi ekleyin."
+   ],
+   [
+    "Tatlandırın",
+    "Şeker, tuz ve biraz limon suyu ekleyip harcı 5 dakika daha pişirin."
+   ],
+   [
+    "Doldurun",
+    "Patlıcanları ortadan yarıp harcı içine bol miktarda doldurun."
+   ],
+   [
+    "Ağır ateşte pişirin",
+    "Tencereye dizip üzerine az su ve zeytinyağı gezdirerek kısık ateşte 25-30 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Oda sıcaklığına gelince veya soğuk olarak, üzerine maydanoz serperek servis edin."
+   ]
+  ],
+  "emo": "🍆"
+ },
+ {
+  "id": 3,
+  "name": "Kuru Fasulye",
+  "category": "Ana Yemekler",
+  "description": "Etli ya da etsiz hazırlanabilen, pilavın vazgeçilmez eşlikçisi, Türk ev sofralarının en köklü lezzeti.",
+  "image": "images/kuru-fasulye.jpg",
+  "calories": 345,
+  "difficulty": "Kolay",
+  "time": 75,
+  "prep": 15,
+  "cook": 60,
+  "servings": 6,
+  "pairs": "Pirinç pilavı, turşu",
+  "tags": [
+   "Klasik",
+   "Ev Yapımı",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Fasulyeyi bir gece önceden suda bekletmek pişirme süresini kısaltır ve daha yumuşak olmasını sağlar.",
+  "nutri": {
+   "carb": 38,
+   "protein": 18,
+   "fat": 12,
+   "fiber": 11
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "kuru fasulye"
+   ],
+   [
+    150,
+    "g",
+    "kuşbaşı kavurmalık et (isteğe bağlı)"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    1,
+    "yk",
+    "biber salçası"
+   ],
+   [
+    3,
+    "yk",
+    "sıvı yağ"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    0,
+    "",
+    "pul biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Islatın",
+    "Kuru fasulyeyi bol suda bir gece önceden ıslatın, ardından süzüp durulayın."
+   ],
+   [
+    "Haşlayın",
+    "Fasulyeyi bol suyla düdüklü tencerede orta ateşte yaklaşık 25-30 dakika haşlayın."
+   ],
+   [
+    "Kavurun",
+    "Ayrı bir tencerede soğanı ve varsa eti yağda kavurun, salçaları ekleyip birkaç dakika daha kavurun."
+   ],
+   [
+    "Birleştirin",
+    "Haşlanmış fasulyeyi suyuyla birlikte kavurmanın üzerine ekleyin."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte, sos koyulaşana kadar 20-25 dakika daha pişirin, tuzunu son aşamada ekleyin."
+   ],
+   [
+    "Servis edin",
+    "Pirinç pilavı ile sıcak servis edin."
+   ]
+  ],
+  "emo": "🫘"
+ },
+ {
+  "id": 4,
+  "name": "Mantı",
+  "category": "Ana Yemekler",
+  "description": "İnce açılmış hamurun içine kıyma harcı doldurularak haşlandığı, sarımsaklı yoğurt ve tereyağlı sosla servis edilen emek isteyen bir Anadolu klasiği.",
+  "image": "images/manti.jpg",
+  "calories": 520,
+  "difficulty": "Zor",
+  "time": 80,
+  "prep": 60,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Ayran",
+  "tags": [
+   "Emek İster",
+   "Misafir Sofrası",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "Hamuru inceldikçe mantı daha zarif olur; açarken bolca un serperek yapışmasını önleyin.",
+  "nutri": {
+   "carb": 55,
+   "protein": 22,
+   "fat": 24,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    1,
+    "çk",
+    "tuz"
+   ],
+   [
+    150,
+    "ml",
+    "su"
+   ],
+   [
+    250,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    500,
+    "g",
+    "yoğurt"
+   ],
+   [
+    4,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    80,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    1,
+    "tk",
+    "kuru nane"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Un, yumurta, tuz ve suyu yoğurarak sert bir hamur elde edin, üzerini örtüp 30 dakika dinlendirin."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Kıyma, rendelenmiş soğan, tuz ve karabiberi karıştırarak harcı hazırlayın."
+   ],
+   [
+    "Açın ve doldurun",
+    "Hamuru ince açıp küçük kareler halinde kesin, her karenin ortasına az miktarda harç koyup dört köşesini birleştirerek kapatın."
+   ],
+   [
+    "Haşlayın",
+    "Kaynayan tuzlu suda mantıları 8-10 dakika, hamur pişip harç olgunlaşana kadar haşlayın."
+   ],
+   [
+    "Sosları hazırlayın",
+    "Yoğurdu ezilmiş sarımsakla karıştırın; ayrı bir tavada tereyağını eritip pul biberle kızdırın."
+   ],
+   [
+    "Servis edin",
+    "Süzülmüş mantıları tabağa alıp üzerine sarımsaklı yoğurt, ardından tereyağlı sos ve kuru nane gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🥟"
+ },
+ {
+  "id": 5,
+  "name": "Adana Kebap",
+  "category": "Ana Yemekler",
+  "description": "El yapımı kıyma harcının şişe sarılıp mangalda ızgara edildiği, acılı ve baharatlı klasik bir Güneydoğu Anadolu kebabı.",
+  "image": "images/adana-kebap.jpg",
+  "calories": 480,
+  "difficulty": "Orta",
+  "time": 35,
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "pairs": "Lavaş, közlenmiş domates-biber, ayran",
+  "tags": [
+   "Mangal",
+   "Baharatlı",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "Kıyma harcını en az yarım saat dinlendirmek, şişe sarılırken dağılmasını önler.",
+  "nutri": {
+   "carb": 6,
+   "protein": 28,
+   "fat": 36,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "orta yağlı kuzu/dana kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "kırmızı biber (közlük)"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    1,
+    "tk",
+    "kırmızı biber salçası"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "kimyon (isteğe bağlı)"
+   ]
+  ],
+  "steps": [
+   [
+    "Harcı hazırlayın",
+    "Kıymayı rendelenmiş sarımsak, salça, pul biber ve tuzla iyice yoğurun."
+   ],
+   [
+    "Dinlendirin",
+    "Harcı buzdolabında en az 30 dakika dinlendirin."
+   ],
+   [
+    "Şişe sarın",
+    "Islak elle harcı geniş kebap şişlerine yassı ve uzun şekilde sarın."
+   ],
+   [
+    "Mangalda pişirin",
+    "Kor ateşte şişleri sık çevirerek her tarafı eşit pişecek şekilde 12-15 dakika ızgara edin."
+   ],
+   [
+    "Servis edin",
+    "Lavaş üzerine alıp közlenmiş sebzeler ve ayranla sıcak servis edin."
+   ]
+  ],
+  "emo": "🍢"
+ },
+ {
+  "id": 6,
+  "name": "Hünkar Beğendi",
+  "category": "Ana Yemekler",
+  "description": "Közlenmiş patlıcandan yapılan kremalı beşamel püre üzerine, sulu kuşbaşı et yahnisinin eşlik ettiği Osmanlı saray mutfağı klasiği.",
+  "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=80",
+  "calories": 465,
+  "difficulty": "Zor",
+  "time": 80,
+  "prep": 30,
+  "cook": 50,
+  "servings": 4,
+  "pairs": "Pilav",
+  "tags": [
+   "Osmanlı Mutfağı",
+   "Misafir Sofrası",
+   "Kremalı",
+   "Ana Yemekler"
+  ],
+  "chef": "Patlıcanı doğrudan ateşte közlemek, püreye vazgeçilmez dumanlı aromayı katar.",
+  "nutri": {
+   "carb": 22,
+   "protein": 24,
+   "fat": 28,
+   "fiber": 5
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "dana kuşbaşı"
+   ],
+   [
+    2,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    4,
+    "adet",
+    "patlıcan"
+   ],
+   [
+    40,
+    "g",
+    "tereyağı"
+   ],
+   [
+    3,
+    "yk",
+    "un"
+   ],
+   [
+    400,
+    "ml",
+    "süt"
+   ],
+   [
+    80,
+    "g",
+    "kaşar peyniri"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti kavurun",
+    "Kuşbaşı eti soğanla birlikte kavurup salça ve doğranmış domatesi ekleyin, su ilave edip kısık ateşte 40-45 dakika pişirin."
+   ],
+   [
+    "Patlıcanları közleyin",
+    "Patlıcanları ocak alevinde veya fırında kabukları kararana kadar közleyip için kazıyın, limonlu suda bekletin."
+   ],
+   [
+    "Beşamel yapın",
+    "Tereyağında unu kavurup sıcak sütü azar azar ekleyerek pürüzsüz bir beşamel elde edin."
+   ],
+   [
+    "Püreyi birleştirin",
+    "Közlenmiş patlıcanı ince kıyıp beşamele ekleyin, kaşar peyniri ile karıştırıp krema kıvamına getirin."
+   ],
+   [
+    "Servis edin",
+    "Patlıcan püresini tabağa yayıp üzerine sıcak et yahnisini alarak servis edin."
+   ]
+  ],
+  "emo": "🍆"
+ },
+ {
+  "id": 7,
+  "name": "Tavuk Sote",
+  "category": "Ana Yemekler",
+  "description": "Küp doğranmış tavuk göğsünün renkli biber ve soğanla birlikte hızlıca sotelendiği, hazırlaması pratik bir günlük ana yemek.",
+  "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+  "calories": 310,
+  "difficulty": "Kolay",
+  "time": 35,
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Pirinç pilavı, bulgur pilavı",
+  "tags": [
+   "Pratik",
+   "Günlük",
+   "Hızlı",
+   "Ana Yemekler"
+  ],
+  "chef": "Tavuğu yüksek ateşte kısa sürede pişirmek, etin kurumasını önler ve sulu kalmasını sağlar.",
+  "nutri": {
+   "carb": 10,
+   "protein": 32,
+   "fat": 14,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "tavuk göğsü"
+   ],
+   [
+    1,
+    "adet",
+    "kırmızı biber"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    0,
+    "",
+    "kekik"
+   ]
+  ],
+  "steps": [
+   [
+    "Tavuğu doğrayın",
+    "Tavuk göğsünü küp küp doğrayıp tuz ve karabiberle marine edin."
+   ],
+   [
+    "Soteleyin",
+    "Geniş bir tavada zeytinyağını kızdırıp tavuğu yüksek ateşte rengi dönene kadar soteleyin."
+   ],
+   [
+    "Sebzeleri ekleyin",
+    "Soğan ve biberleri ekleyip birkaç dakika daha sotelemeye devam edin."
+   ],
+   [
+    "Domatesi ekleyin",
+    "Doğranmış domates ve sarımsağı ilave edip kısık ateşte 8-10 dakika pişirin."
+   ],
+   [
+    "Servis edin",
+    "Üzerine kekik serperek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍗"
+ },
+ {
+  "id": 8,
+  "name": "Patlıcan Musakka",
+  "category": "Ana Yemekler",
+  "description": "Kızartılmış patlıcan dilimlerinin kıymalı domates sosuyla tencerede buluştuğu, doyurucu ve pratik bir ev yemeği.",
+  "image": "images/patlican-musakka.jpg",
+  "calories": 398,
+  "difficulty": "Kolay",
+  "time": 55,
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "pairs": "Pilav, yoğurt",
+  "tags": [
+   "Pratik",
+   "Ev Yapımı",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Patlıcanları kızartmak yerine fırında az yağla kızartmak, yemeği hafifletir.",
+  "nutri": {
+   "carb": 19,
+   "protein": 18,
+   "fat": 24,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    5,
+    "adet",
+    "patlıcan"
+   ],
+   [
+    300,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    150,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Patlıcanları kızartın",
+    "Patlıcanları yuvarlak dilimleyip tuzlu suda bekletin, kurulayıp kızartın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Kıymayı soğanla kavurup salça, doğranmış domates ve biberi ekleyin, 10 dakika pişirin."
+   ],
+   [
+    "Katmanlayın",
+    "Bir tencerede patlıcan ve kıymalı sosu katman katman dizin."
+   ],
+   [
+    "Pişirin",
+    "Üzerine az su ekleyip kısık ateşte 15-20 dakika daha pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🍆"
+ },
+ {
+  "id": 9,
+  "name": "Etli Taco (Limonlu)",
+  "category": "Ana Yemekler",
+  "description": "Izgarada hızlıca pişirilen ince dilimlenmiş etin, taze kişniş ve limonla mısır tortillaya sarıldığı Meksika sokak lezzeti.",
+  "image": "images/etli-taco.jpg",
+  "calories": 340,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "pairs": "Mısır cipsi, avokado sos",
+  "tags": [
+   "Dünya Mutfağı",
+   "Sokak Lezzeti",
+   "Pratik",
+   "Ana Yemekler"
+  ],
+  "chef": "Eti pişirmeden en az 20 dakika önce marine etmek, hem lezzeti hem de yumuşaklığı artırır.",
+  "nutri": {
+   "carb": 24,
+   "protein": 26,
+   "fat": 14,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "bonfile ya da antrikot (ince dilimlenmiş)"
+   ],
+   [
+    8,
+    "adet",
+    "küçük mısır tortilla"
+   ],
+   [
+    2,
+    "adet",
+    "limon"
+   ],
+   [
+    1,
+    "demet",
+    "taze kişniş"
+   ],
+   [
+    1,
+    "adet",
+    "kırmızı soğan"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "kimyon"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti marine edin",
+    "İnce dilimlenmiş eti zeytinyağı, kimyon, tuz ve karabiberle harmanlayıp 20 dakika dinlendirin."
+   ],
+   [
+    "Izgara yapın",
+    "Çok sıcak bir tavada veya ızgarada eti yüksek ateşte 2-3 dakikada mühürleyerek pişirin."
+   ],
+   [
+    "Tortillaları ısıtın",
+    "Mısır tortillaları kuru bir tavada birkaç saniye ısıtıp yumuşatın."
+   ],
+   [
+    "Hazırlayın",
+    "Kişnişi iri kıyın, kırmızı soğanı ince doğrayın."
+   ],
+   [
+    "Doldurun",
+    "Her tortillaya bir miktar et, soğan ve kişniş yerleştirin."
+   ],
+   [
+    "Servis edin",
+    "Üzerine bol limon sıkarak hemen servis edin."
+   ]
+  ],
+  "emo": "🌮"
+ },
+ {
+  "id": 10,
+  "name": "Elmalı Somon",
+  "category": "Ana Yemekler",
+  "description": "Derisi çıtır çıtır kızartılan somon fileto, ıspanak yatağı üzerinde elma-salatalık-domates közlemesi ve hafif ekşi bir sosla servis edilen şık bir ana yemek.",
+  "image": "images/elmali-somon.jpg",
+  "calories": 410,
+  "difficulty": "Orta",
+  "time": 30,
+  "prep": 15,
+  "cook": 15,
+  "servings": 2,
+  "pairs": "Zeytinyağlı ıspanak, tam tahıllı ekmek",
+  "tags": [
+   "Şık Sunum",
+   "Deniz Ürünü",
+   "Hafif",
+   "Ana Yemekler"
+  ],
+  "chef": "Somonu derisi aşağı bakacak şekilde, dokunmadan 4-5 dakika pişirmek en çıtır sonucu verir.",
+  "nutri": {
+   "carb": 12,
+   "protein": 34,
+   "fat": 24,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    2,
+    "adet",
+    "somon fileto (derili)"
+   ],
+   [
+    1,
+    "avuç",
+    "taze ıspanak"
+   ],
+   [
+    1,
+    "adet",
+    "elma"
+   ],
+   [
+    1,
+    "adet",
+    "salatalık"
+   ],
+   [
+    1,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "adet",
+    "limon"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "yk",
+    "balzamik sirke"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Relişi hazırlayın",
+    "Elma, salatalık ve domatesi küçük küpler halinde doğrayıp limon suyu ve zeytinyağıyla harmanlayın."
+   ],
+   [
+    "Somonu hazırlayın",
+    "Somon filetoları tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Kızartın",
+    "Sıcak bir tavada somonu derili tarafı aşağı gelecek şekilde 4-5 dakika, sonra ters çevirip 2 dakika daha pişirin."
+   ],
+   [
+    "Ispanağı hazırlayın",
+    "Az yağda ıspanağı hafifçe soldurun."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Balzamik sirkeyi küçük bir tavada kısık ateşte hafifçe koyulaşana kadar kaynatın."
+   ],
+   [
+    "Tabaklayın",
+    "Ispanağın üzerine somonu yerleştirin, relişi üzerine paylaştırıp balzamik sosunu gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🐟"
+ },
+ {
+  "id": 11,
+  "name": "Mercimek Çorbası",
+  "category": "Çorbalar",
+  "description": "Kırmızı mercimeğin soğan, havuç ve patatesle pişirilip pürüzsüz kıvama getirildiği, Türk sofralarının en klasik başlangıcı.",
+  "image": "images/mercimek-corbasi.jpg",
+  "calories": 195,
+  "difficulty": "Kolay",
+  "time": 35,
+  "prep": 10,
+  "cook": 25,
+  "servings": 6,
+  "pairs": "Kruton, limon dilimi",
+  "tags": [
+   "Klasik",
+   "Sağlıklı",
+   "Pratik",
+   "Çorbalar"
+  ],
+  "chef": "Çorbayı blenderdan geçirmeden önce bir tutam kimyon eklemek aromayı belirginleştirir.",
+  "nutri": {
+   "carb": 30,
+   "protein": 11,
+   "fat": 5,
+   "fiber": 7
+  },
+  "ingredients": [
+   [
+    1.5,
+    "su bardağı",
+    "kırmızı mercimek"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    1,
+    "adet",
+    "havuç"
+   ],
+   [
+    1,
+    "adet",
+    "patates"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    6,
+    "su bardağı",
+    "su veya tavuk suyu"
+   ],
+   [
+    1,
+    "tk",
+    "kimyon"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Sebzeleri kavurun",
+    "Soğan ve havucu tereyağında yumuşayana kadar kavurun."
+   ],
+   [
+    "Salçayı ekleyin",
+    "Domates salçasını ilave edip 1-2 dakika kavurun."
+   ],
+   [
+    "Mercimeği ekleyin",
+    "Yıkanmış mercimeği, doğranmış patatesi ve suyu ekleyip kaynamaya bırakın."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte mercimek ve patates dağılana kadar 20-25 dakika pişirin."
+   ],
+   [
+    "Blenderdan geçirin",
+    "Çorbayı blenderdan geçirip pürüzsüz kıvama getirin, tuz ve kimyonla tatlandırın."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin, üzerine isteğe göre kruton ekleyin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 12,
+  "name": "Ezogelin Çorbası",
+  "category": "Çorbalar",
+  "description": "Kırmızı mercimek, ince bulgur ve pirincin bir arada haşlanıp naneli-pul biberli tereyağlı sosla taçlandırıldığı, dokulu ve doyurucu bir Anadolu çorbası.",
+  "image": "images/ezogelin-corbasi.jpg",
+  "calories": 205,
+  "difficulty": "Kolay",
+  "time": 40,
+  "prep": 10,
+  "cook": 30,
+  "servings": 6,
+  "pairs": "Limon dilimi, kızarmış ekmek",
+  "tags": [
+   "Klasik",
+   "Anadolu Mutfağı",
+   "Doyurucu",
+   "Çorbalar"
+  ],
+  "chef": "Bulgur ve pirinci rondodan geçirmemek, çorbanın karakteristik dokusunu korur.",
+  "nutri": {
+   "carb": 32,
+   "protein": 10,
+   "fat": 6,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    1,
+    "su bardağı",
+    "kırmızı mercimek"
+   ],
+   [
+    0.25,
+    "su bardağı",
+    "pilavlık bulgur"
+   ],
+   [
+    0.25,
+    "su bardağı",
+    "pirinç"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    7,
+    "su bardağı",
+    "su"
+   ],
+   [
+    1,
+    "tk",
+    "kuru nane"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Sebzeleri kavurun",
+    "Tereyağında ince doğranmış soğan ve sarımsağı yumuşayana kadar kavurun."
+   ],
+   [
+    "Salçayı ekleyin",
+    "Domates salçasını ilave edip birkaç dakika kavurun."
+   ],
+   [
+    "Bakliyatları ekleyin",
+    "Yıkanmış mercimek, bulgur ve pirinci ekleyip su ilave edin."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte, taneler yumuşayana kadar 25-30 dakika pişirin, tuzunu ayarlayın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Ayrı bir tavada tereyağını eritip pul biberle kızdırın."
+   ],
+   [
+    "Servis edin",
+    "Çorbayı kaseye alıp üzerine nane ve pul biberli tereyağı sosunu gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 13,
+  "name": "Yayla Çorbası",
+  "category": "Çorbalar",
+  "description": "Yoğurt ve pirincin terbiye edilerek pişirildiği, üzerine naneli tereyağı gezdirilen ferahlatıcı bir klasik.",
+  "image": "images/yayla-corbasi.jpg",
+  "calories": 175,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Kızarmış ekmek",
+  "tags": [
+   "Klasik",
+   "Hafif",
+   "Pratik",
+   "Çorbalar"
+  ],
+  "chef": "Yoğurdu kaynayan çorbaya eklerken sürekli karıştırmak kesilmesini önler.",
+  "nutri": {
+   "carb": 18,
+   "protein": 8,
+   "fat": 8,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    0.5,
+    "su bardağı",
+    "pirinç"
+   ],
+   [
+    500,
+    "g",
+    "yoğurt"
+   ],
+   [
+    1,
+    "yk",
+    "un"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    1,
+    "tk",
+    "kuru nane"
+   ],
+   [
+    5,
+    "su bardağı",
+    "su"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Pirinci haşlayın",
+    "Pirinci suda yumuşayana kadar haşlayın."
+   ],
+   [
+    "Terbiyeyi hazırlayın",
+    "Yoğurt, un ve yumurtayı çırpın, azar azar sıcak çorba suyu ekleyerek ısıtın."
+   ],
+   [
+    "Birleştirin",
+    "Terbiyeyi tencereye yavaşça, karıştırarak ekleyin."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte kaynatmadan 8-10 dakika pişirin, tuzunu ayarlayın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Tereyağını eritip naneyi ekleyerek kızdırın."
+   ],
+   [
+    "Servis edin",
+    "Çorbanın üzerine naneli tereyağı gezdirerek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 14,
+  "name": "Tarhana Çorbası",
+  "category": "Çorbalar",
+  "description": "Fermente edilmiş tarhananın domates salçası ve nane ile pişirildiği, ekşimsi ve doyurucu bir kış çorbası.",
+  "image": "images/tarhana-corbasi.jpg",
+  "calories": 165,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Kızarmış ekmek, kaşar peyniri",
+  "tags": [
+   "Klasik",
+   "Kış Çorbası",
+   "Ev Yapımı",
+   "Çorbalar"
+  ],
+  "chef": "Tarhanayı çorbaya eklemeden önce biraz suda bekletmek daha pürüzsüz bir kıvam sağlar.",
+  "nutri": {
+   "carb": 22,
+   "protein": 7,
+   "fat": 6,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    1,
+    "su bardağı",
+    "tarhana"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    1,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    6,
+    "su bardağı",
+    "su"
+   ],
+   [
+    1,
+    "tk",
+    "kuru nane"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Tarhanayı bekletin",
+    "Tarhanayı bir miktar su ile karıştırıp 10 dakika bekletin."
+   ],
+   [
+    "Salçayı kavurun",
+    "Tereyağında ezilmiş sarımsak ve salçayı birkaç dakika kavurun."
+   ],
+   [
+    "Su ekleyin",
+    "Üzerine suyu ilave edip kaynatın."
+   ],
+   [
+    "Tarhanayı ekleyin",
+    "Bekletilmiş tarhanayı çorbaya ekleyip karıştırarak 15 dakika kısık ateşte pişirin."
+   ],
+   [
+    "Tatlandırın",
+    "Tuz ve naneyi ekleyip birkaç dakika daha pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 15,
+  "name": "Düğün Çorbası",
+  "category": "Çorbalar",
+  "description": "Kuşbaşı etin suyunun un ve yumurta ile terbiye edilerek koyulaştırıldığı, üzerine kırmızı biberli tereyağı gezdirilen zengin bir çorba.",
+  "image": "images/dugun-corbasi.jpg",
+  "calories": 260,
+  "difficulty": "Orta",
+  "time": 60,
+  "prep": 15,
+  "cook": 45,
+  "servings": 6,
+  "pairs": "Kızarmış ekmek",
+  "tags": [
+   "Klasik",
+   "Misafir Sofrası",
+   "Doyurucu",
+   "Çorbalar"
+  ],
+  "chef": "Et suyunu süzerek kullanmak, çorbanın berrak ve pürüzsüz olmasını sağlar.",
+  "nutri": {
+   "carb": 14,
+   "protein": 18,
+   "fat": 15,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    300,
+    "g",
+    "kuşbaşı et"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "yk",
+    "un"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta sarısı"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    40,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    7,
+    "su bardağı",
+    "su"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti haşlayın",
+    "Eti soğanla birlikte bol suda yumuşayana kadar haşlayın, süzüp suyunu ayırın."
+   ],
+   [
+    "Eti didikleyin",
+    "Haşlanan eti küçük parçalara ayırın."
+   ],
+   [
+    "Terbiyeyi hazırlayın",
+    "Un, yumurta sarısı ve limon suyunu çırparak azar azar sıcak et suyuyla açın."
+   ],
+   [
+    "Birleştirin",
+    "Terbiyeyi tencereye karıştırarak ekleyin, didiklenmiş eti de ilave edin."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte kaynatmadan 10 dakika pişirin, tuzunu ayarlayın."
+   ],
+   [
+    "Sosla servis edin",
+    "Tereyağını pul biberle kızdırıp çorbanın üzerine gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 16,
+  "name": "Şehriye Çorbası (Tavuk Suyu)",
+  "category": "Çorbalar",
+  "description": "Tavuk suyu üzerine tel şehriye ilave edilerek pişirilen, hafif ve iç açıcı bir günlük çorba.",
+  "image": "images/sehriye-corbasi.jpg",
+  "calories": 155,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Limon dilimi",
+  "tags": [
+   "Pratik",
+   "Hafif",
+   "Günlük",
+   "Çorbalar"
+  ],
+  "chef": "Şehriyeyi çorbaya en son eklemek, fazla yumuşayıp dağılmasını önler.",
+  "nutri": {
+   "carb": 20,
+   "protein": 10,
+   "fat": 4,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    6,
+    "su bardağı",
+    "tavuk suyu"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "tel şehriye"
+   ],
+   [
+    1,
+    "adet",
+    "havuç"
+   ],
+   [
+    100,
+    "g",
+    "haşlanmış tavuk göğsü"
+   ],
+   [
+    1,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Suyu kaynatın",
+    "Tavuk suyunu ince doğranmış havuçla birlikte kaynatın."
+   ],
+   [
+    "Şehriyeyi ekleyin",
+    "Tel şehriyeyi ekleyip 8-10 dakika pişirin."
+   ],
+   [
+    "Tavuğu ekleyin",
+    "Didiklenmiş tavuk göğsünü ilave edip birkaç dakika daha ısıtın."
+   ],
+   [
+    "Tatlandırın",
+    "Tuz ve karabiberle tatlandırın, tereyağını ekleyin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 17,
+  "name": "Mantar Çorbası",
+  "category": "Çorbalar",
+  "description": "Sotelenmiş mantarların krema ile buluştuğu, kadife dokulu ve zengin aromalı bir çorba.",
+  "image": "images/mantar-corbasi.jpg",
+  "calories": 230,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Kızarmış ekmek",
+  "tags": [
+   "Kremalı",
+   "Pratik",
+   "Vejetaryen",
+   "Çorbalar"
+  ],
+  "chef": "Mantarları önce kuru tavada, sonra yağla sotelemek suyunu daha iyi salmasını sağlar.",
+  "nutri": {
+   "carb": 12,
+   "protein": 6,
+   "fat": 17,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    300,
+    "g",
+    "mantar"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "yk",
+    "un"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    200,
+    "ml",
+    "krema"
+   ],
+   [
+    4,
+    "su bardağı",
+    "su veya sebze suyu"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Mantarları soteleyin",
+    "İnce dilimlenmiş mantarları tereyağında soğanla birlikte sotelenip suyunu salana kadar pişirin."
+   ],
+   [
+    "Unu kavurun",
+    "Üzerine unu ekleyip 1-2 dakika kavurun."
+   ],
+   [
+    "Sıvıyı ekleyin",
+    "Sıcak suyu azar azar ekleyerek karıştırın, topaklanmasını önleyin."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte 10 dakika pişirin."
+   ],
+   [
+    "Kremayı ekleyin",
+    "Kremayı ekleyip karıştırın, tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 18,
+  "name": "Kazandibi",
+  "category": "Tatlılar",
+  "description": "Sütlü tatlının altının hafifçe karamelize edilerek kazan dibi lezzeti kazandığı, dilimlenerek servis edilen klasik bir muhallebi tatlısı.",
+  "image": "images/kazandibi.jpg",
+  "calories": 290,
+  "difficulty": "Orta",
+  "time": 50,
+  "prep": 20,
+  "cook": 30,
+  "servings": 6,
+  "pairs": "Dondurma",
+  "tags": [
+   "Süt Tatlısı",
+   "Klasik",
+   "Misafir Sofrası",
+   "Tatlılar"
+  ],
+  "chef": "Kabı karamelize ederken çok yüksek ateşte beklemeyin; dip yanarsa acılaşır.",
+  "nutri": {
+   "carb": 42,
+   "protein": 8,
+   "fat": 10,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    1,
+    "l",
+    "süt"
+   ],
+   [
+    150,
+    "g",
+    "toz şeker"
+   ],
+   [
+    60,
+    "g",
+    "nişasta"
+   ],
+   [
+    30,
+    "g",
+    "pirinç unu"
+   ],
+   [
+    1,
+    "tk",
+    "vanilya"
+   ],
+   [
+    1,
+    "yk",
+    "toz şeker (karamelize için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Karışımı hazırlayın",
+    "Süt, şeker, nişasta ve pirinç ununu tel çırpıcıyla topaksız karıştırın."
+   ],
+   [
+    "Pişirin",
+    "Karışımı orta ateşte sürekli karıştırarak koyulaşana kadar pişirin."
+   ],
+   [
+    "Kalıba dökün",
+    "Yayvan bir tepsiye, üzerine ilave şeker serpiştirerek dökün, düzleştirin."
+   ],
+   [
+    "Karamelize edin",
+    "Tepsinin altını ocakta düşük ateşte, dip hafif kararana kadar ısıtın."
+   ],
+   [
+    "Soğutun",
+    "Oda sıcaklığında soğutup buzdolabında birkaç saat dinlendirin."
+   ],
+   [
+    "Dilimleyip servis edin",
+    "Rulo şeklinde sarıp dilimleyerek servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 19,
+  "name": "Sütlaç",
+  "category": "Tatlılar",
+  "description": "Pirincin sütle pişirilip fırında üzeri hafifçe kızartılarak servis edildiği, Türk mutfağının en sevilen süt tatlısı.",
+  "image": "images/sutlac.jpg",
+  "calories": 255,
+  "difficulty": "Kolay",
+  "time": 50,
+  "prep": 10,
+  "cook": 40,
+  "servings": 6,
+  "pairs": "Tarçın",
+  "tags": [
+   "Süt Tatlısı",
+   "Klasik",
+   "Fırın",
+   "Tatlılar"
+  ],
+  "chef": "Pirinci önce az suyla haşlamak, sütle pişerken daha kısa sürede kıvam almasını sağlar.",
+  "nutri": {
+   "carb": 38,
+   "protein": 7,
+   "fat": 7,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    0.5,
+    "su bardağı",
+    "pirinç"
+   ],
+   [
+    1,
+    "l",
+    "süt"
+   ],
+   [
+    150,
+    "g",
+    "toz şeker"
+   ],
+   [
+    40,
+    "g",
+    "nişasta"
+   ],
+   [
+    1,
+    "tk",
+    "vanilya"
+   ]
+  ],
+  "steps": [
+   [
+    "Pirinci haşlayın",
+    "Pirinci az suyla yumuşayana kadar önceden haşlayın."
+   ],
+   [
+    "Sütü ekleyin",
+    "Haşlanmış pirincin üzerine sütü ekleyip kaynatın."
+   ],
+   [
+    "Koyulaştırın",
+    "Şeker ve suda ezilmiş nişastayı ekleyip karıştırarak koyulaşana kadar pişirin."
+   ],
+   [
+    "Kaselere paylaştırın",
+    "Vanilyayı ekleyip küçük fırın kaplarına paylaştırın."
+   ],
+   [
+    "Fırınlayın",
+    "220°C fırında üzeri benekli kızarana kadar 10-15 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Soğuduktan sonra buzdolabında servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 20,
+  "name": "Revani",
+  "category": "Tatlılar",
+  "description": "İrmikli kek hamurunun pişirildikten sonra kaymaklı şerbetle buluştuğu, hem hafif hem doyurucu bir Osmanlı tatlısı.",
+  "image": "images/revani.jpg",
+  "calories": 310,
+  "difficulty": "Orta",
+  "time": 50,
+  "prep": 20,
+  "cook": 30,
+  "servings": 8,
+  "pairs": "Kaymak",
+  "tags": [
+   "Şerbetli",
+   "Klasik",
+   "Fırın",
+   "Tatlılar"
+  ],
+  "chef": "Şerbeti soğuk, keki sıcak (ya da tam tersi) dökmek şerbetin dengeli emilmesini sağlar.",
+  "nutri": {
+   "carb": 55,
+   "protein": 5,
+   "fat": 9,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    3,
+    "adet",
+    "yumurta"
+   ],
+   [
+    200,
+    "g",
+    "toz şeker"
+   ],
+   [
+    150,
+    "g",
+    "irmik"
+   ],
+   [
+    100,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "kabartma tozu"
+   ],
+   [
+    100,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    150,
+    "ml",
+    "yoğurt"
+   ],
+   [
+    1,
+    "adet",
+    "limon (kabuğu rendesi)"
+   ],
+   [
+    500,
+    "g",
+    "toz şeker (şerbet için)"
+   ],
+   [
+    500,
+    "ml",
+    "su (şerbet için)"
+   ],
+   [
+    1,
+    "yk",
+    "limon suyu (şerbet için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Şerbeti hazırlayın",
+    "Şeker ve suyu kaynatıp limon suyunu ekleyin, 10 dakika kaynattıktan sonra soğumaya bırakın."
+   ],
+   [
+    "Hamuru hazırlayın",
+    "Yumurta ve şekeri çırpın, irmik, un, kabartma tozu, yağ, yoğurt ve limon kabuğunu ekleyip karıştırın."
+   ],
+   [
+    "Kalıba dökün",
+    "Hamuru yağlanmış bir kalıba dökün."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında üzeri altın rengini alana kadar 25-30 dakika pişirin."
+   ],
+   [
+    "Şerbetleyin",
+    "Sıcak keğin üzerine soğuk şerbeti yavaşça gezdirin."
+   ],
+   [
+    "Dinlendirip servis edin",
+    "Şerbeti iyice emmesi için birkaç saat bekletip dilimleyerek servis edin."
+   ]
+  ],
+  "emo": "🍰"
+ },
+ {
+  "id": 21,
+  "name": "Tulumba Tatlısı",
+  "category": "Tatlılar",
+  "description": "Kabartılmış hamurun kızgın yağda kızartılıp soğuk şerbete atıldığı, dışı çıtır içi şerbetli sevilen bir sokak tatlısı.",
+  "image": "images/tulumba-tatlisi.jpg",
+  "calories": 340,
+  "difficulty": "Orta",
+  "time": 45,
+  "prep": 20,
+  "cook": 25,
+  "servings": 8,
+  "pairs": "Kaymak",
+  "tags": [
+   "Şerbetli",
+   "Kızartma",
+   "Klasik",
+   "Tatlılar"
+  ],
+  "chef": "Şerbeti soğuk, tulumbaları sıcak tutmak, dışının çıtırlığını korurken içinin şerbeti dengeli emmesini sağlar.",
+  "nutri": {
+   "carb": 58,
+   "protein": 4,
+   "fat": 11,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    250,
+    "ml",
+    "su"
+   ],
+   [
+    50,
+    "g",
+    "tereyağı"
+   ],
+   [
+    150,
+    "g",
+    "un"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    1,
+    "tk",
+    "irmik"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    500,
+    "g",
+    "toz şeker (şerbet için)"
+   ],
+   [
+    500,
+    "ml",
+    "su (şerbet için)"
+   ],
+   [
+    1,
+    "yk",
+    "limon suyu (şerbet için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Şerbeti hazırlayın",
+    "Şeker ve suyu kaynatıp limon suyu ekleyin, soğumaya bırakın."
+   ],
+   [
+    "Hamuru pişirin",
+    "Su ve tereyağını kaynatıp unu ekleyerek tencerede kütle haline gelene kadar karıştırın."
+   ],
+   [
+    "Yumurtaları ekleyin",
+    "Hamur ılıyınca yumurtaları teker teker ekleyip parlak bir kıvam elde edin."
+   ],
+   [
+    "Şekil verin",
+    "Hamuru sıkma torbasına alıp kızgın yağa küçük oluklu parçalar halinde sıkın."
+   ],
+   [
+    "Kızartın",
+    "Altın rengini alıp içi pişene kadar orta ateşte kızartın."
+   ],
+   [
+    "Şerbete atın",
+    "Sıcak tulumbaları soğuk şerbete atıp birkaç dakika bekletin, süzüp servis edin."
+   ]
+  ],
+  "emo": "🍩"
+ },
+ {
+  "id": 22,
+  "name": "Şekerpare",
+  "category": "Tatlılar",
+  "description": "Bademle süslenen kurabiye hamurunun fırınlanıp şerbete batırıldığı, hem gevrek hem şerbetli bir kurabiye-tatlı melezi.",
+  "image": "images/sekerpare.jpg",
+  "calories": 295,
+  "difficulty": "Kolay",
+  "time": 45,
+  "prep": 20,
+  "cook": 25,
+  "servings": 10,
+  "pairs": "Kaymak",
+  "tags": [
+   "Şerbetli",
+   "Fırın",
+   "Klasik",
+   "Tatlılar"
+  ],
+  "chef": "Hamuru fazla yoğurmamak, kurabiyenin dağılgan ve gevrek dokusunu korur.",
+  "nutri": {
+   "carb": 48,
+   "protein": 4,
+   "fat": 12,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    125,
+    "g",
+    "tereyağı"
+   ],
+   [
+    100,
+    "g",
+    "toz şeker"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta"
+   ],
+   [
+    1,
+    "paket",
+    "kabartma tozu"
+   ],
+   [
+    300,
+    "g",
+    "un"
+   ],
+   [
+    20,
+    "adet",
+    "bütün badem"
+   ],
+   [
+    400,
+    "g",
+    "toz şeker (şerbet için)"
+   ],
+   [
+    400,
+    "ml",
+    "su (şerbet için)"
+   ],
+   [
+    1,
+    "yk",
+    "limon suyu (şerbet için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Şerbeti hazırlayın",
+    "Şeker ve suyu kaynatıp limon suyu ekleyin, soğumaya bırakın."
+   ],
+   [
+    "Hamuru hazırlayın",
+    "Tereyağı ve şekeri karıştırıp yumurta ve unu ekleyerek yumuşak bir hamur yoğurun."
+   ],
+   [
+    "Şekil verin",
+    "Ceviz büyüklüğünde parçalar koparıp yuvarlayın, üzerine badem bastırın."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında altın rengini alana kadar 20-22 dakika pişirin."
+   ],
+   [
+    "Şerbetleyin",
+    "Sıcak kurabiyelerin üzerine soğuk şerbeti gezdirin."
+   ],
+   [
+    "Servis edin",
+    "Şerbeti emmesi için biraz bekletip servis edin."
+   ]
+  ],
+  "emo": "🍪"
+ },
+ {
+  "id": 23,
+  "name": "Aşure",
+  "category": "Tatlılar",
+  "description": "Buğday, kuru meyve, baklagil ve kabuklu yemişlerin bir arada kaynatıldığı, bolluk ve paylaşımı simgeleyen geleneksel bir tatlı.",
+  "image": "images/asure.jpg",
+  "calories": 260,
+  "difficulty": "Orta",
+  "time": 90,
+  "prep": 30,
+  "cook": 60,
+  "servings": 10,
+  "pairs": "Nar taneleri, tarçın",
+  "tags": [
+   "Geleneksel",
+   "Kış Tatlısı",
+   "Paylaşım",
+   "Tatlılar"
+  ],
+  "chef": "Aşure buğdayını bir gece önceden ıslatmak pişirme süresini önemli ölçüde kısaltır.",
+  "nutri": {
+   "carb": 52,
+   "protein": 7,
+   "fat": 3,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    1,
+    "su bardağı",
+    "aşurelik buğday"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "nohut"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "kuru fasulye"
+   ],
+   [
+    1,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    50,
+    "g",
+    "kuru üzüm"
+   ],
+   [
+    50,
+    "g",
+    "kuru kayısı"
+   ],
+   [
+    50,
+    "g",
+    "kuru incir"
+   ],
+   [
+    30,
+    "g",
+    "fındık"
+   ],
+   [
+    30,
+    "g",
+    "ceviz içi"
+   ],
+   [
+    1,
+    "tk",
+    "tarçın"
+   ]
+  ],
+  "steps": [
+   [
+    "Islatın",
+    "Buğday, nohut ve kuru fasulyeyi ayrı ayrı bir gece önceden bol suda ıslatın."
+   ],
+   [
+    "Haşlayın",
+    "Ertesi gün her birini kendi suyunda, yumuşayana kadar ayrı ayrı haşlayın."
+   ],
+   [
+    "Birleştirin",
+    "Haşlanmış buğday, nohut ve fasulyeyi geniş bir tencerede birleştirip su ekleyin."
+   ],
+   [
+    "Kuru meyveleri ekleyin",
+    "Doğranmış kuru kayısı ve inciri, kuru üzümü ekleyip kısık ateşte kaynatın."
+   ],
+   [
+    "Tatlandırın",
+    "Şekeri ekleyip karışım koyulaşana kadar 20-25 dakika daha pişirin."
+   ],
+   [
+    "Servis edin",
+    "Kaselere paylaştırıp üzerine fındık, ceviz ve tarçın serperek soğuk servis edin."
+   ]
+  ],
+  "emo": "🥣"
+ },
+ {
+  "id": 24,
+  "name": "Ekmek Kadayıfı",
+  "category": "Tatlılar",
+  "description": "Kadayıf ekmeğinin şerbetle iyice yumuşatılıp üzerine bol kaymak ile servis edildiği zengin bir şerbetli tatlı.",
+  "image": "images/ekmek-kadayifi.jpg",
+  "calories": 380,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 8,
+  "pairs": "Bol kaymak",
+  "tags": [
+   "Şerbetli",
+   "Klasik",
+   "Misafir Sofrası",
+   "Tatlılar"
+  ],
+  "chef": "Şerbeti sıcak kadayıfın üzerine yavaş yavaş dökmek, eşit ve tam emilim sağlar.",
+  "nutri": {
+   "carb": 62,
+   "protein": 4,
+   "fat": 12,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    1,
+    "adet",
+    "hazır ekmek kadayıfı"
+   ],
+   [
+    80,
+    "g",
+    "tereyağı"
+   ],
+   [
+    500,
+    "g",
+    "toz şeker (şerbet için)"
+   ],
+   [
+    500,
+    "ml",
+    "su (şerbet için)"
+   ],
+   [
+    1,
+    "yk",
+    "limon suyu (şerbet için)"
+   ],
+   [
+    200,
+    "g",
+    "kaymak (servis için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Şerbeti hazırlayın",
+    "Şeker ve suyu kaynatıp limon suyu ekleyin, kaynar halde hazır tutun."
+   ],
+   [
+    "Kadayıfı yerleştirin",
+    "Ekmek kadayıfını fırın tepsisine serin."
+   ],
+   [
+    "Yağlayın",
+    "Eritilmiş tereyağını kadayıfın üzerine eşit şekilde gezdirin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında üzeri hafif kızarana kadar 15 dakika pişirin."
+   ],
+   [
+    "Şerbetleyin",
+    "Sıcak kadayıfın üzerine sıcak şerbeti yavaşça dökün, emmesi için bekletin."
+   ],
+   [
+    "Servis edin",
+    "Dilimleyip bol kaymakla servis edin."
+   ]
+  ],
+  "emo": "🍯"
+ },
+ {
+  "id": 25,
+  "name": "Çikolatalı Islak Kek",
+  "category": "Tatlılar",
+  "description": "Kakaolu kek hamurunun pişirildikten sonra çikolatalı sosla iyice ıslatıldığı, damardan çikolata sevenlerin favorisi.",
+  "image": "images/cikolatali-islak-kek.jpg",
+  "calories": 390,
+  "difficulty": "Kolay",
+  "time": 45,
+  "prep": 15,
+  "cook": 30,
+  "servings": 8,
+  "pairs": "Vanilyalı dondurma",
+  "tags": [
+   "Çikolatalı",
+   "Fırın",
+   "Pratik",
+   "Tatlılar"
+  ],
+  "chef": "Kek ılıkken sosu dökmek, daha derinlemesine ve eşit emilim sağlar.",
+  "nutri": {
+   "carb": 50,
+   "protein": 6,
+   "fat": 18,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    3,
+    "adet",
+    "yumurta"
+   ],
+   [
+    200,
+    "g",
+    "toz şeker"
+   ],
+   [
+    100,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    150,
+    "ml",
+    "süt"
+   ],
+   [
+    200,
+    "g",
+    "un"
+   ],
+   [
+    40,
+    "g",
+    "kakao"
+   ],
+   [
+    1,
+    "paket",
+    "kabartma tozu"
+   ],
+   [
+    200,
+    "ml",
+    "süt (sos için)"
+   ],
+   [
+    100,
+    "g",
+    "bitter çikolata (sos için)"
+   ],
+   [
+    2,
+    "yk",
+    "kakao (sos için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru hazırlayın",
+    "Yumurta ve şekeri çırpın, sıvı yağ ve sütü ekleyin."
+   ],
+   [
+    "Kuru malzemeleri ekleyin",
+    "Un, kakao ve kabartma tozunu eleyerek karışıma ilave edin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında kalıba dökülen hamuru 25-30 dakika pişirin."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Sütü kaynatıp bitter çikolata ve kakaoyu ekleyerek pürüzsüz bir sos elde edin."
+   ],
+   [
+    "Islatın",
+    "Ilık kekin üzerine sosu yavaşça gezdirip emmesini bekleyin."
+   ],
+   [
+    "Servis edin",
+    "Dilimleyip servis edin."
+   ]
+  ],
+  "emo": "🍫"
+ },
+ {
+  "id": 26,
+  "name": "Çoban Salatası",
+  "category": "Salatalar",
+  "description": "Domates, salatalık, biber ve soğanın küçük küpler halinde doğranıp zeytinyağı-limonla buluştuğu, her sofraya yakışan taze bir klasik.",
+  "image": "images/coban-salatasi.jpg",
+  "calories": 95,
+  "difficulty": "Kolay",
+  "time": 15,
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Ekmek, zeytin",
+  "tags": [
+   "Vejetaryen",
+   "Hafif",
+   "Pratik",
+   "Salatalar"
+  ],
+  "chef": "Sebzeleri servisten hemen önce doğrayıp sosla karıştırmak, suyunu erken bırakmasını önler.",
+  "nutri": {
+   "carb": 9,
+   "protein": 2,
+   "fat": 6,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "adet",
+    "salatalık"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    0.5,
+    "adet",
+    "kırmızı soğan"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    1,
+    "dal",
+    "maydanoz"
+   ]
+  ],
+  "steps": [
+   [
+    "Sebzeleri doğrayın",
+    "Domates, salatalık ve biberi küçük küpler halinde doğrayın."
+   ],
+   [
+    "Soğanı ekleyin",
+    "İnce doğranmış kırmızı soğanı ekleyin."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Zeytinyağı, limon suyu ve tuzu karıştırın."
+   ],
+   [
+    "Servis edin",
+    "Sosu salatanın üzerine gezdirip maydanozla süsleyerek hemen servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 27,
+  "name": "Gavurdağ Salatası",
+  "category": "Salatalar",
+  "description": "İri doğranmış domates ve cevizin nar ekşisiyle buluştuğu, Güneydoğu mutfağının ekşi-baharatlı meze salatası.",
+  "image": "images/gavurdag-salatasi.jpg",
+  "calories": 165,
+  "difficulty": "Kolay",
+  "time": 15,
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Lavaş",
+  "tags": [
+   "Baharatlı",
+   "Meze",
+   "Vejetaryen",
+   "Salatalar"
+  ],
+  "chef": "Cevizi kabaca kırmak, salataya hem doku hem de daha belirgin bir aroma katar.",
+  "nutri": {
+   "carb": 10,
+   "protein": 4,
+   "fat": 13,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    4,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    0.5,
+    "adet",
+    "soğan"
+   ],
+   [
+    50,
+    "g",
+    "ceviz içi"
+   ],
+   [
+    2,
+    "yk",
+    "nar ekşisi"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    1,
+    "dal",
+    "maydanoz"
+   ]
+  ],
+  "steps": [
+   [
+    "Domatesleri doğrayın",
+    "Domatesleri iri küpler halinde doğrayın."
+   ],
+   [
+    "Diğer malzemeleri hazırlayın",
+    "Biberi ince, soğanı yarım ay şeklinde doğrayın, cevizi kabaca kırın."
+   ],
+   [
+    "Karıştırın",
+    "Tüm malzemeleri geniş bir kasede birleştirin."
+   ],
+   [
+    "Sosla buluşturun",
+    "Nar ekşisi, zeytinyağı, pul biber ve tuzu ekleyip karıştırın."
+   ],
+   [
+    "Servis edin",
+    "Maydanozla süsleyip servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 28,
+  "name": "Piyaz",
+  "category": "Salatalar",
+  "description": "Haşlanmış kuru fasulyenin soğan, domates ve maydanozla harmanlandığı, genellikle ızgara köfteye eşlik eden ekşi-hafif bir salata.",
+  "image": "images/piyaz.jpg",
+  "calories": 210,
+  "difficulty": "Kolay",
+  "time": 20,
+  "prep": 15,
+  "cook": 5,
+  "servings": 4,
+  "pairs": "Izgara köfte",
+  "tags": [
+   "Klasik",
+   "Meze",
+   "Baklagil",
+   "Salatalar"
+  ],
+  "chef": "Soğanı tuzla ovup dinlendirmek, keskin kokusunu yumuşatır ve salatayı daha dengeli yapar.",
+  "nutri": {
+   "carb": 26,
+   "protein": 9,
+   "fat": 7,
+   "fiber": 8
+  },
+  "ingredients": [
+   [
+    400,
+    "g",
+    "haşlanmış kuru fasulye"
+   ],
+   [
+    1,
+    "adet",
+    "kırmızı soğan"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "adet",
+    "haşlanmış yumurta"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    1,
+    "dal",
+    "maydanoz"
+   ],
+   [
+    50,
+    "g",
+    "beyaz peynir (isteğe bağlı)"
+   ]
+  ],
+  "steps": [
+   [
+    "Soğanı hazırlayın",
+    "Soğanı ince yarım ay doğrayıp tuzla ovarak 5 dakika dinlendirin."
+   ],
+   [
+    "Karıştırın",
+    "Haşlanmış fasulyeyi geniş bir kasede soğan ile birleştirin."
+   ],
+   [
+    "Sosla buluşturun",
+    "Zeytinyağı, limon suyu ve tuzu ekleyip nazikçe karıştırın."
+   ],
+   [
+    "Süsleyin",
+    "Üzerine dilimlenmiş domates, haşlanmış yumurta ve maydanoz ekleyin."
+   ],
+   [
+    "Servis edin",
+    "İsteğe bağlı beyaz peynirle servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 29,
+  "name": "Kısır",
+  "category": "Salatalar",
+  "description": "İnce bulgurun salça, bol yeşillik ve nar ekşisiyle yoğrulduğu, hem doyurucu hem de serinletici bir bulgur salatası.",
+  "image": "images/kisir.jpg",
+  "calories": 240,
+  "difficulty": "Kolay",
+  "time": 25,
+  "prep": 25,
+  "cook": 0,
+  "servings": 6,
+  "pairs": "Marul yaprağı",
+  "tags": [
+   "Bulgurlu",
+   "Meze",
+   "Vejetaryen",
+   "Salatalar"
+  ],
+  "chef": "Bulguru sıcak suyla haşlamak yerine sadece ıslatıp dinlendirmek, tanelerin dağılmadan kalmasını sağlar.",
+  "nutri": {
+   "carb": 40,
+   "protein": 6,
+   "fat": 8,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    2,
+    "su bardağı",
+    "ince bulgur"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    1,
+    "yk",
+    "biber salçası"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    2,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    0.5,
+    "demet",
+    "taze nane"
+   ],
+   [
+    3,
+    "adet",
+    "yeşil soğan"
+   ],
+   [
+    1,
+    "adet",
+    "salatalık"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Bulguru ıslatın",
+    "Bulguru geniş bir kaba alıp üzerine az kaynar su ekleyerek örtün, 15 dakika dinlendirin."
+   ],
+   [
+    "Salçaları ekleyin",
+    "Salçaları bulgurun üzerine ekleyip iyice yoğurun."
+   ],
+   [
+    "Yeşillikleri ekleyin",
+    "İnce kıyılmış maydanoz, nane ve yeşil soğanı ekleyin."
+   ],
+   [
+    "Tatlandırın",
+    "Zeytinyağı, limon suyu, tuz ve pul biberi ekleyip harmanlayın."
+   ],
+   [
+    "Dinlendirip servis edin",
+    "Doğranmış salatalıkla birlikte servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 30,
+  "name": "Zeytinyağlı Semizotu",
+  "category": "Salatalar",
+  "description": "Taze semizotunun yoğurt ya da sade zeytinyağlı sosla, sarımsak eşliğinde hazırlandığı hafif bir yaz salatası.",
+  "image": "images/zeytinyagli-semizotu.jpg",
+  "calories": 130,
+  "difficulty": "Kolay",
+  "time": 15,
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Ekmek",
+  "tags": [
+   "Zeytinyağlı",
+   "Hafif",
+   "Vejetaryen",
+   "Salatalar"
+  ],
+  "chef": "Semizotunu yıkadıktan sonra iyice kurutmak, sosun sulanmasını önler.",
+  "nutri": {
+   "carb": 8,
+   "protein": 4,
+   "fat": 9,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    1,
+    "demet",
+    "semizotu"
+   ],
+   [
+    200,
+    "g",
+    "yoğurt"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Semizotunu hazırlayın",
+    "Semizotunu yıkayıp yapraklarını ve ince saplarını ayıklayın, kurulayın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Yoğurdu ezilmiş sarımsak ve tuzla karıştırın."
+   ],
+   [
+    "Karıştırın",
+    "Semizotunu yoğurtlu sosla harmanlayın."
+   ],
+   [
+    "Servis edin",
+    "Üzerine zeytinyağı gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 31,
+  "name": "Yoğurtlu Ispanak",
+  "category": "Salatalar",
+  "description": "Hafifçe haşlanan ıspanağın sarımsaklı yoğurtla buluştuğu, sıcak ya da soğuk servis edilebilen doyurucu bir meze.",
+  "image": "images/yogurtlu-ispanak.jpg",
+  "calories": 145,
+  "difficulty": "Kolay",
+  "time": 20,
+  "prep": 10,
+  "cook": 10,
+  "servings": 4,
+  "pairs": "Ekmek",
+  "tags": [
+   "Vejetaryen",
+   "Hafif",
+   "Meze",
+   "Salatalar"
+  ],
+  "chef": "Ispanağı haşladıktan sonra soğuk suya almak, canlı yeşil rengini korur.",
+  "nutri": {
+   "carb": 9,
+   "protein": 6,
+   "fat": 9,
+   "fiber": 4
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "ıspanak"
+   ],
+   [
+    200,
+    "g",
+    "yoğurt"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "pul biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Ispanağı haşlayın",
+    "Ispanağı kaynar suda 2-3 dakika haşlayıp süzün."
+   ],
+   [
+    "Soğutun",
+    "Hemen soğuk suya alıp süzün, hafifçe sıkın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Yoğurdu ezilmiş sarımsak ve tuzla karıştırın."
+   ],
+   [
+    "Birleştirin",
+    "Ispanağı yoğurtlu sosla harmanlayın."
+   ],
+   [
+    "Servis edin",
+    "Üzerine eritilmiş tereyağı ve pul biber gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 32,
+  "name": "Su Böreği",
+  "category": "Hamur İşleri",
+  "description": "Yufkanın haşlanıp katman katman peynirli harçla döşendiği, fırında pişirilen emek isteyen bir Türk mutfağı klasiği.",
+  "image": "images/su-boregi.jpg",
+  "calories": 410,
+  "difficulty": "Zor",
+  "time": 75,
+  "prep": 40,
+  "cook": 35,
+  "servings": 8,
+  "pairs": "Ayran",
+  "tags": [
+   "Emek İster",
+   "Misafir Sofrası",
+   "Peynirli",
+   "Hamur İşleri"
+  ],
+  "chef": "Yufkaları haşlarken birbirine yapışmaması için suya biraz sıvı yağ eklemek işe yarar.",
+  "nutri": {
+   "carb": 35,
+   "protein": 15,
+   "fat": 22,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    10,
+    "adet",
+    "yufka"
+   ],
+   [
+    300,
+    "g",
+    "lor peyniri"
+   ],
+   [
+    150,
+    "g",
+    "maydanoz"
+   ],
+   [
+    3,
+    "adet",
+    "yumurta"
+   ],
+   [
+    200,
+    "ml",
+    "süt"
+   ],
+   [
+    100,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    80,
+    "g",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Yufkaları haşlayın",
+    "Yufkaları kaynar tuzlu suda birer birer 1 dakika haşlayıp soğuk suya alın."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Lor peynirini kıyılmış maydanozla karıştırın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Yumurta, süt ve sıvı yağı çırpın."
+   ],
+   [
+    "Katmanlayın",
+    "Fırın tepsisine yufkaları döşeyip aralarına sos gezdirin, ortasına peynirli harcı serpin."
+   ],
+   [
+    "Üstünü kapatın",
+    "Kalan yufkaları üzerine örtüp kalan sosu gezdirin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında üzeri altın rengini alana kadar 30-35 dakika pişirin, eritilmiş tereyağını gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🥧"
+ },
+ {
+  "id": 33,
+  "name": "Sigara Böreği",
+  "category": "Hamur İşleri",
+  "description": "İnce yufkanın peynirli harçla sarılıp kızgın yağda çıtır çıtır kızartıldığı, çay saatlerinin vazgeçilmez atıştırmalığı.",
+  "image": "images/sigara-boregi.jpg",
+  "calories": 320,
+  "difficulty": "Kolay",
+  "time": 40,
+  "prep": 25,
+  "cook": 15,
+  "servings": 6,
+  "pairs": "Çay",
+  "tags": [
+   "Çıtır",
+   "Kızartma",
+   "Peynirli",
+   "Hamur İşleri"
+  ],
+  "chef": "Yufkanın kenarını suyla değil un-su karışımıyla kapatmak, kızartırken açılmasını önler.",
+  "nutri": {
+   "carb": 28,
+   "protein": 11,
+   "fat": 19,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    10,
+    "adet",
+    "yufka"
+   ],
+   [
+    200,
+    "g",
+    "beyaz peynir"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Harcı hazırlayın",
+    "Beyaz peyniri ezip kıyılmış maydanoz ve karabiberle karıştırın."
+   ],
+   [
+    "Yufkaları kesin",
+    "Yufkaları üçgen ya da dikdörtgen parçalara bölün."
+   ],
+   [
+    "Doldurun",
+    "Her parçaya bir miktar harç koyup sıkıca sarın, ucunu suyla yapıştırın."
+   ],
+   [
+    "Kızartın",
+    "Kızgın yağda her tarafı altın rengini alana kadar kızartın."
+   ],
+   [
+    "Süzün",
+    "Kağıt havlu üzerinde fazla yağını süzün."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 34,
+  "name": "Poğaça",
+  "category": "Hamur İşleri",
+  "description": "Mayalı hamurun peynirli iç harcıyla şekillendirilip fırınlandığı, kahvaltı sofralarının yumuşacık klasiği.",
+  "image": "images/pogaca.jpg",
+  "calories": 285,
+  "difficulty": "Kolay",
+  "time": 55,
+  "prep": 30,
+  "cook": 25,
+  "servings": 12,
+  "pairs": "Çay, peynir",
+  "tags": [
+   "Kahvaltılık",
+   "Mayalı",
+   "Fırın",
+   "Hamur İşleri"
+  ],
+  "chef": "Hamuru mayalanırken ılık bir ortamda bekletmek, poğaçaların daha kabarık çıkmasını sağlar.",
+  "nutri": {
+   "carb": 30,
+   "protein": 8,
+   "fat": 13,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "yaş maya"
+   ],
+   [
+    1,
+    "su bardağı",
+    "ılık süt"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta"
+   ],
+   [
+    80,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    1,
+    "yk",
+    "toz şeker"
+   ],
+   [
+    1,
+    "tk",
+    "tuz"
+   ],
+   [
+    200,
+    "g",
+    "beyaz peynir (iç harcı için)"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta sarısı (üzeri için)"
+   ],
+   [
+    0,
+    "",
+    "susam"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Maya, ılık süt ve şekeri karıştırıp 10 dakika bekletin, ardından un, yumurta, yağ ve tuzla yoğurun."
+   ],
+   [
+    "Mayalandırın",
+    "Hamuru üzeri örtülü şekilde 45-60 dakika mayaya bırakın."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Beyaz peyniri ezin."
+   ],
+   [
+    "Şekil verin",
+    "Hamuru bölüp içine peynir koyarak yuvarlayın, tepsiye dizin."
+   ],
+   [
+    "Üzerini sürün",
+    "Yumurta sarısı sürüp susam serpin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında üzeri altın rengini alana kadar 20-25 dakika pişirin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 35,
+  "name": "Kol Böreği",
+  "category": "Hamur İşleri",
+  "description": "Yufkanın rulo şeklinde sarılıp kıvrılarak fırınlandığı, kesildiğinde iç harcının katmanlarının göründüğü şık bir börek.",
+  "image": "images/kol-boregi.jpg",
+  "calories": 360,
+  "difficulty": "Orta",
+  "time": 60,
+  "prep": 30,
+  "cook": 30,
+  "servings": 8,
+  "pairs": "Ayran",
+  "tags": [
+   "Fırın",
+   "Peynirli",
+   "Misafir Sofrası",
+   "Hamur İşleri"
+  ],
+  "chef": "Ruloyu sararken çok sıkı sarmamak, pişerken hamurun eşit genişlemesini sağlar.",
+  "nutri": {
+   "carb": 32,
+   "protein": 12,
+   "fat": 20,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    4,
+    "adet",
+    "yufka"
+   ],
+   [
+    250,
+    "g",
+    "beyaz peynir"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    150,
+    "ml",
+    "süt"
+   ],
+   [
+    80,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    0,
+    "",
+    "susam"
+   ]
+  ],
+  "steps": [
+   [
+    "Harcı hazırlayın",
+    "Peyniri ezip kıyılmış maydanozla karıştırın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Yumurta, süt ve yağı çırpın."
+   ],
+   [
+    "Yufkayı hazırlayın",
+    "Yufkaya sosu sürüp bir kenarına peynirli harcı şerit halinde dizin."
+   ],
+   [
+    "Rulo yapın",
+    "Yufkayı sıkıca rulo şeklinde sarın."
+   ],
+   [
+    "Şekil verin",
+    "Ruloyu salyangoz şeklinde kıvırıp tepsiye yerleştirin, üzerine sos sürüp susam serpin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında altın rengini alana kadar 30 dakika pişirin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 36,
+  "name": "Lahmacun",
+  "category": "Hamur İşleri",
+  "description": "İnce açılmış hamurun üzerine baharatlı kıyma harcı sürülerek fırınlandığı, limon ve maydanozla dürülerek yenen klasik lezzet.",
+  "image": "images/lahmacun.jpg",
+  "calories": 295,
+  "difficulty": "Orta",
+  "time": 40,
+  "prep": 30,
+  "cook": 10,
+  "servings": 6,
+  "pairs": "Limon, maydanoz, ayran",
+  "tags": [
+   "Klasik",
+   "Fırın",
+   "Baharatlı",
+   "Hamur İşleri"
+  ],
+  "chef": "İç harcı kavurmadan, çiğ olarak hamurun üzerine ince bir tabaka halinde sürmek gerçek lahmacun dokusunu verir.",
+  "nutri": {
+   "carb": 34,
+   "protein": 14,
+   "fat": 12,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "yaş maya"
+   ],
+   [
+    1,
+    "tk",
+    "tuz"
+   ],
+   [
+    280,
+    "ml",
+    "ılık su"
+   ],
+   [
+    300,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    1,
+    "yk",
+    "biber salçası"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "pul biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Un, maya, tuz ve suyu yoğurup 30 dakika mayaya bırakın."
+   ],
+   [
+    "Harcı hazırlayın",
+    "Soğan, biber, domates ve maydanozu ince kıyıp kıyma, salçalar ve baharatlarla karıştırın."
+   ],
+   [
+    "Açın",
+    "Hamuru küçük bezelere ayırıp ince yuvarlak açın."
+   ],
+   [
+    "Harcı sürün",
+    "Her hamurun üzerine harcı ince ve eşit bir tabaka halinde yayın."
+   ],
+   [
+    "Fırınlayın",
+    "Önceden ısıtılmış 250°C fırında kenarları hafif kızarana kadar 8-10 dakika pişirin."
+   ],
+   [
+    "Servis edin",
+    "Üzerine limon sıkıp maydanozla dürerek servis edin."
+   ]
+  ],
+  "emo": "🫓"
+ },
+ {
+  "id": 37,
+  "name": "Kıymalı Pide",
+  "category": "Hamur İşleri",
+  "description": "Kayık şeklinde açılan hamurun kıymalı harçla doldurulup fırınlandığı, sıcak servis edilen doyurucu bir hamur işi.",
+  "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+  "calories": 420,
+  "difficulty": "Orta",
+  "time": 60,
+  "prep": 40,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Ayran",
+  "tags": [
+   "Fırın",
+   "Doyurucu",
+   "Klasik",
+   "Hamur İşleri"
+  ],
+  "chef": "Pidenin kenarlarını iyice kabartmak için hamuru mayalandırdıktan sonra nazikçe şekillendirin.",
+  "nutri": {
+   "carb": 45,
+   "protein": 20,
+   "fat": 16,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "yaş maya"
+   ],
+   [
+    1,
+    "su bardağı",
+    "ılık su"
+   ],
+   [
+    1,
+    "tk",
+    "tuz"
+   ],
+   [
+    1,
+    "tk",
+    "toz şeker"
+   ],
+   [
+    300,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    100,
+    "g",
+    "kaşar peyniri"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta sarısı (üzeri için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Un, maya, su, tuz ve şekeri yoğurup 45 dakika mayaya bırakın."
+   ],
+   [
+    "Harcı hazırlayın",
+    "Kıymayı soğan, domates ve biberle karıştırıp tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Şekil verin",
+    "Hamuru kayık şeklinde açıp kenarlarını kıvırın."
+   ],
+   [
+    "Doldurun",
+    "İç harcı ortasına yayın, isteğe göre kaşar peyniri serpin."
+   ],
+   [
+    "Fırınlayın",
+    "Kenarlarına yumurta sarısı sürüp 220°C fırında 15-20 dakika pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🫓"
+ },
+ {
+  "id": 38,
+  "name": "Açma",
+  "category": "Hamur İşleri",
+  "description": "Mayalı hamurun katmanlı şekilde açılıp yumuşacık pişirildiği, kahvaltı sofralarının tereyağlı klasiği.",
+  "image": "images/acma.jpg",
+  "calories": 310,
+  "difficulty": "Orta",
+  "time": 60,
+  "prep": 40,
+  "cook": 20,
+  "servings": 10,
+  "pairs": "Kaşar peyniri, çay",
+  "tags": [
+   "Kahvaltılık",
+   "Mayalı",
+   "Fırın",
+   "Hamur İşleri"
+  ],
+  "chef": "Hamura katılan haşlanmış patates, açmanın yumuşacık dokusunun sırrıdır.",
+  "nutri": {
+   "carb": 34,
+   "protein": 7,
+   "fat": 15,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "yaş maya"
+   ],
+   [
+    1,
+    "su bardağı",
+    "ılık süt"
+   ],
+   [
+    1,
+    "adet",
+    "haşlanmış patates"
+   ],
+   [
+    80,
+    "ml",
+    "sıvı yağ"
+   ],
+   [
+    1,
+    "yk",
+    "toz şeker"
+   ],
+   [
+    1,
+    "tk",
+    "tuz"
+   ],
+   [
+    50,
+    "g",
+    "tereyağı (katlar için)"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta sarısı (üzeri için)"
+   ],
+   [
+    0,
+    "",
+    "susam"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Maya, ılık süt ve şekeri karıştırıp bekletin, ezilmiş patates, un, yağ ve tuzla yoğurun."
+   ],
+   [
+    "Mayalandırın",
+    "Hamuru 45-60 dakika mayaya bırakın."
+   ],
+   [
+    "Katlayın",
+    "Hamuru açıp üzerine eritilmiş tereyağı sürerek katlayın, bu işlemi birkaç kez tekrarlayın."
+   ],
+   [
+    "Şekil verin",
+    "Hamuru bölüp yuvarlak açmalar şeklinde tepsiye dizin."
+   ],
+   [
+    "Üzerini sürün",
+    "Yumurta sarısı sürüp susam serpin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında altın rengini alana kadar 20 dakika pişirin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 39,
+  "name": "Menemen",
+  "category": "Kahvaltı",
+  "description": "Domates ve biberin yumurtayla birlikte tavada pişirildiği, Türk kahvaltı sofralarının en sevilen sıcak lezzeti.",
+  "image": "https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=800&q=80",
+  "calories": 260,
+  "difficulty": "Kolay",
+  "time": 22,
+  "prep": 10,
+  "cook": 12,
+  "servings": 2,
+  "pairs": "Ekmek",
+  "tags": [
+   "Kahvaltılık",
+   "Pratik",
+   "Klasik",
+   "Kahvaltı"
+  ],
+  "chef": "Yumurtaları eklerken ateşi kısmak, pişirken lop lop kalmasını sağlar; fazla karıştırmayın.",
+  "nutri": {
+   "carb": 9,
+   "protein": 13,
+   "fat": 18,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    4,
+    "adet",
+    "yumurta"
+   ],
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    1,
+    "adet",
+    "soğan (isteğe bağlı)"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "pul biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Biberleri soteleyin",
+    "Tereyağında ince doğranmış biberleri (ve varsa soğanı) yumuşayana kadar soteleyin."
+   ],
+   [
+    "Domatesi ekleyin",
+    "Rendelenmiş domatesi ekleyip suyunu salıp çekene kadar pişirin."
+   ],
+   [
+    "Tatlandırın",
+    "Tuz ve pul biberle tatlandırın."
+   ],
+   [
+    "Yumurtaları kırın",
+    "Yumurtaları doğrudan tavaya kırın."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte, yumurta akı pişip sarısı kıvamında kalana kadar hafifçe karıştırarak pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🍳"
+ },
+ {
+  "id": 40,
+  "name": "Çılbır",
+  "category": "Kahvaltı",
+  "description": "Sirkeli suda poşe edilen yumurtanın sarımsaklı yoğurt üzerine yerleştirilip tereyağlı pul biber sosuyla taçlandırıldığı zarif bir kahvaltı lezzeti.",
+  "image": "images/cilbir.jpg",
+  "calories": 280,
+  "difficulty": "Orta",
+  "time": 18,
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "pairs": "Ekmek",
+  "tags": [
+   "Kahvaltılık",
+   "Şık Sunum",
+   "Klasik",
+   "Kahvaltı"
+  ],
+  "chef": "Suyu kaynatmadan hafif fokurdatmak ve yumurtayı kabına kırıp suya yavaşça bırakmak, düzgün bir poşe yumurta verir.",
+  "nutri": {
+   "carb": 6,
+   "protein": 15,
+   "fat": 20,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    4,
+    "adet",
+    "yumurta"
+   ],
+   [
+    300,
+    "g",
+    "yoğurt"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "yk",
+    "sirke"
+   ],
+   [
+    30,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Yoğurdu hazırlayın",
+    "Yoğurdu ezilmiş sarımsak ve tuzla karıştırıp oda sıcaklığına getirin."
+   ],
+   [
+    "Suyu hazırlayın",
+    "Geniş bir tencerede suyu sirkeyle birlikte hafif fokurdatın."
+   ],
+   [
+    "Yumurtayı poşe edin",
+    "Her yumurtayı küçük bir kaba kırıp suyun içine yavaşça bırakın, 3 dakika pişirin."
+   ],
+   [
+    "Süzün",
+    "Yumurtaları delikli kepçeyle alıp süzün."
+   ],
+   [
+    "Yerleştirin",
+    "Sarımsaklı yoğurdu tabağa yayıp üzerine yumurtaları yerleştirin."
+   ],
+   [
+    "Sosla servis edin",
+    "Tereyağını pul biberle kızdırıp üzerine gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🍳"
+ },
+ {
+  "id": 41,
+  "name": "Kaşarlı Sahanda Yumurta",
+  "category": "Kahvaltı",
+  "description": "Tereyağında pişirilen yumurtaların üzerine kaşar peynirinin eritildiği, hızlı ve doyurucu bir kahvaltı klasiği.",
+  "image": "images/kasarli-sahanda-yumurta.jpg",
+  "calories": 295,
+  "difficulty": "Kolay",
+  "time": 13,
+  "prep": 5,
+  "cook": 8,
+  "servings": 1,
+  "pairs": "Ekmek",
+  "tags": [
+   "Kahvaltılık",
+   "Pratik",
+   "Hızlı",
+   "Kahvaltı"
+  ],
+  "chef": "Kaşarı yumurta pişerken en son eklemek, fazla sertleşmeden güzelce erimesini sağlar.",
+  "nutri": {
+   "carb": 2,
+   "protein": 17,
+   "fat": 24,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    30,
+    "g",
+    "kaşar peyniri"
+   ],
+   [
+    1,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Tavayı ısıtın",
+    "Küçük bir sahanda tereyağını eritin."
+   ],
+   [
+    "Yumurtaları kırın",
+    "Yumurtaları tavaya kırıp kısık ateşte pişirin."
+   ],
+   [
+    "Kaşarı ekleyin",
+    "Yumurta akı pişmeye başlayınca üzerine dilimlenmiş kaşarı ekleyin."
+   ],
+   [
+    "Servis edin",
+    "Kaşar eriyince tuz ve karabiber serperek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍳"
+ },
+ {
+  "id": 42,
+  "name": "Sucuklu Yumurta",
+  "category": "Kahvaltı",
+  "description": "Dilimlenmiş sucuğun yağını salana kadar kavrulup üzerine yumurta kırılarak pişirildiği, Türk kahvaltısının vazgeçilmezi.",
+  "image": "images/sucuklu-yumurta.jpg",
+  "calories": 340,
+  "difficulty": "Kolay",
+  "time": 15,
+  "prep": 5,
+  "cook": 10,
+  "servings": 2,
+  "pairs": "Ekmek",
+  "tags": [
+   "Kahvaltılık",
+   "Pratik",
+   "Klasik",
+   "Kahvaltı"
+  ],
+  "chef": "Sucuğu önce kendi yağında kavurmak, hem yumurtaya lezzet katar hem de fazla yağ eklemeyi gereksiz kılar.",
+  "nutri": {
+   "carb": 2,
+   "protein": 18,
+   "fat": 27,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    100,
+    "g",
+    "sucuk"
+   ],
+   [
+    4,
+    "adet",
+    "yumurta"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Sucuğu kavurun",
+    "Dilimlenmiş sucuğu tavada yağını salana kadar kavurun."
+   ],
+   [
+    "Yumurtaları kırın",
+    "Yumurtaları doğrudan tavaya kırın."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte yumurta akı pişip sarısı kıvamında kalana kadar pişirin."
+   ],
+   [
+    "Servis edin",
+    "Karabiber serperek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍳"
+ },
+ {
+  "id": 43,
+  "name": "Bal Kaymak",
+  "category": "Kahvaltı",
+  "description": "Kaymağın üzerine gezdirilen balın, kahvaltı sofralarına şıklık katan basit ama zengin ikilisi.",
+  "image": "images/bal-kaymak.jpg",
+  "calories": 310,
+  "difficulty": "Kolay",
+  "time": 5,
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "pairs": "Sıcak ekmek, ceviz",
+  "tags": [
+   "Kahvaltılık",
+   "Pratik",
+   "Klasik",
+   "Kahvaltı"
+  ],
+  "chef": "Kaymağı servisten hemen önce tabaklamak, dokusunun en iyi halini korumasını sağlar.",
+  "nutri": {
+   "carb": 24,
+   "protein": 4,
+   "fat": 20,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    150,
+    "g",
+    "kaymak"
+   ],
+   [
+    4,
+    "yk",
+    "bal"
+   ],
+   [
+    1,
+    "yk",
+    "ceviz içi (isteğe bağlı)"
+   ]
+  ],
+  "steps": [
+   [
+    "Tabaklayın",
+    "Kaymağı düz bir tabağa nazikçe yayın."
+   ],
+   [
+    "Balı gezdirin",
+    "Üzerine bol miktarda balı gezdirin."
+   ],
+   [
+    "Servis edin",
+    "İsteğe bağlı kırılmış cevizle süsleyip sıcak ekmekle servis edin."
+   ]
+  ],
+  "emo": "🍯"
+ },
+ {
+  "id": 44,
+  "name": "Çilekli Yulaf",
+  "category": "Kahvaltı",
+  "description": "Yulaf ve yoğurdun bir gece dinlendirilip taze çileklerle katmanlandığı, pratik ve doyurucu bir kavanoz kahvaltısı.",
+  "image": "images/cilekli-yulaf-kavanozu.jpg",
+  "calories": 285,
+  "difficulty": "Kolay",
+  "time": 10,
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Bal, granola",
+  "tags": [
+   "Sağlıklı",
+   "Pratik",
+   "Overnight",
+   "Kahvaltı"
+  ],
+  "chef": "Yulafı bir gece önceden hazırlamak, sabah tokluk hissi veren hazır bir kahvaltı sunar.",
+  "nutri": {
+   "carb": 42,
+   "protein": 10,
+   "fat": 8,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    200,
+    "g",
+    "yulaf ezmesi"
+   ],
+   [
+    400,
+    "ml",
+    "süt"
+   ],
+   [
+    200,
+    "g",
+    "yoğurt"
+   ],
+   [
+    2,
+    "yk",
+    "bal"
+   ],
+   [
+    1,
+    "tk",
+    "vanilya"
+   ],
+   [
+    250,
+    "g",
+    "taze çilek"
+   ]
+  ],
+  "steps": [
+   [
+    "Karışımı hazırlayın",
+    "Yulaf, süt, yoğurt, bal ve vanilyayı bir kapta karıştırın."
+   ],
+   [
+    "Dinlendirin",
+    "Karışımı buzdolabında en az 4 saat, tercihen bir gece bekletin."
+   ],
+   [
+    "Çilekleri hazırlayın",
+    "Çilekleri yıkayıp dilimleyin."
+   ],
+   [
+    "Kavanozlara paylaştırın",
+    "Yulaf karışımını kavanozlara paylaştırıp üzerine çilek dilimleri yerleştirin."
+   ],
+   [
+    "Servis edin",
+    "Soğuk olarak servis edin."
+   ]
+  ],
+  "emo": "🥣"
+ },
+ {
+  "id": 45,
+  "name": "Ayran",
+  "category": "İçecekler",
+  "description": "Yoğurdun su ve tuzla çırpılarak köpürtüldüğü, Türk mutfağının serinletici ve besleyici geleneksel içeceği.",
+  "image": "images/ayran.jpg",
+  "calories": 75,
+  "difficulty": "Kolay",
+  "time": 5,
+  "prep": 5,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Kebap, pide",
+  "tags": [
+   "Klasik",
+   "Serinletici",
+   "Pratik",
+   "İçecekler"
+  ],
+  "chef": "Ayranı blenderdan geçirmek, ev yapımı olsa bile pürüzsüz ve köpüklü bir doku kazandırır.",
+  "nutri": {
+   "carb": 6,
+   "protein": 4,
+   "fat": 3,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "yoğurt"
+   ],
+   [
+    500,
+    "ml",
+    "soğuk su"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Karıştırın",
+    "Yoğurdu bir kaba alıp telle iyice ezin."
+   ],
+   [
+    "Su ekleyin",
+    "Soğuk suyu azar azar ekleyerek çırpın."
+   ],
+   [
+    "Köpürtün",
+    "Blender veya çırpıcıyla köpürene kadar çırpın."
+   ],
+   [
+    "Tatlandırın",
+    "Tuzu ekleyip karıştırın."
+   ],
+   [
+    "Servis edin",
+    "Buzla soğuk servis edin."
+   ]
+  ],
+  "emo": "🥤"
+ },
+ {
+  "id": 46,
+  "name": "Türk Kahvesi",
+  "category": "İçecekler",
+  "description": "İnce çekilmiş kahvenin cezvede yavaşça pişirilerek köpüğüyle birlikte fincana alındığı, misafirperverliğin simgesi geleneksel içecek.",
+  "image": "images/turk-kahvesi.jpg",
+  "calories": 5,
+  "difficulty": "Orta",
+  "time": 10,
+  "prep": 5,
+  "cook": 5,
+  "servings": 1,
+  "pairs": "Lokum, su",
+  "tags": [
+   "Geleneksel",
+   "Sıcak İçecek",
+   "Klasik",
+   "İçecekler"
+  ],
+  "chef": "Kahveyi kısık ateşte, sürekli izleyerek pişirmek köpüğün taşmadan oluşmasını sağlar.",
+  "nutri": {
+   "carb": 1,
+   "protein": 0,
+   "fat": 0,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    1,
+    "fincan",
+    "su"
+   ],
+   [
+    1,
+    "tk",
+    "Türk kahvesi"
+   ],
+   [
+    1,
+    "tk",
+    "toz şeker (isteğe bağlı)"
+   ]
+  ],
+  "steps": [
+   [
+    "Ölçün",
+    "Fincan ile suyu cezveye ölçüp dökün."
+   ],
+   [
+    "Kahveyi ekleyin",
+    "Kahve ve isteğe bağlı şekeri ekleyip karıştırın."
+   ],
+   [
+    "Pişirin",
+    "Cezveyi kısık ateşe alıp karıştırmadan yavaşça ısıtın."
+   ],
+   [
+    "Köpürtün",
+    "Köpük oluşmaya başlayınca köpüğü fincana alın, cezveyi tekrar ocağa koyup kalanını da az kaynatın."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "☕"
+ },
+ {
+  "id": 47,
+  "name": "Limonata",
+  "category": "İçecekler",
+  "description": "Taze sıkılmış limon suyunun şeker şurubu ve nane ile buluştuğu, ferahlatıcı ve doğal bir yaz içeceği.",
+  "image": "images/limonata.jpg",
+  "calories": 90,
+  "difficulty": "Kolay",
+  "time": 10,
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Nane yaprağı",
+  "tags": [
+   "Serinletici",
+   "Doğal",
+   "Pratik",
+   "İçecekler"
+  ],
+  "chef": "Limon kabuğunu az miktarda rendeleyip eklemek, aromayı belirgin şekilde artırır.",
+  "nutri": {
+   "carb": 23,
+   "protein": 0,
+   "fat": 0,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    6,
+    "adet",
+    "limon"
+   ],
+   [
+    150,
+    "g",
+    "toz şeker"
+   ],
+   [
+    1,
+    "l",
+    "su"
+   ],
+   [
+    1,
+    "dal",
+    "nane"
+   ]
+  ],
+  "steps": [
+   [
+    "Şurubu hazırlayın",
+    "Şeker ile eşit miktarda suyu kaynatıp şeffaflaşana kadar karıştırın, soğutun."
+   ],
+   [
+    "Limonları sıkın",
+    "Limonların suyunu sıkıp çekirdeklerini ayıklayın."
+   ],
+   [
+    "Karıştırın",
+    "Limon suyu, şuruplu su ve kalan suyu bir sürahide birleştirin."
+   ],
+   [
+    "Naneyi ekleyin",
+    "Taze nane yapraklarını ekleyip hafifçe ezin."
+   ],
+   [
+    "Servis edin",
+    "Bol buzla soğuk servis edin."
+   ]
+  ],
+  "emo": "🍋"
+ },
+ {
+  "id": 48,
+  "name": "Sahlep",
+  "category": "İçecekler",
+  "description": "Sahlep tozunun sütle pişirilerek koyulaştırıldığı, üzerine tarçın serpilen sıcak ve kıvamlı bir kış içeceği.",
+  "image": "images/sahlep.jpg",
+  "calories": 210,
+  "difficulty": "Kolay",
+  "time": 15,
+  "prep": 5,
+  "cook": 10,
+  "servings": 2,
+  "pairs": "Tarçın",
+  "tags": [
+   "Kış İçeceği",
+   "Sıcak",
+   "Geleneksel",
+   "İçecekler"
+  ],
+  "chef": "Sahlebi sürekli karıştırarak pişirmek, dibe yapışmasını ve topaklanmasını önler.",
+  "nutri": {
+   "carb": 28,
+   "protein": 6,
+   "fat": 8,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    500,
+    "ml",
+    "süt"
+   ],
+   [
+    1,
+    "yk",
+    "sahlep tozu"
+   ],
+   [
+    2,
+    "yk",
+    "toz şeker"
+   ],
+   [
+    0,
+    "",
+    "tarçın"
+   ]
+  ],
+  "steps": [
+   [
+    "Karıştırın",
+    "Sahlep tozunu birkaç yemek kaşığı soğuk sütle topaksız karıştırın."
+   ],
+   [
+    "Isıtın",
+    "Kalan sütü tencerede ısıtıp şekeri ekleyin."
+   ],
+   [
+    "Ekleyin",
+    "Sahlep karışımını yavaşça ekleyip sürekli karıştırın."
+   ],
+   [
+    "Pişirin",
+    "Kısık ateşte, koyulaşana kadar 8-10 dakika karıştırarak pişirin."
+   ],
+   [
+    "Servis edin",
+    "Fincanlara paylaştırıp üzerine tarçın serperek sıcak servis edin."
+   ]
+  ],
+  "emo": "☕"
+ },
+ {
+  "id": 49,
+  "name": "Şalgam Suyu",
+  "category": "İçecekler",
+  "description": "Kırmızı havuç ve şalgamın fermente edilerek ekşi ve baharatlı bir tada kavuştuğu, adana mutfağının karakteristik içeceği.",
+  "image": null,
+  "calories": 35,
+  "difficulty": "Orta",
+  "time": 20,
+  "prep": 20,
+  "cook": 0,
+  "servings": 6,
+  "pairs": "Acılı, buz",
+  "tags": [
+   "Fermente",
+   "Geleneksel",
+   "Ekşi",
+   "İçecekler"
+  ],
+  "chef": "Fermantasyon süresini oda sıcaklığına göre ayarlamak, ekşilik derecesini istediğiniz gibi kontrol etmenizi sağlar.",
+  "nutri": {
+   "carb": 8,
+   "protein": 1,
+   "fat": 0,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    1,
+    "kg",
+    "kırmızı havuç"
+   ],
+   [
+    500,
+    "g",
+    "şalgam"
+   ],
+   [
+    200,
+    "g",
+    "bulgur unu"
+   ],
+   [
+    1,
+    "adet",
+    "ekşi maya (önceki şalgamdan)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "acı biber (isteğe bağlı)"
+   ]
+  ],
+  "steps": [
+   [
+    "Sebzeleri hazırlayın",
+    "Havuç ve şalgamı temizleyip iri parçalar halinde doğrayın."
+   ],
+   [
+    "Haşlayın",
+    "Bol suda yumuşayana kadar haşlayıp suyuyla birlikte blenderdan geçirin."
+   ],
+   [
+    "Bulguru ekleyin",
+    "Bulgur ununu ekleyip iyice karıştırın."
+   ],
+   [
+    "Mayalandırın",
+    "Ekşi mayayı ve tuzu ekleyip geniş ağızlı bir kapta oda sıcaklığında 3-4 gün fermente olmaya bırakın."
+   ],
+   [
+    "Süzün",
+    "Karışımı tülbentten süzüp şişelere doldurun."
+   ],
+   [
+    "Servis edin",
+    "Buzla, isteğe bağlı acı biber ilavesiyle soğuk servis edin."
+   ]
+  ],
+  "emo": "🥤"
+ },
+ {
+  "id": 50,
+  "name": "Zerdeçallı Altın Süt",
+  "category": "İçecekler",
+  "description": "Zerdeçal, zencefil ve tarçının sıcak sütle kaynatıldığı, karabiberle desteklenen, dünyada 'golden milk' olarak bilinen bir sağlık içeceği.",
+  "image": "images/zerdecalli-altin-sut.jpg",
+  "calories": 120,
+  "difficulty": "Kolay",
+  "time": 13,
+  "prep": 5,
+  "cook": 8,
+  "servings": 2,
+  "pairs": "Bal",
+  "tags": [
+   "Sağlıklı",
+   "Sıcak İçecek",
+   "Dünya Mutfağı",
+   "İçecekler"
+  ],
+  "chef": "Zerdeçalın içindeki kurkuminin vücutta emilimi, bir tutam karabiber eklendiğinde belirgin şekilde artar.",
+  "nutri": {
+   "carb": 14,
+   "protein": 6,
+   "fat": 5,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "ml",
+    "süt (ya da bitkisel süt)"
+   ],
+   [
+    1,
+    "tk",
+    "zerdeçal tozu"
+   ],
+   [
+    0.5,
+    "tk",
+    "toz zencefil"
+   ],
+   [
+    1,
+    "tutam",
+    "tarçın"
+   ],
+   [
+    1,
+    "tutam",
+    "karabiber"
+   ],
+   [
+    1,
+    "yk",
+    "bal"
+   ]
+  ],
+  "steps": [
+   [
+    "Karıştırın",
+    "Sütü küçük bir tencereye alıp zerdeçal, zencefil, tarçın ve karabiberi ekleyin."
+   ],
+   [
+    "Isıtın",
+    "Karışımı kısık ateşte, kaynatmadan sürekli karıştırarak ısıtın."
+   ],
+   [
+    "Pişirin",
+    "5-8 dakika kısık ateşte tutarak aromaların karışmasını sağlayın."
+   ],
+   [
+    "Tatlandırın",
+    "Ocaktan alıp ılıdıktan sonra balı ekleyin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak olarak fincanlara paylaştırıp servis edin."
+   ]
+  ],
+  "emo": "🥛"
+ },
+ {
+  "id": 51,
+  "name": "Humus",
+  "category": "Atıştırmalıklar",
+  "description": "Haşlanmış nohutun tahin, limon ve sarımsakla pürüzsüz bir kıvama getirildiği, Akdeniz mutfağının besleyici mezesi.",
+  "image": "images/humus.jpg",
+  "calories": 220,
+  "difficulty": "Kolay",
+  "time": 10,
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "pairs": "Lavaş, sebze çubukları",
+  "tags": [
+   "Vejetaryen",
+   "Meze",
+   "Sağlıklı",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Nohutları kabuklarından ayırmak (ovarak), humusun daha pürüzsüz ve kadife gibi olmasını sağlar.",
+  "nutri": {
+   "carb": 18,
+   "protein": 8,
+   "fat": 13,
+   "fiber": 5
+  },
+  "ingredients": [
+   [
+    400,
+    "g",
+    "haşlanmış nohut"
+   ],
+   [
+    3,
+    "yk",
+    "tahin"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    1,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "kimyon"
+   ]
+  ],
+  "steps": [
+   [
+    "Nohutu hazırlayın",
+    "Haşlanmış nohutları biraz suyunu ayırarak süzün."
+   ],
+   [
+    "Blenderdan geçirin",
+    "Nohut, tahin, limon suyu, sarımsak ve zeytinyağını blenderda pürüzsüz olana kadar çekin."
+   ],
+   [
+    "Kıvamını ayarlayın",
+    "Gerekirse ayrılan nohut suyundan ekleyerek kıvamını ayarlayın."
+   ],
+   [
+    "Tatlandırın",
+    "Tuz ve kimyonla tatlandırın."
+   ],
+   [
+    "Servis edin",
+    "Üzerine zeytinyağı gezdirip lavaşla servis edin."
+   ]
+  ],
+  "emo": "🧆"
+ },
+ {
+  "id": 52,
+  "name": "Mücver",
+  "category": "Atıştırmalıklar",
+  "description": "Rendelenmiş kabağın yumurta ve unla harmanlanıp tavada kızartıldığı, dışı çıtır içi yumuşak bir sebzeli köfte.",
+  "image": "images/mucver.jpg",
+  "calories": 240,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "pairs": "Yoğurt",
+  "tags": [
+   "Vejetaryen",
+   "Pratik",
+   "Kızartma",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Rendelenmiş kabağı tuzlayıp 10 dakika bekleterek suyunu sıkmak, mücverin yağ çekmesini azaltır.",
+  "nutri": {
+   "carb": 18,
+   "protein": 9,
+   "fat": 15,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "kabak"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    4,
+    "yk",
+    "un"
+   ],
+   [
+    50,
+    "g",
+    "beyaz peynir"
+   ],
+   [
+    1,
+    "demet",
+    "dereotu"
+   ],
+   [
+    100,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Kabağı hazırlayın",
+    "Kabağı rendeleyip tuzlayın, 10 dakika bekletip suyunu sıkın."
+   ],
+   [
+    "Harcı hazırlayın",
+    "Kabağa yumurta, un, ufalanmış peynir ve kıyılmış dereotunu ekleyip karıştırın."
+   ],
+   [
+    "Kızartın",
+    "Kızgın yağda kaşık kaşık alarak her tarafı altın rengini alana kadar kızartın."
+   ],
+   [
+    "Süzün",
+    "Kağıt havlu üzerinde fazla yağını süzün."
+   ],
+   [
+    "Servis edin",
+    "Yoğurtla sıcak servis edin."
+   ]
+  ],
+  "emo": "🥞"
+ },
+ {
+  "id": 53,
+  "name": "Patates Kroket",
+  "category": "Atıştırmalıklar",
+  "description": "Haşlanmış patates püresinin kaşar peyniriyle doldurulup galeta ununa bulanarak kızartıldığı, çıtır ve dolgun bir atıştırmalık.",
+  "image": "images/patates-kroket.jpg",
+  "calories": 310,
+  "difficulty": "Kolay",
+  "time": 40,
+  "prep": 25,
+  "cook": 15,
+  "servings": 6,
+  "pairs": "Ketçap, mayonez",
+  "tags": [
+   "Çıtır",
+   "Kızartma",
+   "Pratik",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Kroketleri şekillendirdikten sonra 15 dakika dondurucuda bekletmek, kızartırken dağılmasını önler.",
+  "nutri": {
+   "carb": 30,
+   "protein": 8,
+   "fat": 17,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    800,
+    "g",
+    "patates"
+   ],
+   [
+    100,
+    "g",
+    "kaşar peyniri"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    100,
+    "g",
+    "un"
+   ],
+   [
+    150,
+    "g",
+    "galeta unu"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Patatesi haşlayın",
+    "Patatesleri haşlayıp ezerek pürüzsüz bir püre elde edin, tuzunu ekleyin."
+   ],
+   [
+    "Şekil verin",
+    "Avuç içi büyüklüğünde parçalar alıp ortasına küp kaşar koyarak yuvarlayın."
+   ],
+   [
+    "Bulayın",
+    "Kroketleri sırasıyla un, çırpılmış yumurta ve galeta ununa bulayın."
+   ],
+   [
+    "Dinlendirin",
+    "15 dakika buzdolabında veya dondurucuda dinlendirin."
+   ],
+   [
+    "Kızartın",
+    "Kızgın yağda altın rengini alana kadar kızartın."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🥔"
+ },
+ {
+  "id": 54,
+  "name": "Falafel",
+  "category": "Atıştırmalıklar",
+  "description": "Nohut ve baharatların bir araya getirilip yuvarlanarak kızartıldığı, Orta Doğu mutfağının çıtır ve baharatlı köftesi.",
+  "image": "images/falafel.jpg",
+  "calories": 250,
+  "difficulty": "Orta",
+  "time": 30,
+  "prep": 20,
+  "cook": 10,
+  "servings": 6,
+  "pairs": "Humus, lavaş",
+  "tags": [
+   "Dünya Mutfağı",
+   "Vejetaryen",
+   "Baharatlı",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Nohutları haşlamak yerine bir gece ıslatıp çiğ kullanmak, falafelin dağılmadan kalmasını ve gerçek dokusunu sağlar.",
+  "nutri": {
+   "carb": 22,
+   "protein": 10,
+   "fat": 12,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    300,
+    "g",
+    "kuru nohut (ıslatılmış, çiğ)"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    3,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    1,
+    "tk",
+    "kimyon"
+   ],
+   [
+    1,
+    "tk",
+    "kişniş tozu"
+   ],
+   [
+    2,
+    "yk",
+    "un"
+   ],
+   [
+    1,
+    "tk",
+    "kabartma tozu"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Nohutu ıslatın",
+    "Kuru nohutu bir gece önceden bol suda ıslatın, süzün (haşlamayın)."
+   ],
+   [
+    "Karışımı hazırlayın",
+    "Nohut, soğan, sarımsak ve maydanozu robotta kaba çekin."
+   ],
+   [
+    "Baharatlayın",
+    "Kimyon, kişniş, un, kabartma tozu ve tuzu ekleyip karıştırın."
+   ],
+   [
+    "Dinlendirin",
+    "Karışımı 30 dakika buzdolabında dinlendirin."
+   ],
+   [
+    "Şekil verin",
+    "Küçük toplar halinde yuvarlayın."
+   ],
+   [
+    "Kızartın",
+    "Kızgın yağda altın rengini alana kadar kızartıp servis edin."
+   ]
+  ],
+  "emo": "🧆"
+ },
+ {
+  "id": 55,
+  "name": "Zeytinyağlı Yaprak Sarma",
+  "category": "Atıştırmalıklar",
+  "description": "Asma yapraklarının pirinç, kuru üzüm ve baharatlarla doldurulup ağır ateşte pişirildiği, soğuk servis edilen ince işçilikli bir meze.",
+  "image": "images/zeytinyagli-yaprak-sarma.jpg",
+  "calories": 195,
+  "difficulty": "Zor",
+  "time": 85,
+  "prep": 45,
+  "cook": 40,
+  "servings": 8,
+  "pairs": "Limon, yoğurt",
+  "tags": [
+   "Zeytinyağlı",
+   "Emek İster",
+   "Vejetaryen",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Sarmaları çok sıkı sarmamak, pirincin pişerken genişlemesi için yer bırakır.",
+  "nutri": {
+   "carb": 28,
+   "protein": 4,
+   "fat": 9,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    40,
+    "adet",
+    "asma yaprağı (turşusu)"
+   ],
+   [
+    1.5,
+    "su bardağı",
+    "pirinç"
+   ],
+   [
+    2,
+    "adet",
+    "soğan"
+   ],
+   [
+    50,
+    "g",
+    "kuru üzüm"
+   ],
+   [
+    30,
+    "g",
+    "çam fıstığı"
+   ],
+   [
+    100,
+    "ml",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "toz şeker"
+   ],
+   [
+    1,
+    "tk",
+    "karabiber"
+   ],
+   [
+    1,
+    "tk",
+    "yenibahar"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ]
+  ],
+  "steps": [
+   [
+    "Yaprakları hazırlayın",
+    "Asma yapraklarını kaynar suda 1 dakika haşlayıp tuzunu giderin."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Soğanı zeytinyağında kavurup pirinç, kuru üzüm ve çam fıstığını ekleyin, baharatları ilave edin."
+   ],
+   [
+    "Doldurun",
+    "Her yaprağın ortasına az miktarda harç koyup sıkıca sarın."
+   ],
+   [
+    "Dizin",
+    "Sarmaları tencereye sıkı sıkıya dizin."
+   ],
+   [
+    "Pişirin",
+    "Üzerine su, zeytinyağı ve limon suyu gezdirip ağırlık koyarak kısık ateşte 35-40 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Soğuduktan sonra servis edin."
+   ]
+  ],
+  "emo": "🍇"
+ },
+ {
+  "id": 56,
+  "name": "Peynirli Sigara Böreği (Fırında)",
+  "category": "Atıştırmalıklar",
+  "description": "Yufka içine sarılan peynirli harcın kızartma yerine fırında pişirildiği, daha hafif bir çıtır atıştırmalık versiyonu.",
+  "image": "images/peynirli-sigara-boregi.jpg",
+  "calories": 260,
+  "difficulty": "Kolay",
+  "time": 40,
+  "prep": 20,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Çay",
+  "tags": [
+   "Fırın",
+   "Hafif",
+   "Peynirli",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Yufkaların üzerine fırınlamadan önce ince bir tabaka sıvı yağ sürmek, kızartmaya yakın bir çıtırlık verir.",
+  "nutri": {
+   "carb": 26,
+   "protein": 10,
+   "fat": 12,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    10,
+    "adet",
+    "yufka"
+   ],
+   [
+    200,
+    "g",
+    "beyaz peynir"
+   ],
+   [
+    1,
+    "demet",
+    "maydanoz"
+   ],
+   [
+    3,
+    "yk",
+    "sıvı yağ"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Harcı hazırlayın",
+    "Beyaz peyniri ezip kıyılmış maydanoz ve karabiberle karıştırın."
+   ],
+   [
+    "Yufkaları kesin",
+    "Yufkaları üçgen parçalara bölün."
+   ],
+   [
+    "Doldurun",
+    "Her parçaya harç koyup sıkıca sarın."
+   ],
+   [
+    "Yağlayın",
+    "Fırın tepsisine dizip üzerlerine ince bir tabaka sıvı yağ sürün."
+   ],
+   [
+    "Fırınlayın",
+    "200°C fırında altın rengini alana kadar 15-18 dakika pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 57,
+  "name": "Bruschetta (Domates ve Krem Peynirli)",
+  "category": "Atıştırmalıklar",
+  "description": "Kızarmış ekmek dilimlerinin krem peynir, taze kiraz domates ve fesleğenle süslendiği, İtalyan mutfağından zarif bir başlangıç.",
+  "image": "images/brusetta-domates-krem-peynir.jpg",
+  "calories": 185,
+  "difficulty": "Kolay",
+  "time": 20,
+  "prep": 15,
+  "cook": 5,
+  "servings": 4,
+  "pairs": "Beyaz şarap sirkesi, zeytinyağı",
+  "tags": [
+   "Dünya Mutfağı",
+   "Hafif",
+   "Pratik",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Ekmeği kızartırken bir diş sarımsakla ovmak, klasik bruşetta aromasının anahtarıdır.",
+  "nutri": {
+   "carb": 20,
+   "protein": 6,
+   "fat": 9,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    8,
+    "dilim",
+    "baget ekmeği"
+   ],
+   [
+    150,
+    "g",
+    "krem peynir"
+   ],
+   [
+    250,
+    "g",
+    "kiraz domates"
+   ],
+   [
+    1,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "demet",
+    "taze fesleğen"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "balzamik sirke"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Ekmeği kızartın",
+    "Baget dilimlerini fırında veya tavada her iki tarafı da hafif altın rengini alana kadar kızartın."
+   ],
+   [
+    "Sarımsakla ovun",
+    "Sıcak dilimleri kesilmiş sarımsak dişiyle hafifçe ovun."
+   ],
+   [
+    "Domatesleri hazırlayın",
+    "Kiraz domatesleri ikiye bölüp zeytinyağı ve tuzla harmanlayın."
+   ],
+   [
+    "Krem peyniri sürün",
+    "Her dilime bir kaşık krem peynir sürün."
+   ],
+   [
+    "Üzerini donatın",
+    "Domatesleri ve fesleğen yapraklarını üzerine yerleştirin."
+   ],
+   [
+    "Servis edin",
+    "Balzamik sirke gezdirerek hemen servis edin."
+   ]
+  ],
+  "emo": "🍞"
+ },
+ {
+  "id": 58,
+  "name": "Az Pişirilmiş Ton Balığı",
+  "category": "Atıştırmalıklar",
+  "description": "Sushi kalite ton balığının kızgın tavada birkaç saniye mühürlenip merkezi rare bırakıldığı, soy-susam soslu şık bir başlangıç.",
+  "image": "images/az-pisirilmis-ton-baligi.jpg",
+  "calories": 210,
+  "difficulty": "Orta",
+  "time": 18,
+  "prep": 15,
+  "cook": 3,
+  "servings": 2,
+  "pairs": "Soya sosu, wasabi",
+  "tags": [
+   "Dünya Mutfağı",
+   "Deniz Ürünü",
+   "Şık Sunum",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Rare bir merkez için tonu yalnızca sushi kalite/dondurularak parazit riski giderilmiş balıktan seçin ve her yüzünü 30-60 saniye mühürleyin.",
+  "nutri": {
+   "carb": 4,
+   "protein": 28,
+   "fat": 8,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    300,
+    "g",
+    "sushi kalite ton balığı (bütün parça)"
+   ],
+   [
+    1,
+    "yk",
+    "susam"
+   ],
+   [
+    1,
+    "yk",
+    "soya sosu"
+   ],
+   [
+    1,
+    "adet",
+    "limon"
+   ],
+   [
+    1,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "taze filiz (mikrogreen)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Hazırlayın",
+    "Ton balığını oda sıcaklığına getirip kağıt havluyla iyice kurulayın."
+   ],
+   [
+    "Baharatlayın",
+    "Tuz serpip isteğe bağlı susamla hafifçe kaplayın."
+   ],
+   [
+    "Tavayı ısıtın",
+    "Zeytinyağını çok sıcak bir tavada dumanı tütene kadar kızdırın."
+   ],
+   [
+    "Mühürleyin",
+    "Ton balığını her yüzünde 30-45 saniye, sadece dışı renk değiştirecek şekilde mühürleyin."
+   ],
+   [
+    "Dilimleyin",
+    "Keskin bir bıçakla ince dilimleyin, merkezin canlı pembe kalmasına dikkat edin."
+   ],
+   [
+    "Servis edin",
+    "Limon dilimleri ve soya sosuyla, mikrogreen ile süsleyerek hemen servis edin."
+   ]
+  ],
+  "emo": "🍣"
+ },
+ {
+  "id": 59,
+  "name": "Taze İstiridye (Limon ve Mignonette Soslu)",
+  "category": "Atıştırmalıklar",
+  "description": "Kabuğunda servis edilen taze istiridyelerin limon ve sirkeli mignonette sosuyla buluştuğu, şık bir deniz ürünleri başlangıcı.",
+  "image": "images/taze-istiridye.jpg",
+  "calories": 70,
+  "difficulty": "Orta",
+  "time": 15,
+  "prep": 15,
+  "cook": 0,
+  "servings": 2,
+  "pairs": "Beyaz şarap",
+  "tags": [
+   "Dünya Mutfağı",
+   "Deniz Ürünü",
+   "Şık Sunum",
+   "Atıştırmalıklar"
+  ],
+  "chef": "İstiridyeleri açmadan hemen önce buzda soğutmak, hem güvenlik hem de en taze tadı garantiler.",
+  "nutri": {
+   "carb": 4,
+   "protein": 8,
+   "fat": 2,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    12,
+    "adet",
+    "taze istiridye (kabuklu)"
+   ],
+   [
+    2,
+    "yk",
+    "kırmızı şarap sirkesi"
+   ],
+   [
+    1,
+    "adet",
+    "küçük soğan (mor)"
+   ],
+   [
+    1,
+    "adet",
+    "limon"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    0,
+    "",
+    "buz (servis için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Sosu hazırlayın",
+    "Kırmızı şarap sirkesi, ince kıyılmış mor soğan ve karabiberi karıştırıp mignonette sosunu hazırlayın."
+   ],
+   [
+    "İstiridyeleri temizleyin",
+    "İstiridyelerin kabuklarını soğuk su altında fırçayla temizleyin."
+   ],
+   [
+    "Açın",
+    "Özel bir bıçakla istiridyeleri dikkatlice açıp alt kabuğunda tutarak sıvısını dökmeyin."
+   ],
+   [
+    "Tabaklayın",
+    "Buz dolu bir tepsiye istiridyeleri yerleştirin."
+   ],
+   [
+    "Servis edin",
+    "Yanına limon dilimleri ve mignonette sosuyla hemen servis edin."
+   ]
+  ],
+  "emo": "🦪"
+ },
+ {
+  "id": 60,
+  "name": "İçli Köfte",
+  "category": "Ana Yemekler",
+  "description": "İnce bulgur hamurundan kabuğun içine baharatlı ceviz-kıyma harcı doldurulup kızartıldığı, Güneydoğu mutfağının emek isteyen köftesi.",
+  "image": "images/icli-kofte.jpg",
+  "calories": 385,
+  "difficulty": "Zor",
+  "time": 65,
+  "prep": 45,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Yoğurt, limon",
+  "tags": [
+   "Emek İster",
+   "Bulgurlu",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "Dış hamuru yoğururken arada ıslak elle bastırmak, çatlamadan ince açılmasını kolaylaştırır.",
+  "nutri": {
+   "carb": 34,
+   "protein": 16,
+   "fat": 20,
+   "fiber": 5
+  },
+  "ingredients": [
+   [
+    2,
+    "su bardağı",
+    "ince bulgur"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    3,
+    "yk",
+    "un"
+   ],
+   [
+    300,
+    "g",
+    "kıyma"
+   ],
+   [
+    2,
+    "adet",
+    "soğan"
+   ],
+   [
+    50,
+    "g",
+    "ceviz içi"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Dış hamuru hazırlayın",
+    "İnce bulguru sıcak suyla ıslatıp salça ve unu ekleyerek elastik bir hamur elde edene kadar yoğurun."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Kıyma ve ince doğranmış soğanı yağsız bir tavada kavurup kıyılmış ceviz, pul biber ve karabiberi ekleyin."
+   ],
+   [
+    "Şekil verin",
+    "Bulgur hamurundan ceviz büyüklüğünde parçalar alıp avucunuzda yassı bir kabuk haline getirin."
+   ],
+   [
+    "Doldurun",
+    "Kabuğun ortasına iç harcı koyup kenarlarını kapatarak oval bir şekil verin, uçlarını sivriltin."
+   ],
+   [
+    "Kızartın",
+    "Kızgın yağda altın rengini alana kadar kızartın; dilerseniz kaynar suda haşlayarak da pişirebilirsiniz."
+   ],
+   [
+    "Servis edin",
+    "Sıcak ya da ılık, yanında limon dilimiyle servis edin."
+   ]
+  ],
+  "emo": "🥙"
+ },
+ {
+  "id": 61,
+  "name": "İskender Kebap",
+  "category": "Ana Yemekler",
+  "description": "Küp doğranmış pide üzerine dilimlenmiş dönerin, sıcak domates sosu ve kızgın tereyağıyla taçlandırıldığı Bursa'nın meşhur kebabı.",
+  "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80",
+  "calories": 620,
+  "difficulty": "Orta",
+  "time": 35,
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "pairs": "Ayran",
+  "tags": [
+   "Klasik",
+   "Doyurucu",
+   "Misafir Sofrası",
+   "Ana Yemekler"
+  ],
+  "chef": "Domates sosunu servisten hemen önce kaynar halde dökmek, pidenin diri kalmasını sağlar.",
+  "nutri": {
+   "carb": 38,
+   "protein": 32,
+   "fat": 34,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "yaprak et (döner usulü pişmiş)"
+   ],
+   [
+    2,
+    "adet",
+    "pide ekmeği"
+   ],
+   [
+    300,
+    "g",
+    "yoğurt"
+   ],
+   [
+    3,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    60,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber (közlenmiş)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Pideyi hazırlayın",
+    "Pideyi küp küp doğrayıp geniş bir servis tabağına yayın."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Rendelenmiş domatesleri salça ile birlikte kısık ateşte 10 dakika kaynatarak sos hazırlayın."
+   ],
+   [
+    "Eti ısıtın",
+    "Dilimlenmiş eti sıcak bir tavada birkaç dakika ısıtın."
+   ],
+   [
+    "Katmanlayın",
+    "Pide küplerinin üzerine sıcak eti yerleştirin."
+   ],
+   [
+    "Sosla ve tereyağıyla kapatın",
+    "Üzerine kaynar domates sosunu, yanına yoğurdu ekleyin; tereyağını dumanı çıkana kadar kızdırıp en son gezdirin."
+   ],
+   [
+    "Servis edin",
+    "Közlenmiş biber ve domatesle süsleyerek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍖"
+ },
+ {
+  "id": 62,
+  "name": "Kuzu Güveç",
+  "category": "Ana Yemekler",
+  "description": "Kuzu etinin arpacık soğan ve sebzelerle birlikte güveç kabında ağır ateşte kendi suyunda pişirildiği, kış aylarının doyurucu klasiği.",
+  "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+  "calories": 455,
+  "difficulty": "Orta",
+  "time": 110,
+  "prep": 20,
+  "cook": 90,
+  "servings": 4,
+  "pairs": "Pilav, ekmek",
+  "tags": [
+   "Güveç",
+   "Doyurucu",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "Güveci kapalı pişirmek, etin kendi buharında yumuşamasını ve suyunu kaybetmemesini sağlar.",
+  "nutri": {
+   "carb": 14,
+   "protein": 30,
+   "fat": 26,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    600,
+    "g",
+    "kuzu kuşbaşı"
+   ],
+   [
+    200,
+    "g",
+    "arpacık soğan"
+   ],
+   [
+    3,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    1,
+    "adet",
+    "yeşil biber"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    30,
+    "g",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti mühürleyin",
+    "Kuzu etini sıcak tereyağında yüksek ateşte her tarafı renk alana kadar mühürleyin."
+   ],
+   [
+    "Sebzeleri ekleyin",
+    "Arpacık soğan ve sarımsakları ekleyip birkaç dakika daha kavurun."
+   ],
+   [
+    "Güveç kabına aktarın",
+    "Et ve soğanları güveç kabına alıp üzerine dilimlenmiş domates ve biberi dizin."
+   ],
+   [
+    "Salçalı suyu ekleyin",
+    "Salçayı az suyla açıp güvecin üzerine gezdirin, tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Kapalı pişirin",
+    "Güvecin kapağını kapatıp 160°C fırında 1.5 saat, et yumuşayana kadar pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak, kabında servis edin."
+   ]
+  ],
+  "emo": "🍲"
+ },
+ {
+  "id": 63,
+  "name": "Tas Kebabı",
+  "category": "Ana Yemekler",
+  "description": "Kuşbaşı etin patates ve havuçla birlikte salçalı sosta pişirildiği, ev sofralarının pratik ve doyurucu güveç yemeği.",
+  "image": "images/tas-kebabi.jpg",
+  "calories": 390,
+  "difficulty": "Kolay",
+  "time": 65,
+  "prep": 15,
+  "cook": 50,
+  "servings": 4,
+  "pairs": "Pilav",
+  "tags": [
+   "Pratik",
+   "Ev Yapımı",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Eti önce kendi suyunu salıp çekene kadar pişirmek, ardından sote etmek lezzeti yoğunlaştırır.",
+  "nutri": {
+   "carb": 20,
+   "protein": 26,
+   "fat": 18,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    600,
+    "g",
+    "dana kuşbaşı"
+   ],
+   [
+    2,
+    "adet",
+    "patates"
+   ],
+   [
+    1,
+    "adet",
+    "havuç"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    2,
+    "yk",
+    "sıvı yağ"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti pişirin",
+    "Kuşbaşı eti bir tencerede kendi suyunu salıp çekene kadar kısık ateşte pişirin."
+   ],
+   [
+    "Soteleyin",
+    "Sıvı yağı ekleyip eti mühürleyecek şekilde sotelemeye devam edin."
+   ],
+   [
+    "Sebzeleri ekleyin",
+    "Doğranmış soğan ve sarımsağı ekleyip yumuşayana kadar kavurun."
+   ],
+   [
+    "Salçayı ekleyin",
+    "Salçayı ilave edip birkaç dakika kavurun, ardından küp doğranmış patates ve havucu ekleyin."
+   ],
+   [
+    "Pişirin",
+    "Sıcak su ekleyip kısık ateşte malzemeler yumuşayana kadar 30-35 dakika pişirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin."
+   ]
+  ],
+  "emo": "🥘"
+ },
+ {
+  "id": 64,
+  "name": "Zeytinyağlı Enginar",
+  "category": "Atıştırmalıklar",
+  "description": "Enginar kalplerinin havuç-bezelye garnitürüyle doldurulup zeytinyağında ağır pişirildiği, soğuk servis edilen zarif bir meze.",
+  "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=800&q=80",
+  "calories": 145,
+  "difficulty": "Orta",
+  "time": 50,
+  "prep": 25,
+  "cook": 25,
+  "servings": 4,
+  "pairs": "Limon, ekmek",
+  "tags": [
+   "Zeytinyağlı",
+   "Meze",
+   "Vejetaryen",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Enginarları hazırlarken kesilen yüzeyleri limonlu suya batırmak kararmalarını önler.",
+  "nutri": {
+   "carb": 16,
+   "protein": 4,
+   "fat": 8,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    4,
+    "adet",
+    "enginar (temizlenmiş)"
+   ],
+   [
+    1,
+    "adet",
+    "havuç"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "bezelye"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    4,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    1,
+    "dal",
+    "dereotu"
+   ]
+  ],
+  "steps": [
+   [
+    "Garnitürü hazırlayın",
+    "Soğanı zeytinyağında kavurup küp doğranmış havuç ve bezelyeyi ekleyin, birkaç dakika soteleyin."
+   ],
+   [
+    "Enginarları yerleştirin",
+    "Temizlenmiş enginarları geniş bir tencereye dizin."
+   ],
+   [
+    "Doldurun",
+    "Her enginarın ortasına garnitür harcını yerleştirin."
+   ],
+   [
+    "Sıvıyı ekleyin",
+    "Üzerine limon suyu, kalan zeytinyağı ve enginarların yarısını geçecek kadar su ekleyin."
+   ],
+   [
+    "Pişirin",
+    "Kapağı kapatıp kısık ateşte enginarlar yumuşayana kadar 20-25 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Soğuduktan sonra üzerine dereotu serperek servis edin."
+   ]
+  ],
+  "emo": "🌿"
+ },
+ {
+  "id": 65,
+  "name": "Fırın Sütlaç",
+  "category": "Tatlılar",
+  "description": "Sütlü pirinç karışımının küçük güveç kaplarında, üzeri benek benek kızarana kadar fırınlandığı sütlacın tam pişmiş, yoğun kıvamlı hâli.",
+  "image": "images/firinda-sutlac.jpg",
+  "calories": 270,
+  "difficulty": "Kolay",
+  "time": 55,
+  "prep": 10,
+  "cook": 45,
+  "servings": 6,
+  "pairs": "Tarçın",
+  "tags": [
+   "Süt Tatlısı",
+   "Fırın",
+   "Klasik",
+   "Tatlılar"
+  ],
+  "chef": "Kapları su dolu bir fırın tepsisine (benmari) yerleştirmek, sütlacın alttan yanmadan eşit pişmesini sağlar.",
+  "nutri": {
+   "carb": 40,
+   "protein": 7,
+   "fat": 7,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    1,
+    "l",
+    "süt"
+   ],
+   [
+    0.5,
+    "çay bardağı",
+    "pirinç"
+   ],
+   [
+    1,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    2,
+    "yk",
+    "nişasta"
+   ],
+   [
+    1,
+    "tk",
+    "vanilya"
+   ]
+  ],
+  "steps": [
+   [
+    "Pirinci haşlayın",
+    "Pirinci az suda yumuşayana kadar önceden haşlayın."
+   ],
+   [
+    "Sütü ekleyin",
+    "Haşlanmış pirincin üzerine sütü ekleyip kaynatın."
+   ],
+   [
+    "Koyulaştırın",
+    "Şeker ve suda ezilmiş nişastayı ekleyip karıştırarak hafifçe koyulaşana kadar pişirin, vanilyayı ekleyin."
+   ],
+   [
+    "Kaplara paylaştırın",
+    "Küçük fırın kaplarına eşit şekilde paylaştırın."
+   ],
+   [
+    "Benmaride fırınlayın",
+    "Kapları su dolu bir fırın tepsisine yerleştirip 200°C fırında üzeri benekli kızarana kadar 30-35 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Soğuduktan sonra buzdolabında birkaç saat dinlendirip servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 66,
+  "name": "Baklava",
+  "category": "Tatlılar",
+  "description": "İnce yufka katmanlarının bol ceviz ya da Antep fıstığıyla doldurulup dilimlenerek pişirildiği, şerbetle taçlandırılan Türk mutfağının vitrin tatlısı.",
+  "image": "images/baklava.jpg",
+  "calories": 420,
+  "difficulty": "Zor",
+  "time": 80,
+  "prep": 45,
+  "cook": 35,
+  "servings": 12,
+  "pairs": "Kaymak, Türk kahvesi",
+  "tags": [
+   "Şerbetli",
+   "Emek İster",
+   "Misafir Sofrası",
+   "Tatlılar"
+  ],
+  "chef": "Yufkaların arasına sürülen tereyağını fazla kaçırmadan ince bir tabaka halinde sürmek, katmanların net ayrışmasını sağlar.",
+  "nutri": {
+   "carb": 48,
+   "protein": 6,
+   "fat": 24,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    20,
+    "adet",
+    "baklavalık yufka"
+   ],
+   [
+    250,
+    "g",
+    "tereyağı (eritilmiş)"
+   ],
+   [
+    300,
+    "g",
+    "ceviz içi veya Antep fıstığı (dövülmüş)"
+   ],
+   [
+    500,
+    "g",
+    "toz şeker (şerbet için)"
+   ],
+   [
+    500,
+    "ml",
+    "su (şerbet için)"
+   ],
+   [
+    1,
+    "yk",
+    "limon suyu (şerbet için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Şerbeti hazırlayın",
+    "Şeker ve suyu kaynatıp limon suyu ekleyin, 10 dakika kaynattıktan sonra soğumaya bırakın."
+   ],
+   [
+    "Tepsiyi hazırlayın",
+    "Yağlanmış fırın tepsisine yufkaları tek tek serip aralarına eritilmiş tereyağı sürün."
+   ],
+   [
+    "Fıstığı ekleyin",
+    "Yaklaşık yarısına geldiğinizde dövülmüş ceviz veya fıstığı eşit şekilde serpin, üzerine kalan yufkaları aynı şekilde dizmeye devam edin."
+   ],
+   [
+    "Dilimleyin",
+    "Fırınlamadan önce keskin bir bıçakla baklava dilimlerini kesin."
+   ],
+   [
+    "Fırınlayın",
+    "180°C fırında üzeri altın rengini alana kadar 30-35 dakika pişirin."
+   ],
+   [
+    "Şerbetleyin",
+    "Fırından çıkan sıcak baklavanın üzerine soğuk şerbeti yavaşça gezdirin, emmesi için bekletip servis edin."
+   ]
+  ],
+  "emo": "🍯"
+ },
+ {
+  "id": 67,
+  "name": "Köfte Piyaz",
+  "category": "Ana Yemekler",
+  "description": "Izgara köftenin ekşimsi kuru fasulye piyazıyla bir tabakta buluştuğu, esnaf lokantalarının klasik ikili sunumu.",
+  "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=800&q=80",
+  "calories": 480,
+  "difficulty": "Kolay",
+  "time": 35,
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "pairs": "Ekmek, közlenmiş biber",
+  "tags": [
+   "Klasik",
+   "Doyurucu",
+   "Esnaf Usulü",
+   "Ana Yemekler"
+  ],
+  "chef": "Köfte harcını pişirmeden en az 15 dakika dinlendirmek, ızgarada dağılmasını önler.",
+  "nutri": {
+   "carb": 28,
+   "protein": 30,
+   "fat": 24,
+   "fiber": 8
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "yk",
+    "galeta unu"
+   ],
+   [
+    400,
+    "g",
+    "haşlanmış kuru fasulye"
+   ],
+   [
+    1,
+    "adet",
+    "mor soğan"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "adet",
+    "limon (suyu)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    1,
+    "dal",
+    "maydanoz"
+   ]
+  ],
+  "steps": [
+   [
+    "Köfte harcını hazırlayın",
+    "Kıymayı rendelenmiş soğan, galeta unu, tuz ve karabiberle yoğurup köfte şekli verin."
+   ],
+   [
+    "Dinlendirin",
+    "Köfteleri 15 dakika buzdolabında dinlendirin."
+   ],
+   [
+    "Izgara yapın",
+    "Köfteleri sıcak ızgara veya tavada her iki tarafını da pişirin."
+   ],
+   [
+    "Piyazı hazırlayın",
+    "Haşlanmış fasulyeyi ince doğranmış mor soğan, zeytinyağı, limon suyu ve tuzla harmanlayın."
+   ],
+   [
+    "Tabaklayın",
+    "Köfteleri ve piyazı aynı tabakta yan yana yerleştirin."
+   ],
+   [
+    "Servis edin",
+    "Maydanozla süsleyerek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍖"
+ },
+ {
+  "id": 68,
+  "name": "Tavuklu Sezar Salata",
+  "category": "Salatalar",
+  "description": "Izgara tavuk, marul ve kruton ekmeğin kremamsı Sezar sosuyla buluştuğu, hem hafif hem doyurucu bir salata klasiği.",
+  "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+  "calories": 380,
+  "difficulty": "Kolay",
+  "time": 27,
+  "prep": 15,
+  "cook": 12,
+  "servings": 2,
+  "pairs": "Kızarmış ekmek",
+  "tags": [
+   "Dünya Mutfağı",
+   "Doyurucu",
+   "Pratik",
+   "Salatalar"
+  ],
+  "chef": "Tavuğu pişirdikten sonra birkaç dakika dinlendirmek, dilimlerken suyunu kaybetmemesini sağlar.",
+  "nutri": {
+   "carb": 16,
+   "protein": 34,
+   "fat": 20,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    1,
+    "adet",
+    "tavuk göğsü"
+   ],
+   [
+    1,
+    "adet",
+    "marul (iri yapraklı)"
+   ],
+   [
+    1,
+    "su bardağı",
+    "kruton ekmek"
+   ],
+   [
+    40,
+    "g",
+    "parmesan peyniri"
+   ],
+   [
+    3,
+    "yk",
+    "sezar sos"
+   ],
+   [
+    1,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Tavuğu pişirin",
+    "Tavuk göğsünü tuz ve karabiberle tatlandırıp zeytinyağlı tavada her iki tarafını da pişirin."
+   ],
+   [
+    "Dinlendirip dilimleyin",
+    "Tavuğu birkaç dakika dinlendirip ince dilimleyin."
+   ],
+   [
+    "Marulu hazırlayın",
+    "Marul yapraklarını yıkayıp iri parçalar halinde koparın."
+   ],
+   [
+    "Karıştırın",
+    "Marul, kruton ve tavuk dilimlerini geniş bir kasede birleştirin."
+   ],
+   [
+    "Sosla buluşturun",
+    "Sezar sosu ekleyip nazikçe karıştırın."
+   ],
+   [
+    "Servis edin",
+    "Üzerine rendelenmiş parmesan serperek servis edin."
+   ]
+  ],
+  "emo": "🥗"
+ },
+ {
+  "id": 69,
+  "name": "Spagetti Bolognese",
+  "category": "Ana Yemekler",
+  "description": "Kıymalı domates sosunun uzun süre kaynatılarak koyulaştırıldığı, spagetti üzerine servis edilen İtalyan mutfağı klasiği.",
+  "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
+  "calories": 520,
+  "difficulty": "Kolay",
+  "time": 50,
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "pairs": "Rendelenmiş parmesan, İtalyan otları",
+  "tags": [
+   "Dünya Mutfağı",
+   "Doyurucu",
+   "Klasik",
+   "Ana Yemekler"
+  ],
+  "chef": "Sosu ne kadar uzun ve kısık ateşte kaynatırsanız, lezzeti o kadar derinleşir — en az 30 dakika ayırın.",
+  "nutri": {
+   "carb": 58,
+   "protein": 24,
+   "fat": 16,
+   "fiber": 4
+  },
+  "ingredients": [
+   [
+    400,
+    "g",
+    "spagetti"
+   ],
+   [
+    250,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    2,
+    "adet",
+    "domates"
+   ],
+   [
+    2,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Makarnayı haşlayın",
+    "Spagettiyi tuzlu kaynar suda paketin önerdiği süre kadar al dente haşlayın."
+   ],
+   [
+    "Soteleyin",
+    "Zeytinyağında soğan ve sarımsağı kavurup kıymayı ekleyin, rengi dönene kadar pişirin."
+   ],
+   [
+    "Sosu hazırlayın",
+    "Rendelenmiş domates ve salçayı ekleyip karıştırın."
+   ],
+   [
+    "Kaynatın",
+    "Kısık ateşte, karıştırarak 25-30 dakika koyulaşana kadar pişirin, tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Birleştirin",
+    "Süzülmüş makarnayı sosla harmanlayın veya makarnanın üzerine sosu dökün."
+   ],
+   [
+    "Servis edin",
+    "Rendelenmiş parmesanla servis edin."
+   ]
+  ],
+  "emo": "🍝"
+ },
+ {
+  "id": 70,
+  "name": "Somon Izgara",
+  "category": "Ana Yemekler",
+  "description": "Somon filetonun limon, zeytinyağı ve biberiyeyle marine edilip hızlıca ızgara edildiği, sade ve pratik bir günlük ana yemek.",
+  "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+  "calories": 310,
+  "difficulty": "Kolay",
+  "time": 20,
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "pairs": "Zeytinyağlı sebze, limon",
+  "tags": [
+   "Pratik",
+   "Hafif",
+   "Deniz Ürünü",
+   "Ana Yemekler"
+  ],
+  "chef": "Somonu marine ederken 15 dakikadan fazla bekletmeyin; limonun asidi balığın dokusunu fazla yumuşatabilir.",
+  "nutri": {
+   "carb": 1,
+   "protein": 30,
+   "fat": 20,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    2,
+    "dilim",
+    "somon fileto"
+   ],
+   [
+    1,
+    "adet",
+    "limon"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "dal",
+    "taze biberiye"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Marine edin",
+    "Somon dilimlerini zeytinyağı, limon suyu, tuz, karabiber ve biberiyeyle 10-15 dakika marine edin."
+   ],
+   [
+    "Tavayı ısıtın",
+    "Döküm tava veya ızgarayı yüksek ateşte iyice ısıtın."
+   ],
+   [
+    "Izgara yapın",
+    "Somonu her iki tarafını da 4-5 dakika, dışı hafif kızarana kadar pişirin."
+   ],
+   [
+    "Dinlendirin",
+    "Servisten önce 1-2 dakika dinlendirin."
+   ],
+   [
+    "Servis edin",
+    "Üzerine taze biberiye ve limon dilimiyle servis edin."
+   ]
+  ],
+  "emo": "🐟"
+ },
+ {
+  "id": 71,
+  "name": "Tavuk Göğsü Tatlısı",
+  "category": "Tatlılar",
+  "description": "İnce didiklenmiş tavuk göğsü liflerinin şekerli süt karışımına karıştırılıp pişirildiği, dokusuyla şaşırtan otantik bir Osmanlı mutfağı tatlısı.",
+  "image": "images/tavuk-gogsu-tatlisi.jpg",
+  "calories": 285,
+  "difficulty": "Zor",
+  "time": 65,
+  "prep": 40,
+  "cook": 25,
+  "servings": 8,
+  "pairs": "Tarçın",
+  "tags": [
+   "Osmanlı Mutfağı",
+   "Otantik",
+   "Emek İster",
+   "Tatlılar"
+  ],
+  "chef": "Tavuk göğsü lifleri ne kadar ince didiklenip dövülürse, tatlının dokusu o kadar pürüzsüz ve ipeksi olur; tuzu iyice arındırmak lezzeti nötr tutar.",
+  "nutri": {
+   "carb": 36,
+   "protein": 6,
+   "fat": 9,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    150,
+    "g",
+    "haşlanmış tavuk göğsü (kemiksiz, derisiz)"
+   ],
+   [
+    1,
+    "l",
+    "süt"
+   ],
+   [
+    1,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    70,
+    "g",
+    "pirinç unu"
+   ],
+   [
+    30,
+    "g",
+    "nişasta"
+   ],
+   [
+    1,
+    "tk",
+    "vanilya"
+   ]
+  ],
+  "steps": [
+   [
+    "Tavuğu hazırlayın",
+    "Tavuk göğsünü tuzsuz suda iyice haşlayıp soğutun, ardından elle mümkün olduğunca ince lifler halinde didikleyin."
+   ],
+   [
+    "Dövün",
+    "Didiklenmiş lifleri bir havanda ya da oklava ile dövüp iyice inceltin, gerekirse birkaç kez suda durulayıp sıkarak et kokusunu arındırın."
+   ],
+   [
+    "Karışımı hazırlayın",
+    "Süt, şeker, pirinç unu ve nişastayı bir tencerede topaksız karıştırın."
+   ],
+   [
+    "Pişirin",
+    "Karışımı orta ateşte sürekli karıştırarak koyulaşmaya başlayana kadar pişirin."
+   ],
+   [
+    "Tavuğu ekleyin",
+    "Didiklenmiş tavuk liflerini ekleyip karıştırarak pürüzsüz ve homojen bir kıvam alana kadar pişirmeye devam edin."
+   ],
+   [
+    "Kalıba dökün ve soğutun",
+    "Vanilyayı ekleyip yağlanmış bir tepsiye dökün, soğuduktan sonra dilimleyip tarçınla servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 72,
+  "name": "Zeytinyağlı Barbunya",
+  "category": "Atıştırmalıklar",
+  "description": "Taze barbunya fasulyesinin havuç ve patatesle birlikte zeytinyağında ağır pişirildiği, soğuk servis edilen hafif bir meze.",
+  "image": "images/zeytinyagli-barbunya.jpg",
+  "calories": 175,
+  "difficulty": "Kolay",
+  "time": 50,
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "pairs": "Ekmek",
+  "tags": [
+   "Zeytinyağlı",
+   "Meze",
+   "Vejetaryen",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Barbunyayı fazla pişirmemek, tanelerin dağılmadan bütünlüğünü korumasını sağlar.",
+  "nutri": {
+   "carb": 20,
+   "protein": 6,
+   "fat": 7,
+   "fiber": 6
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "taze barbunya fasulyesi"
+   ],
+   [
+    1,
+    "adet",
+    "havuç"
+   ],
+   [
+    1,
+    "adet",
+    "patates"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    1,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "toz şeker"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Sebzeleri soteleyin",
+    "Soğanı zeytinyağında kavurup küp doğranmış havuç ve patatesi ekleyin."
+   ],
+   [
+    "Salçayı ekleyin",
+    "Domates salçasını ilave edip birkaç dakika kavurun."
+   ],
+   [
+    "Barbunyayı ekleyin",
+    "Ayıklanmış barbunyayı ekleyip karıştırın."
+   ],
+   [
+    "Pişirin",
+    "Üzerini geçecek kadar sıcak su, şeker ve tuz ekleyip kısık ateşte 30-35 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Oda sıcaklığına gelince veya soğuk olarak servis edin."
+   ]
+  ],
+  "emo": "🫘"
+ },
+ {
+  "id": 73,
+  "name": "Kalamar Tava",
+  "category": "Atıştırmalıklar",
+  "description": "Halka doğranmış kalamarın una bulanıp kızgın yağda çıtır çıtır kızartıldığı, tarator sosla servis edilen meyhane klasiği.",
+  "image": "images/kalamar-tava.jpg",
+  "calories": 340,
+  "difficulty": "Orta",
+  "time": 30,
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "pairs": "Tarator sos, limon",
+  "tags": [
+   "Deniz Ürünü",
+   "Kızartma",
+   "Meze",
+   "Atıştırmalıklar"
+  ],
+  "chef": "Kalamarı yalnızca 2-3 dakika kızartmak yeterlidir; fazla pişirilirse lastik gibi sertleşir.",
+  "nutri": {
+   "carb": 18,
+   "protein": 20,
+   "fat": 16,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "halka doğranmış kalamar"
+   ],
+   [
+    1,
+    "tk",
+    "karbonat"
+   ],
+   [
+    1,
+    "çk",
+    "toz şeker"
+   ],
+   [
+    150,
+    "g",
+    "un"
+   ],
+   [
+    200,
+    "ml",
+    "maden suyu"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Kalamarı hazırlayın",
+    "Kalamar halkalarını karbonat ve şekerle ovup 10-15 dakika bekletin, ardından durulayın."
+   ],
+   [
+    "Una bulayın",
+    "Kalamarları kuru una bulayıp fazlasını silkeleyin."
+   ],
+   [
+    "Kızartın",
+    "Kızgın bol yağda halkaları 2-3 dakika, altın rengini alana kadar kızartın."
+   ],
+   [
+    "Süzün",
+    "Kağıt havlu üzerinde fazla yağını süzün."
+   ],
+   [
+    "Servis edin",
+    "Tuzunu serpip tarator sos ve limonla sıcak servis edin."
+   ]
+  ],
+  "emo": "🦑"
+ },
+ {
+  "id": 74,
+  "name": "Kuzu Şiş",
+  "category": "Ana Yemekler",
+  "description": "Kuzu etinin zeytinyağı ve kekikle marine edilip şişe dizilerek ızgara edildiği, sıcak lavaşla servis edilen sade ve lezzetli bir mangal klasiği.",
+  "image": "images/kuzu-sis.jpg",
+  "calories": 410,
+  "difficulty": "Orta",
+  "time": 35,
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "pairs": "Lavaş, közlenmiş sebze",
+  "tags": [
+   "Mangal",
+   "Klasik",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Eti pişirmeden en az 2 saat önce marine etmek, hem yumuşaklığı hem lezzeti belirgin şekilde artırır.",
+  "nutri": {
+   "carb": 4,
+   "protein": 32,
+   "fat": 26,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    600,
+    "g",
+    "kuzu şişlik et"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    1,
+    "tk",
+    "kekik"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    2,
+    "adet",
+    "lavaş ekmeği"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Eti marine edin",
+    "Kuşbaşı doğranmış kuzu etini zeytinyağı, kekik, tuz ve karabiberle harmanlayıp buzdolabında en az 2 saat dinlendirin."
+   ],
+   [
+    "Şişe dizin",
+    "Marine edilmiş etleri metal şişlere sıkıca dizin."
+   ],
+   [
+    "Izgara yapın",
+    "Kor ateşte veya döküm tavada şişleri çevirerek her tarafı eşit pişecek şekilde 12-15 dakika ızgara edin."
+   ],
+   [
+    "Dinlendirin",
+    "Şişleri ateşten alıp 2-3 dakika dinlendirin."
+   ],
+   [
+    "Servis edin",
+    "Sıcak lavaş ve közlenmiş sebzelerle servis edin."
+   ]
+  ],
+  "emo": "🍢"
+ },
+ {
+  "id": 75,
+  "name": "Çikolatalı Sufle",
+  "category": "Tatlılar",
+  "description": "Dışı pişmiş, ortası akışkan kalan bitter çikolatalı sufle — kaşıklandığı anda içinden sıcak çikolatanın aktığı, restoran usulü şık bir tatlı.",
+  "image": "images/cikolatali-sufle.jpg",
+  "calories": 410,
+  "difficulty": "Orta",
+  "time": 24,
+  "prep": 15,
+  "cook": 9,
+  "servings": 4,
+  "pairs": "Vanilyalı dondurma",
+  "tags": [
+   "Çikolatalı",
+   "Şık Sunum",
+   "Fırın",
+   "Tatlılar"
+  ],
+  "chef": "Kalıpları önceden tereyağlayıp hafif şekerleyerek kaplamak, pişen suflenin kalıptan kolayca ayrılmasını sağlar.",
+  "nutri": {
+   "carb": 32,
+   "protein": 6,
+   "fat": 24,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    100,
+    "g",
+    "bitter çikolata"
+   ],
+   [
+    100,
+    "g",
+    "tereyağı"
+   ],
+   [
+    3,
+    "adet",
+    "yumurta"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    0.5,
+    "su bardağı",
+    "un"
+   ],
+   [
+    0,
+    "",
+    "bir tutam tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Fırını ısıtın",
+    "Fırını 200°C'ye ayarlayıp ısıtın; kalıpları tereyağlayıp hafifçe şekerleyin."
+   ],
+   [
+    "Çikolatayı eritin",
+    "Bitter çikolata ve tereyağını benmari usulü ya da mikrodalgada eritin."
+   ],
+   [
+    "Yumurtaları çırpın",
+    "Yumurta, şeker ve tuzu hafifçe köpürene kadar çırpın."
+   ],
+   [
+    "Birleştirin",
+    "Eritilmiş çikolatayı yumurta karışımına ekleyip karıştırın, ardından unu eleyerek ilave edin."
+   ],
+   [
+    "Kalıplara doldurun",
+    "Karışımı hazırlanan kalıplara paylaştırın."
+   ],
+   [
+    "Fırınlayın",
+    "200°C fırında tam 9 dakika pişirin — kenarları pişmiş, ortası akışkan kalmalı; fırından çıkar çıkmaz servis edin."
+   ]
+  ],
+  "emo": "🍫"
+ },
+ {
+  "id": 76,
+  "name": "Fettuccine Alfredo",
+  "category": "Ana Yemekler",
+  "description": "Tavuk ve mantarın kremalı sosla buluşup parmesanla zenginleştirildiği, fettuccine makarnası üzerine servis edilen doyurucu bir İtalyan mutfağı klasiği.",
+  "image": "images/fettuccine-alfredo.jpg",
+  "calories": 620,
+  "difficulty": "Kolay",
+  "time": 35,
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Sarımsaklı ekmek",
+  "tags": [
+   "Dünya Mutfağı",
+   "Kremalı",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Kremayı kısık ateşte, kaynatmadan hafifçe koyulaştırmak, sosun kesilmeden pürüzsüz kalmasını sağlar.",
+  "nutri": {
+   "carb": 58,
+   "protein": 32,
+   "fat": 26,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    400,
+    "g",
+    "fettuccine"
+   ],
+   [
+    300,
+    "g",
+    "tavuk göğsü"
+   ],
+   [
+    100,
+    "g",
+    "mantar"
+   ],
+   [
+    200,
+    "ml",
+    "sıvı krema"
+   ],
+   [
+    50,
+    "g",
+    "parmesan peyniri"
+   ],
+   [
+    2,
+    "yk",
+    "tereyağı"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Makarnayı haşlayın",
+    "Fettuccineyi tuzlu kaynar suda paketin önerdiği süre kadar al dente haşlayın."
+   ],
+   [
+    "Tavuğu soteleyin",
+    "Küp doğranmış tavuk göğsünü tereyağında rengi dönene kadar soteleyin."
+   ],
+   [
+    "Mantarı ekleyin",
+    "Dilimlenmiş mantarları ekleyip suyunu salıp çekene kadar pişirin."
+   ],
+   [
+    "Kremayı ekleyin",
+    "Kremayı ilave edip kısık ateşte hafifçe koyulaşana kadar karıştırın."
+   ],
+   [
+    "Peyniri ekleyin",
+    "Rendelenmiş parmesanı ekleyip eritin, tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Birleştirip servis edin",
+    "Süzülmüş makarnayı sosla harmanlayıp sıcak servis edin."
+   ]
+  ],
+  "emo": "🍝"
+ },
+ {
+  "id": 77,
+  "name": "San Sebastian Cheesecake",
+  "category": "Tatlılar",
+  "description": "Kabuksuz, yüksek ısıda pişirilerek üzeri kasıtlı olarak yanık bırakılan, içi kremsi ve hafif sıvı kalan İspanyol usulü modern cheesecake.",
+  "image": "images/san-sebastian.jpg",
+  "calories": 430,
+  "difficulty": "Orta",
+  "time": 60,
+  "prep": 15,
+  "cook": 45,
+  "servings": 8,
+  "pairs": "Kırmızı meyve sos",
+  "tags": [
+   "Trend",
+   "Kremalı",
+   "Fırın",
+   "Tatlılar"
+  ],
+  "chef": "Kalıbı fırınlamadan önce yağlı kağıtla kabaca, kıvrımlı şekilde kaplamak, cheesecake'in karakteristik düzensiz kenarını verir.",
+  "nutri": {
+   "carb": 26,
+   "protein": 9,
+   "fat": 34,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    600,
+    "g",
+    "krem peynir (oda sıcaklığında)"
+   ],
+   [
+    1,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    4,
+    "adet",
+    "yumurta"
+   ],
+   [
+    200,
+    "ml",
+    "krema"
+   ],
+   [
+    1,
+    "yk",
+    "un"
+   ],
+   [
+    0,
+    "",
+    "bir tutam tuz"
+   ]
+  ],
+  "steps": [
+   [
+    "Fırını ısıtın",
+    "Fırını 210°C'ye ısıtın; kelepçeli kalıbı yağlı kağıtla, kağıt kenarlardan taşacak şekilde kaplayın."
+   ],
+   [
+    "Karışımı hazırlayın",
+    "Krem peyniri şekerle pürüzsüz olana kadar çırpın."
+   ],
+   [
+    "Yumurtaları ekleyin",
+    "Yumurtaları teker teker ekleyip her seferinde iyice karıştırın."
+   ],
+   [
+    "Kremayı ve unu ekleyin",
+    "Krema, un ve tuzu ekleyip pürüzsüz bir kıvam alana kadar çırpın."
+   ],
+   [
+    "Fırınlayın",
+    "Karışımı kalıba dökün, 210°C fırında üzeri koyu kahverengiye dönene ve ortası hafif sallanana kadar 40-45 dakika pişirin."
+   ],
+   [
+    "Soğutup servis edin",
+    "Fırından çıkınca oda sıcaklığında soğutun, dilimlemeden önce birkaç saat buzdolabında dinlendirin."
+   ]
+  ],
+  "emo": "🍰"
+ },
+ {
+  "id": 78,
+  "name": "Pesto Soslu Penne",
+  "category": "Ana Yemekler",
+  "description": "Penne makarnanın fesleğenli pesto sos ve kuru domatesle harmanlandığı, hazırlaması çok hızlı bir İtalyan mutfağı lezzeti.",
+  "image": "images/pesto-soslu-penne.jpg",
+  "calories": 480,
+  "difficulty": "Kolay",
+  "time": 22,
+  "prep": 10,
+  "cook": 12,
+  "servings": 4,
+  "pairs": "Rendelenmiş parmesan",
+  "tags": [
+   "Dünya Mutfağı",
+   "Pratik",
+   "Hızlı",
+   "Ana Yemekler"
+  ],
+  "chef": "Makarnanın haşlama suyundan birkaç kaşık ayırıp pesto sosa eklemek, sosun makarnaya daha iyi sarmasını sağlar.",
+  "nutri": {
+   "carb": 62,
+   "protein": 14,
+   "fat": 20,
+   "fiber": 4
+  },
+  "ingredients": [
+   [
+    400,
+    "g",
+    "penne"
+   ],
+   [
+    3,
+    "yk",
+    "pesto sos"
+   ],
+   [
+    60,
+    "g",
+    "kuru domates"
+   ],
+   [
+    2,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    40,
+    "g",
+    "parmesan peyniri"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Makarnayı haşlayın",
+    "Penneyi tuzlu kaynar suda al dente haşlayın, bir miktar haşlama suyunu ayırın."
+   ],
+   [
+    "Kuru domatesi hazırlayın",
+    "Kuru domatesleri ince şeritler halinde doğrayın."
+   ],
+   [
+    "Tavada birleştirin",
+    "Zeytinyağını ısıtıp kuru domatesi kısaca soteleyin, pesto sosu ekleyin."
+   ],
+   [
+    "Makarnayı ekleyin",
+    "Süzülmüş makarnayı tavaya alıp harmanlayın, gerekirse haşlama suyundan ekleyin."
+   ],
+   [
+    "Tatlandırın",
+    "Tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Servis edin",
+    "Üzerine rendelenmiş parmesan serperek sıcak servis edin."
+   ]
+  ],
+  "emo": "🍝"
+ },
+ {
+  "id": 79,
+  "name": "Kayseri Mantısı",
+  "category": "Ana Yemekler",
+  "description": "Kayseri yöresine özgü, olağanüstü küçük ve sıkı kıvrımlı hazırlanan mantı türü — bir kaşığa onlarcası sığacak incelikte açılan hamuruyla ünlüdür.",
+  "image": "images/kayseri-mantisi.jpg",
+  "calories": 540,
+  "difficulty": "Zor",
+  "time": 95,
+  "prep": 75,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Ayran",
+  "tags": [
+   "Yöresel",
+   "Emek İster",
+   "Otantik",
+   "Ana Yemekler"
+  ],
+  "chef": "Hamuru olabildiğince ince açmak ve mantıları küçük tutmak Kayseri usulünün ayırt edici özelliğidir; sabırlı olun, ustalık zamanla gelir.",
+  "nutri": {
+   "carb": 56,
+   "protein": 24,
+   "fat": 22,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    3,
+    "su bardağı",
+    "un"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta"
+   ],
+   [
+    1,
+    "tk",
+    "tuz"
+   ],
+   [
+    150,
+    "ml",
+    "su"
+   ],
+   [
+    200,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    500,
+    "g",
+    "yoğurt"
+   ],
+   [
+    3,
+    "diş",
+    "sarımsak"
+   ],
+   [
+    60,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "tk",
+    "pul biber"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru yoğurun",
+    "Un, yumurta, tuz ve suyu yoğurup sert bir hamur elde edin, üzerini örtüp 30 dakika dinlendirin."
+   ],
+   [
+    "İç harcı hazırlayın",
+    "Kıymayı rendelenmiş soğan, tuz ve karabiberle karıştırın."
+   ],
+   [
+    "İncecik açın",
+    "Hamuru mümkün olduğunca ince açıp küçük, yaklaşık 1.5 cm'lik kareler halinde kesin."
+   ],
+   [
+    "Doldurup kapatın",
+    "Her karenin ortasına ufacık bir miktar harç koyup dört köşesini sıkıca birleştirin."
+   ],
+   [
+    "Haşlayın",
+    "Kaynayan tuzlu suda mantıları 6-8 dakika haşlayın."
+   ],
+   [
+    "Servis edin",
+    "Süzülmüş mantıları sarımsaklı yoğurt ve kızdırılmış pul biberli tereyağıyla sıcak servis edin."
+   ]
+  ],
+  "emo": "🥟"
+ },
+ {
+  "id": 80,
+  "name": "Profiterol",
+  "category": "Tatlılar",
+  "description": "Choux hamurundan pişirilen küçük toplara krema doldurulup üzerine sıcak çikolata sos gezdirilen, klasik bir Fransız kökenli vitrin tatlısı.",
+  "image": "images/profiterol.jpg",
+  "calories": 380,
+  "difficulty": "Orta",
+  "time": 50,
+  "prep": 25,
+  "cook": 25,
+  "servings": 8,
+  "pairs": "Ekstra çikolata sos",
+  "tags": [
+   "Fransız Mutfağı",
+   "Kremalı",
+   "Fırın",
+   "Tatlılar"
+  ],
+  "chef": "Choux hamurunu fırınlarken kapağı ilk 20 dakika kesinlikle açmayın; aksi halde toplar sönebilir.",
+  "nutri": {
+   "carb": 30,
+   "protein": 6,
+   "fat": 22,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    1,
+    "su bardağı",
+    "su"
+   ],
+   [
+    100,
+    "g",
+    "tereyağı"
+   ],
+   [
+    1,
+    "su bardağı",
+    "un"
+   ],
+   [
+    3,
+    "adet",
+    "yumurta"
+   ],
+   [
+    300,
+    "ml",
+    "krema (çırpılmış)"
+   ],
+   [
+    100,
+    "g",
+    "bitter çikolata"
+   ],
+   [
+    100,
+    "ml",
+    "süt"
+   ]
+  ],
+  "steps": [
+   [
+    "Hamuru pişirin",
+    "Su ve tereyağını kaynatıp unu ekleyerek tencerede topak haline gelene kadar karıştırın."
+   ],
+   [
+    "Yumurtaları ekleyin",
+    "Hamur ılıyınca yumurtaları teker teker ekleyip parlak, akışkan bir kıvam elde edin."
+   ],
+   [
+    "Şekil verin",
+    "Hamuru sıkma torbasına alıp fırın tepsisine küçük toplar halinde sıkın."
+   ],
+   [
+    "Fırınlayın",
+    "200°C fırında kabarıp altın rengini alana kadar 20-25 dakika pişirin, içi boş kalmalı."
+   ],
+   [
+    "Doldurun",
+    "Soğuyan topları yandan kesip çırpılmış kremayla doldurun."
+   ],
+   [
+    "Sosla servis edin",
+    "Çikolata ve sütü eritip pürüzsüz bir sos hazırlayın, topların üzerine gezdirerek servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 81,
+  "name": "Tiramisu",
+  "category": "Tatlılar",
+  "description": "Kahveye batırılmış kedi dili bisküvilerin maskarpone (ya da labne) kreması ile katmanlandığı, üzeri kakao ile taçlandırılan İtalyan mutfağı klasiği.",
+  "image": "images/tiramisu.jpg",
+  "calories": 360,
+  "difficulty": "Orta",
+  "time": 25,
+  "prep": 25,
+  "cook": 0,
+  "servings": 8,
+  "pairs": "Filtre kahve",
+  "tags": [
+   "Dünya Mutfağı",
+   "Kremalı",
+   "Kahveli",
+   "Tatlılar"
+  ],
+  "chef": "Geleneksel tarifte mascarpone kullanılır; labne kullanmak daha hafif ama yine de kremsi bir alternatiftir.",
+  "nutri": {
+   "carb": 28,
+   "protein": 7,
+   "fat": 18,
+   "fiber": 0
+  },
+  "ingredients": [
+   [
+    24,
+    "adet",
+    "kedi dili bisküvi"
+   ],
+   [
+    200,
+    "g",
+    "labne (veya mascarpone)"
+   ],
+   [
+    200,
+    "ml",
+    "krema (çırpılmış)"
+   ],
+   [
+    60,
+    "g",
+    "toz şeker"
+   ],
+   [
+    1,
+    "su bardağı",
+    "soğuk filtre kahve"
+   ],
+   [
+    2,
+    "yk",
+    "kakao"
+   ]
+  ],
+  "steps": [
+   [
+    "Kremayı hazırlayın",
+    "Labne ve şekeri pürüzsüz olana kadar çırpın, çırpılmış kremayı nazikçe katlayarak karıştırın."
+   ],
+   [
+    "Bisküvileri ıslatın",
+    "Kedi dili bisküvilerini soğuk kahveye hızlıca (fazla ıslatmadan) batırın."
+   ],
+   [
+    "Katmanlayın",
+    "Servis kabının tabanına bir kat bisküvi dizip üzerine kremadan bir kat yayın."
+   ],
+   [
+    "Tekrarlayın",
+    "Bisküvi ve krema katmanlarını kabın üstüne kadar tekrarlayın, en üstte krema kalsın."
+   ],
+   [
+    "Dinlendirin",
+    "Buzdolabında en az 4 saat, tercihen bir gece dinlendirin."
+   ],
+   [
+    "Servis edin",
+    "Servisten hemen önce üzerine kakao eleyerek servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 82,
+  "name": "Kıymalı Lazanya",
+  "category": "Ana Yemekler",
+  "description": "Kıymalı domates sosu ile beşamel sosun lazanya yaprakları arasında katmanlandığı, kaşarla kapatılıp fırınlanan doyurucu bir İtalyan mutfağı klasiği.",
+  "image": "images/kiymali-lazanya.jpg",
+  "calories": 560,
+  "difficulty": "Orta",
+  "time": 70,
+  "prep": 30,
+  "cook": 40,
+  "servings": 6,
+  "pairs": "Yeşil salata",
+  "tags": [
+   "Dünya Mutfağı",
+   "Fırın",
+   "Doyurucu",
+   "Ana Yemekler"
+  ],
+  "chef": "Katmanları dizerken en üste bolca beşamel ve kaşar bırakmak, yüzeyin güzel altın rengini almasını sağlar.",
+  "nutri": {
+   "carb": 42,
+   "protein": 28,
+   "fat": 26,
+   "fiber": 3
+  },
+  "ingredients": [
+   [
+    12,
+    "adet",
+    "lazanya yaprağı"
+   ],
+   [
+    400,
+    "g",
+    "kıyma"
+   ],
+   [
+    1,
+    "adet",
+    "soğan"
+   ],
+   [
+    2,
+    "yk",
+    "domates salçası"
+   ],
+   [
+    400,
+    "ml",
+    "domates sosu"
+   ],
+   [
+    500,
+    "ml",
+    "beşamel sos"
+   ],
+   [
+    150,
+    "g",
+    "kaşar peyniri (rendelenmiş)"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Kıymalı sosu hazırlayın",
+    "Soğanı kavurup kıymayı ekleyin, salça ve domates sosunu ilave ederek 15 dakika pişirin."
+   ],
+   [
+    "Fırını ısıtın",
+    "Fırını 190°C'ye ısıtın."
+   ],
+   [
+    "İlk katmanı yapın",
+    "Fırın kabının tabanına ince bir kat beşamel sürüp üzerine lazanya yapraklarını dizin."
+   ],
+   [
+    "Katmanlayın",
+    "Kıymalı sos, beşamel ve yaprak sırasını malzemeler bitene kadar tekrarlayın."
+   ],
+   [
+    "Üzerini kapatın",
+    "En üste bolca beşamel dökün ve rendelenmiş kaşarı serpin."
+   ],
+   [
+    "Fırınlayın",
+    "190°C fırında üzeri altın rengini alana kadar 35-40 dakika pişirin, dilimlemeden önce 10 dakika dinlendirin."
+   ]
+  ],
+  "emo": "🍝"
+ },
+ {
+  "id": 83,
+  "name": "Mac and Cheese",
+  "category": "Ana Yemekler",
+  "description": "Dirsek makarnanın cheddar ve kaşar peynirli beşamel sosla buluştuğu, çocukların da büyüklerin de sevdiği kremsi bir Amerikan mutfağı klasiği.",
+  "image": "images/mac-and-cheese.jpg",
+  "calories": 590,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "pairs": "Yeşil salata",
+  "tags": [
+   "Dünya Mutfağı",
+   "Kremalı",
+   "Pratik",
+   "Ana Yemekler"
+  ],
+  "chef": "Peyniri ateşten aldıktan sonra eklemek, sosun kesilmeden pürüzsüz kalmasını sağlar.",
+  "nutri": {
+   "carb": 58,
+   "protein": 24,
+   "fat": 28,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    350,
+    "g",
+    "dirsek makarna"
+   ],
+   [
+    200,
+    "g",
+    "cheddar peyniri (rendelenmiş)"
+   ],
+   [
+    100,
+    "g",
+    "kaşar peyniri (rendelenmiş)"
+   ],
+   [
+    40,
+    "g",
+    "tereyağı"
+   ],
+   [
+    40,
+    "g",
+    "un"
+   ],
+   [
+    500,
+    "ml",
+    "süt"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ]
+  ],
+  "steps": [
+   [
+    "Makarnayı haşlayın",
+    "Dirsek makarnayı tuzlu kaynar suda al dente haşlayıp süzün."
+   ],
+   [
+    "Beşameli başlatın",
+    "Tereyağında unu kavurup sıcak sütü azar azar ekleyerek pürüzsüz bir sos elde edin."
+   ],
+   [
+    "Koyulaştırın",
+    "Sosu karıştırarak hafifçe koyulaşana kadar kısık ateşte pişirin."
+   ],
+   [
+    "Ateşten alıp peyniri ekleyin",
+    "Ocaktan alıp cheddar ve kaşarı ekleyin, eriyene kadar karıştırın."
+   ],
+   [
+    "Birleştirin",
+    "Süzülmüş makarnayı peynirli sosla harmanlayın, tuz ve karabiberle tatlandırın."
+   ],
+   [
+    "Servis edin",
+    "Sıcak servis edin; dilerseniz fırında üzeri hafif kızarana kadar da pişirebilirsiniz."
+   ]
+  ],
+  "emo": "🧀"
+ },
+ {
+  "id": 84,
+  "name": "Muzlu Magnolia",
+  "category": "Tatlılar",
+  "description": "Vanilyalı pudingin bisküvi ve muz dilimleriyle kat kat kaplarda dizilip üzeri kremayla kapatıldığı, soğuk servis edilen katmanlı bir tatlı.",
+  "image": "images/muzlu-magnolia.jpg",
+  "calories": 340,
+  "difficulty": "Kolay",
+  "time": 30,
+  "prep": 20,
+  "cook": 10,
+  "servings": 6,
+  "pairs": "Çikolata parçacıkları",
+  "tags": [
+   "Katmanlı",
+   "Soğuk Tatlı",
+   "Pratik",
+   "Tatlılar"
+  ],
+  "chef": "Muzları servisten hemen önce dilimlemek, kararmalarını önler ve tatlının görünümünü tazeler.",
+  "nutri": {
+   "carb": 38,
+   "protein": 6,
+   "fat": 12,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    1,
+    "l",
+    "süt"
+   ],
+   [
+    1,
+    "su bardağı",
+    "toz şeker"
+   ],
+   [
+    2,
+    "yk",
+    "nişasta"
+   ],
+   [
+    2,
+    "yk",
+    "un"
+   ],
+   [
+    200,
+    "ml",
+    "krema (çırpılmış)"
+   ],
+   [
+    2,
+    "adet",
+    "muz"
+   ],
+   [
+    200,
+    "g",
+    "bisküvi"
+   ]
+  ],
+  "steps": [
+   [
+    "Pudingi pişirin",
+    "Süt, şeker, nişasta ve unu tencerede topaksız karıştırıp sürekli karıştırarak koyulaşana kadar pişirin."
+   ],
+   [
+    "Soğutun",
+    "Pudingi ocaktan alıp ılımaya bırakın, üzerine streç film kapatıp soğutun."
+   ],
+   [
+    "Kremayı ekleyin",
+    "Soğuyan pudingi çırpılmış kremayla hafifçe karıştırın."
+   ],
+   [
+    "Katmanlayın",
+    "Servis kaplarına bir kat bisküvi, bir kat muz dilimi ve bir kat puding-krema karışımı sırayla dizin."
+   ],
+   [
+    "Tekrarlayın",
+    "Katmanları kabın üstüne kadar tekrarlayın."
+   ],
+   [
+    "Dinlendirip servis edin",
+    "Buzdolabında en az 2 saat dinlendirip soğuk servis edin."
+   ]
+  ],
+  "emo": "🍮"
+ },
+ {
+  "id": 85,
+  "name": "Ev Yapımı Pizza",
+  "category": "Ana Yemekler",
+  "description": "Mayalı hamurun ev yapımı domates sosu, bol kaşar ve sucukla buluştuğu, taş fırın lezzetini mutfağa taşıyan klasik bir pizza.",
+  "image": "images/ev-yapimi-pizza.jpg",
+  "calories": 340,
+  "difficulty": "Orta",
+  "time": 48,
+  "prep": 30,
+  "cook": 18,
+  "servings": 4,
+  "pairs": "Yeşil salata, ayran",
+  "tags": [
+   "Ev Yapımı",
+   "Fırın",
+   "Pratik",
+   "Ana Yemekler"
+  ],
+  "chef": "Hamuru yoğururken fazla un eklemeden hafif yapışkan bırakmak, pişince daha yumuşak ve hafif bir kabuk verir.",
+  "nutri": {
+   "carb": 38,
+   "protein": 14,
+   "fat": 16,
+   "fiber": 2
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "un"
+   ],
+   [
+    1,
+    "paket",
+    "kuru maya"
+   ],
+   [
+    1,
+    "tk",
+    "toz şeker"
+   ],
+   [
+    1,
+    "çk",
+    "tuz"
+   ],
+   [
+    1.5,
+    "su bardağı",
+    "ılık su"
+   ],
+   [
+    3,
+    "yk",
+    "zeytinyağı"
+   ],
+   [
+    2,
+    "yk",
+    "domates salçası (sos için)"
+   ],
+   [
+    2,
+    "diş",
+    "sarımsak (sos için)"
+   ],
+   [
+    1,
+    "tk",
+    "kekik (sos için)"
+   ],
+   [
+    1,
+    "yk",
+    "zeytinyağı (sos için)"
+   ],
+   [
+    150,
+    "g",
+    "rendelenmiş kaşar peyniri"
+   ],
+   [
+    80,
+    "g",
+    "sucuk (dilimlenmiş)"
+   ],
+   [
+    1,
+    "avuç",
+    "zeytin"
+   ],
+   [
+    3,
+    "yk",
+    "mısır"
+   ],
+   [
+    1,
+    "adet",
+    "biber"
+   ]
+  ],
+  "steps": [
+   [
+    "Mayayı aktifleştirin",
+    "Kuru maya, şeker ve ılık suyu karıştırıp 5 dakika bekletin."
+   ],
+   [
+    "Hamuru yoğurup mayalandırın",
+    "Un ve tuzu ekleyip yumuşak bir hamur yoğurun, üzerini örtüp 45 dakika mayalanmaya bırakın."
+   ],
+   [
+    "Açıp tepsiye yerleştirin",
+    "Hamuru bezelere ayırıp açın, yağlanmış tepsiye dizin."
+   ],
+   [
+    "Sosu hazırlayıp sürün",
+    "Salça, ezilmiş sarımsak, kekik ve zeytinyağını karıştırıp hamurun üzerine sürün."
+   ],
+   [
+    "Malzemeleri ekleyip fırınlayın",
+    "Kaşar peyniri, sucuk, zeytin, mısır ve biberi ekleyip önceden ısıtılmış 200°C fırında 15-20 dakika pişirin."
+   ]
+  ],
+  "emo": "🍕"
+ },
+ {
+  "id": 86,
+  "name": "Pratik Milföy Börek",
+  "category": "Hamur İşleri",
+  "description": "Hazır milföy yapraklarının peynirli-maydanozlu harçla doldurulup fırınlandığı, hazırlaması çok hızlı bir çay saati klasiği.",
+  "image": "images/pratik-milfoy-borek.jpg",
+  "calories": 260,
+  "difficulty": "Kolay",
+  "time": 35,
+  "prep": 15,
+  "cook": 20,
+  "servings": 6,
+  "pairs": "Çay",
+  "tags": [
+   "Pratik",
+   "Fırın",
+   "Peynirli",
+   "Hamur İşleri"
+  ],
+  "chef": "Milföy yapraklarını orijinal katmanlı yapısını bozmadan çalışmak, pişince daha gevrek bir sonuç verir.",
+  "nutri": {
+   "carb": 24,
+   "protein": 7,
+   "fat": 15,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    6,
+    "adet",
+    "milföy hamuru (yaprak)"
+   ],
+   [
+    100,
+    "g",
+    "beyaz peynir veya lor peyniri"
+   ],
+   [
+    0.25,
+    "demet",
+    "maydanoz (ince kıyılmış)"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta sarısı"
+   ],
+   [
+    1,
+    "tk",
+    "susam veya çörek otu"
+   ]
+  ],
+  "steps": [
+   [
+    "İç harcını hazırlayın",
+    "Peynir ve maydanozu bir kapta karıştırın."
+   ],
+   [
+    "Harcı yerleştirin",
+    "Oda sıcaklığında yumuşamış milföy yapraklarının ortasına harçtan koyun."
+   ],
+   [
+    "Şekil verip kapatın",
+    "Üçgen veya dikdörtgen şeklinde kapatıp kenarlarını çatalla bastırın."
+   ],
+   [
+    "Üzerini sürün",
+    "Üzerine yumurta sarısı sürüp susam veya çörek otu serpin."
+   ],
+   [
+    "Fırınlayın",
+    "Önceden ısıtılmış 180°C fırında üzeri kızarana kadar (yaklaşık 20 dakika) pişirin."
+   ]
+  ],
+  "emo": "🥐"
+ },
+ {
+  "id": 87,
+  "name": "Çıtır Çıtır Katmer",
+  "category": "Kahvaltı",
+  "description": "İnce yufkanın kaymak, fıstık ve şekerle doldurulup zarf gibi katlanarak tavada kızartıldığı, Gaziantep'in ünlü kahvaltı tatlısı.",
+  "image": "images/citir-katmer.jpg",
+  "calories": 340,
+  "difficulty": "Orta",
+  "time": 25,
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "pairs": "Türk çayı",
+  "tags": [
+   "Gaziantep Mutfağı",
+   "Kahvaltılık",
+   "Tatlı-Tuzlu",
+   "Kahvaltı"
+  ],
+  "chef": "Katmeri tavada orta-kısık ateşte pişirmek, içindeki kaymak erimeden yufkanın iyice çıtırlaşmasını sağlar.",
+  "nutri": {
+   "carb": 30,
+   "protein": 6,
+   "fat": 22,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    2,
+    "adet",
+    "baklavalık yufka"
+   ],
+   [
+    2,
+    "yk",
+    "eritilmiş tereyağı"
+   ],
+   [
+    2,
+    "yk",
+    "toz fıstık (Antep fıstığı)"
+   ],
+   [
+    2,
+    "yk",
+    "toz şeker"
+   ],
+   [
+    2,
+    "yk",
+    "kaymak"
+   ]
+  ],
+  "steps": [
+   [
+    "Yufkayı hazırlayın",
+    "Baklavalık yufkayı tezgaha serip üzerine eritilmiş tereyağı gezdirin."
+   ],
+   [
+    "İkinci yufkayı serip kaymağı ekleyin",
+    "Üzerine ikinci yufkayı serin, ortasına küçük parçalar halinde kaymak yerleştirin."
+   ],
+   [
+    "Fıstık ve şekeri serpin",
+    "Toz fıstık ve şekeri kaymakların üzerine serpiştirin."
+   ],
+   [
+    "Zarf şeklinde katlayın",
+    "Yufkanın dört kenarını içe doğru katlayarak zarf şekli verin."
+   ],
+   [
+    "Tavada kızartın",
+    "Hafif tereyağlı bir tavada her iki tarafı da altın rengini alana kadar kızartın."
+   ]
+  ],
+  "emo": "🫓"
+ },
+ {
+  "id": 88,
+  "name": "Damla Çikolatalı Cookie",
+  "category": "Tatlılar",
+  "description": "Kenarları çıtır, ortası yumuşak kalan, bol damla çikolatalı klasik Amerikan usulü kurabiye.",
+  "image": "images/damla-cikolatali-cookie.jpg",
+  "calories": 180,
+  "difficulty": "Kolay",
+  "time": 26,
+  "prep": 15,
+  "cook": 11,
+  "servings": 20,
+  "pairs": "Süt, kahve",
+  "tags": [
+   "Çikolatalı",
+   "Fırın",
+   "Pratik",
+   "Tatlılar"
+  ],
+  "chef": "Kurabiyeleri kenarları altın rengini alır almaz, ortaları hâlâ yumuşakken fırından çıkarmak en iyi dokuyu verir.",
+  "nutri": {
+   "carb": 22,
+   "protein": 2,
+   "fat": 9,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    125,
+    "g",
+    "tereyağı (oda sıcaklığında)"
+   ],
+   [
+    1,
+    "çay bardağı",
+    "toz şeker"
+   ],
+   [
+    1,
+    "çay bardağı",
+    "esmer şeker"
+   ],
+   [
+    1,
+    "adet",
+    "yumurta"
+   ],
+   [
+    1,
+    "paket",
+    "vanilya"
+   ],
+   [
+    0.5,
+    "çk",
+    "karbonat"
+   ],
+   [
+    2,
+    "su bardağı",
+    "un"
+   ],
+   [
+    1,
+    "su bardağı",
+    "damla çikolata"
+   ]
+  ],
+  "steps": [
+   [
+    "Tereyağı ve şekeri çırpın",
+    "Tereyağı, toz şeker ve esmer şekeri krema kıvamına gelene kadar çırpın."
+   ],
+   [
+    "Yumurta ve vanilyayı ekleyin",
+    "Yumurta ve vanilyayı ekleyip karıştırmaya devam edin."
+   ],
+   [
+    "Kuru malzemeleri ekleyin",
+    "Un ve karbonatı eleyerek ekleyin, spatula ile karıştırın."
+   ],
+   [
+    "Çikolatayı ekleyin",
+    "En son damla çikolataları ekleyip hamura yedirin."
+   ],
+   [
+    "Şekil verip dizin",
+    "Ceviz büyüklüğünde parçalar alıp aralıklı şekilde fırın tepsisine dizin."
+   ],
+   [
+    "Fırınlayın",
+    "175°C fırında 10-12 dakika pişirin — fırından çıktığında yumuşak olacaktır, soğudukça kıvamını bulur."
+   ]
+  ],
+  "emo": "🍪"
+ },
+ {
+  "id": 89,
+  "name": "Çıtır Tavuk Parçaları",
+  "category": "Ana Yemekler",
+  "description": "Tavuk göğsünün una, yumurtaya ve ufalanmış mısır gevreğine bulanarak kızartıldığı, dışı çıtır içi sulu kalan pratik bir aile yemeği.",
+  "image": "images/citir-tavuk.jpg",
+  "calories": 380,
+  "difficulty": "Kolay",
+  "time": 32,
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "pairs": "Patates kızartması, barbekü sos",
+  "tags": [
+   "Çıtır",
+   "Pratik",
+   "Kızartma",
+   "Ana Yemekler"
+  ],
+  "chef": "Mısır gevreğini çok ince değil kabaca ufalamak, kızartma sonrası daha belirgin ve kalıcı bir çıtırlık sağlar.",
+  "nutri": {
+   "carb": 26,
+   "protein": 32,
+   "fat": 15,
+   "fiber": 1
+  },
+  "ingredients": [
+   [
+    500,
+    "g",
+    "tavuk göğsü (jülyen doğranmış)"
+   ],
+   [
+    1,
+    "su bardağı",
+    "un"
+   ],
+   [
+    2,
+    "adet",
+    "yumurta"
+   ],
+   [
+    2,
+    "su bardağı",
+    "mısır gevreği (ufalanmış)"
+   ],
+   [
+    1,
+    "çk",
+    "sarımsak tozu"
+   ],
+   [
+    1,
+    "tk",
+    "toz kırmızı biber"
+   ],
+   [
+    0,
+    "",
+    "karabiber"
+   ],
+   [
+    0,
+    "",
+    "tuz"
+   ],
+   [
+    500,
+    "ml",
+    "sıvı yağ (kızartma için)"
+   ]
+  ],
+  "steps": [
+   [
+    "Tavuğu marine edin",
+    "Tavuk parçalarını baharatlar ve biraz sıvı yağ ile harmanlayıp 10 dakika dinlendirin."
+   ],
+   [
+    "Mısır gevreğini hazırlayın",
+    "Mısır gevreklerini ufalayıp geniş bir tabağa alın."
+   ],
+   [
+    "Un ve yumurtayı hazırlayın",
+    "Ayrı tabaklara un ve çırpılmış yumurtaları koyun."
+   ],
+   [
+    "Sırasıyla bulayın",
+    "Tavukları sırasıyla una, yumurtaya ve en son mısır gevreğine bulayın."
+   ],
+   [
+    "Kızartın veya fırınlayın",
+    "Kızgın yağda altın sarısı olana kadar kızartın veya 200°C fırında pişirin."
+   ]
+  ],
+  "emo": "🍗"
+ }
+]
