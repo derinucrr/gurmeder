@@ -17,7 +17,7 @@
    uç noktanıza yönlendirilmelidir.
    ========================================================== */
 
-const RECIPES_ENDPOINT = 'data/recipes.json';
+const RECIPES_ENDPOINT = 'https://gurmeder.onrender.com/api/Recipes'; // TODO: gerçek API uç noktası
 
 /**
  * Tarif verisini API'den (bugün: yerel JSON) çeker.
@@ -52,5 +52,17 @@ async function fetchRecipesFromAPI(){
     throw new Error('INVALID_SHAPE');
   }
 
-  return data;
+  // Backend DTO'ları nesne olarak döndürür; mevcut frontend ise
+  // ingredients/steps alanlarını [amount, unit, name] ve [title, text]
+  // dizileri olarak kullanıyor. Burada tek noktada frontend formatına
+  // dönüştürüyoruz; geri kalan tasarım ve uygulama kodu değişmez.
+  return data.map(r => ({
+    ...r,
+    ingredients: Array.isArray(r.ingredients)
+      ? r.ingredients.map(i => Array.isArray(i) ? i : [i.amount ?? 0, i.unit ?? '', i.name ?? ''])
+      : [],
+    steps: Array.isArray(r.steps)
+      ? r.steps.map(s => Array.isArray(s) ? s : [s.title ?? '', s.text ?? ''])
+      : []
+  }));
 }
