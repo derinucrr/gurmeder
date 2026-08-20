@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GURMEDER — Ölçüsü tam, lezzeti kesin.</title>
+<meta name="description" content="GURMEDER — 400'e yakın ölçülü, şef notlu tarif. Ana yemeklerden tatlılara, çorbalardan atıştırmalıklara kadar her mutfağa uygun tarifler.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='6' fill='%23C48A93'/%3E%3Cpath d='M4 12c0-3 2-5 8-5s8 2 8 5' stroke='white' stroke-width='1.8' fill='none' stroke-linecap='round'/%3E%3Cpath d='M4 12h16v1.5A5.5 5.5 0 0 1 14.5 19h-5A5.5 5.5 0 0 1 4 13.5V12Z' stroke='white' stroke-width='1.8' fill='none' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+
+<!-- ============ HEADER ============ -->
+<header class="site">
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M4 12c0-3 2-5 8-5s8 2 8 5" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/><path d="M4 12h16v1.5A5.5 5.5 0 0 1 14.5 19h-5A5.5 5.5 0 0 1 4 13.5V12Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 5.2V3M12 5.2V3M15 5.2V3" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      </div>
+      <div class="logo-text"><b>GURMEDER</b><span>ÖLÇÜSÜ TAM, LEZZETİ KESİN</span></div>
+    </div>
+    <nav class="main">
+      <button class="nav-link active" data-view="home">Ana Sayfa</button>
+      <button class="nav-link" data-view="tarifler">Tarifler</button>
+      <button class="nav-link" data-view="malzeme">Malzemeden Tarif Bul</button>
+      <button class="nav-link" data-view="favoriler">Favorilerim</button>
+    </nav>
+    <div class="header-actions">
+      <div class="search-pill">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="#3A3532" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="#3A3532" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="headerSearch" type="text" placeholder="Tarif, malzeme ara...">
+      </div>
+      <button class="icon-btn" id="favIconBtn" aria-label="Favoriler" title="Favoriler">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#3A3532" stroke-width="2"><path d="M12 21s-7.5-4.6-10-9.3C.5 8 2.3 4.5 6 4c2.2-.3 4.2.9 6 3 1.8-2.1 3.8-3.3 6-3 3.7.5 5.5 4 4 7.7C19.5 16.4 12 21 12 21Z"/></svg>
+        <span class="badge" id="favBadge">3</span>
+      </button>
+      <button class="icon-btn" id="userIconBtn" aria-label="Hesabım" title="Giriş yap">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#3A3532" stroke-width="2"><circle cx="12" cy="8" r="3.6"/><path d="M4.5 20c1.4-3.6 4.4-5.5 7.5-5.5s6.1 1.9 7.5 5.5"/></svg>
+      </button>
+      <button class="burger" id="burgerBtn" aria-label="Menü">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#3A3532" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ============ LOADING / ERROR STATES ============ -->
+<div id="globalLoading" class="state-banner">
+  <div class="spinner" aria-hidden="true"></div>
+  <p>Tarifler yükleniyor...</p>
+</div>
+<div id="globalError" class="state-banner" style="display:none;">
+  <span style="font-size:34px;">⚠️</span>
+  <p>Tarifler şu anda yüklenemiyor. Lütfen tekrar deneyin.</p>
+  <button class="btn btn-primary" onclick="retryLoad()">Tekrar Dene</button>
+</div>
+
+<main id="appMain" style="display:none;">
+<!-- ============ HOME VIEW ============ -->
+<div id="view-home" class="view active">
+  <div class="wrap">
+    <section class="hero">
+      <div class="hero-grid">
+        <div>
+          <h1>Bugün Ne Pişirsek?</h1>
+          <p class="lead">Elindeki malzemeleri söyle, sana en uygun tarifleri bulalım.</p>
+          <div class="hero-ctas">
+            <button class="btn btn-primary" onclick="switchView('tarifler')">Tarifleri Keşfet</button>
+            <button class="btn btn-outline" onclick="switchView('malzeme')">Malzemeden Tarif Bul</button>
+          </div>
+          <div class="hero-stats">
+            <div><b id="statTotal">0</b><span>tarif</span></div>
+            <div><b id="statCats">8</b><span>kategori</span></div>
+            <div><b id="statPhotos">0</b><span>gerçek fotoğraf</span></div>
+          </div>
+        </div>
+        <div class="hero-art">
+          <div class="hero-plate" id="heroPlate">
+            <svg class="hero-illustration" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <defs>
+                <radialGradient id="heroGlow" cx="50%" cy="46%" r="52%">
+                  <stop offset="0%" stop-color="#fff" stop-opacity="0.6"/>
+                  <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+                </radialGradient>
+              </defs>
+              <circle cx="150" cy="150" r="140" fill="url(#heroGlow)"/>
+
+              <!-- yavaşça dönen çelenk: limon, biber, buğday, otlar -->
+              <g class="hero-wreath">
+                <g transform="translate(90,54)">
+                  <circle r="19" fill="#F6E7B4" stroke="#C9A227" stroke-width="1.5"/>
+                  <g stroke="#C9A227" stroke-width="1" opacity="0.65">
+                    <line x1="0" y1="-15" x2="0" y2="15"/>
+                    <line x1="-13" y1="-7.5" x2="13" y2="7.5"/>
+                    <line x1="-13" y1="7.5" x2="13" y2="-7.5"/>
+                  </g>
+                </g>
+                <g transform="rotate(18 224 64)">
+                  <path d="M212 46 Q231 41 237 58 Q241 75 224 82 Q209 88 205 73 Q201 57 212 46 Z" fill="#C4715C" stroke="#A6503D" stroke-width="1.5"/>
+                  <path d="M211 45 Q205 35 213 28" fill="none" stroke="#8C8177" stroke-width="2" stroke-linecap="round"/>
+                </g>
+                <g transform="translate(246,148)">
+                  <line x1="0" y1="-30" x2="0" y2="30" stroke="#B08D57" stroke-width="1.5" stroke-linecap="round"/>
+                  <g fill="#D8B463">
+                    <ellipse cx="-6" cy="-24" rx="5" ry="8" transform="rotate(-24 -6 -24)"/>
+                    <ellipse cx="6" cy="-17" rx="5" ry="8" transform="rotate(24 6 -17)"/>
+                    <ellipse cx="-6" cy="-8" rx="5" ry="8" transform="rotate(-24 -6 -8)"/>
+                    <ellipse cx="6" cy="1" rx="5" ry="8" transform="rotate(24 6 1)"/>
+                  </g>
+                </g>
+                <g fill="#8C8177">
+                  <ellipse cx="66" cy="112" rx="8" ry="3.5" transform="rotate(-28 66 112)"/>
+                  <ellipse cx="56" cy="130" rx="8" ry="3.5" transform="rotate(12 56 130)"/>
+                  <ellipse cx="60" cy="150" rx="7" ry="3" transform="rotate(-6 60 150)"/>
+                  <ellipse cx="232" cy="114" rx="8" ry="3.5" transform="rotate(28 232 114)"/>
+                  <ellipse cx="242" cy="132" rx="8" ry="3.5" transform="rotate(-12 242 132)"/>
+                </g>
+                <circle cx="102" cy="38" r="2.5" fill="#C48A93"/>
+                <circle cx="198" cy="34" r="2" fill="#8C8177"/>
+                <circle cx="256" cy="176" r="2.5" fill="#C48A93"/>
+                <circle cx="50" cy="172" r="2" fill="#C48A93"/>
+                <circle cx="150" cy="30" r="2" fill="#8C8177"/>
+              </g>
+
+              <!-- sabit ölçü kabı -->
+              <g class="hero-jug">
+                <path d="M112 128 Q108 118 118 112 L182 112 Q192 118 188 128 L198 224 Q200 246 178 250 L122 250 Q100 246 102 224 Z" fill="#fff" fill-opacity="0.6" stroke="#6E645B" stroke-width="2.5" stroke-linejoin="round"/>
+                <path d="M182 112 Q198 108 202 122" fill="none" stroke="#6E645B" stroke-width="2.5" stroke-linecap="round"/>
+                <path d="M108 148 Q78 152 80 182 Q82 210 110 208" fill="none" stroke="#6E645B" stroke-width="2.5" stroke-linecap="round"/>
+                <line x1="112" y1="150" x2="128" y2="150" stroke="#C48A93" stroke-width="2" stroke-linecap="round"/>
+                <line x1="110" y1="172" x2="130" y2="172" stroke="#C48A93" stroke-width="2" stroke-linecap="round"/>
+                <line x1="108" y1="194" x2="132" y2="194" stroke="#C48A93" stroke-width="2" stroke-linecap="round"/>
+                <line x1="107" y1="216" x2="133" y2="216" stroke="#C48A93" stroke-width="2" stroke-linecap="round"/>
+              </g>
+
+              <!-- yükselen buhar -->
+              <g class="hero-steam" stroke="#fff" stroke-width="2.5" stroke-linecap="round" fill="none">
+                <path class="s1" d="M196 108 Q191 92 199 78 Q207 64 201 50"/>
+                <path class="s2" d="M212 112 Q208 96 215 82 Q222 68 216 54"/>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="cat-strip" id="catStrip"></div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Bu haftanın gözdeleri</h2>
+        <a class="link" href="#" onclick="switchView('tarifler'); return false;">Tümünü gör →</a>
+      </div>
+      <div class="grid" id="popularGrid"></div>
+    </section>
+
+    <section>
+      <div class="spice-banner">
+        <div class="spice-banner-content">
+          <span class="eyebrow">DÜNYA MUTFAĞI</span>
+          <h2>Baharatların büyüsünü keşfedin</h2>
+          <p>Tarçından pul bibere, her tarif doğru baharat dengesiyle yazıldı — deneyip nasıl bir fark yarattığını görün.</p>
+          <button class="btn btn-primary" onclick="switchView('tarifler')">Tarifleri Keşfet</button>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Neden GURMEDER?</h2>
+      </div>
+      <div class="feat-strip">
+        <div class="feat"><div class="ico">📐</div><div><b>Net gramaj</b><p>Tahmini değil, tartılmış ölçüler ve gerçek pişirme süreleri.</p></div></div>
+        <div class="feat"><div class="ico">👩‍🍳</div><div><b>Şef notlarıyla</b><p>Her tarifte deneyimli şeflerden pratik ipuçları.</p></div></div>
+        <div class="feat"><div class="ico">🧺</div><div><b>Malzemeden tarif</b><p>Dolabındakileri yaz, sana uygun tarifleri bulalım.</p></div></div>
+        <div class="feat"><div class="ico">❤️</div><div><b>Favorilerini biriktir</b><p>Beğendiğin tarifleri kaydet, istediğin an dön.</p></div></div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ============ TARIFLER (LIST) VIEW ============ -->
+<div id="view-tarifler" class="view">
+  <div class="wrap">
+    <section style="padding-top:28px;">
+      <div class="section-head" style="align-items:flex-start;">
+        <div>
+          <h2 id="tariflerTitle">Tarifler</h2>
+          <p style="color:var(--ink-soft); margin-top:8px; font-size:14px;">Binlerce ölçülü tarif arasından tam sana göre olanı bul.</p>
+        </div>
+      </div>
+      <div class="list-layout">
+        <aside class="filters">
+          <h3>Filtrele <button class="clear" onclick="clearFilters()">Temizle</button></h3>
+          <details class="filter-group" open>
+            <summary>Kategori <span>▾</span></summary>
+            <div id="catFilters"></div>
+          </details>
+          <details class="filter-group" open>
+            <summary>Zorluk Seviyesi <span>▾</span></summary>
+            <div class="filter-row"><label><input type="checkbox" class="diffFilter" value="Kolay"> Kolay</label></div>
+            <div class="filter-row"><label><input type="checkbox" class="diffFilter" value="Orta"> Orta</label></div>
+            <div class="filter-row"><label><input type="checkbox" class="diffFilter" value="Zor"> Zor</label></div>
+          </details>
+          <details class="filter-group" open>
+            <summary>Hazırlama Süresi <span>▾</span></summary>
+            <div class="filter-row"><label><input type="radio" name="timeFilter" class="timeFilter" value="0"> Farketmez</label></div>
+            <div class="filter-row"><label><input type="radio" name="timeFilter" class="timeFilter" value="30"> 30 dk altı</label></div>
+            <div class="filter-row"><label><input type="radio" name="timeFilter" class="timeFilter" value="60"> 60 dk altı</label></div>
+          </details>
+          <details class="filter-group" open>
+            <summary>Kalori (1 porsiyon) <span>▾</span></summary>
+            <div class="filter-row"><label><input type="radio" name="calFilter" class="calFilter" value="0" checked> Farketmez</label></div>
+            <div class="filter-row"><label><input type="radio" name="calFilter" class="calFilter" value="300"> 300 kcal altı</label></div>
+            <div class="filter-row"><label><input type="radio" name="calFilter" class="calFilter" value="500"> 500 kcal altı</label></div>
+          </details>
+          <button class="btn btn-primary" style="width:100%; margin-top:8px;" onclick="applyFilters()">Filtreleri Uygula</button>
+        </aside>
+        <div>
+          <div class="search-bar">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="#85807B" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="#85807B" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="listSearch" type="text" placeholder="Tarif, malzeme veya kategori ara..." oninput="applyFilters()">
+          </div>
+          <div class="list-top">
+            <div class="count">Toplam <b id="resultCount">0</b> tarif bulundu</div>
+            <div class="list-top-right">
+              <select id="sortSelect" onchange="applyFilters()">
+                <option value="pop">Sırala: Varsayılan</option>
+                <option value="name">İsme Göre (A-Z)</option>
+                <option value="time">En Kısa Süre</option>
+                <option value="cal">En Az Kalori</option>
+              </select>
+              <div class="view-toggle">
+                <button id="gridViewBtn" class="active" onclick="setDisplayMode('grid')" title="Izgara görünüm">▦</button>
+                <button id="listViewBtn" onclick="setDisplayMode('list')" title="Liste görünüm">☰</button>
+              </div>
+            </div>
+          </div>
+          <div class="chips-active" id="activeChips"></div>
+          <div class="grid list-grid" id="listGrid"></div>
+          <div class="empty-state" id="emptyState" style="display:none;">
+            <div class="emo">🍽️</div>
+            <h3>Uygun tarif bulunamadı</h3>
+            <p style="color:var(--ink-soft); margin-top:8px; font-size:13.5px;">Filtreleri temizleyip tekrar dene.</p>
+          </div>
+          <div class="pagination" id="paginationBox">
+            <div class="page-nums" id="pageNums"></div>
+            <select id="pageSizeSelect" onchange="changePageSize()">
+              <option value="12">Sayfa başına: 12</option>
+              <option value="24">Sayfa başına: 24</option>
+              <option value="48">Sayfa başına: 48</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ============ MALZEME (FINDER) VIEW ============ -->
+<div id="view-malzeme" class="view">
+  <div class="wrap">
+    <div class="finder-hero">
+      <span class="eyebrow">MALZEMEDEN TARİF BUL</span>
+      <h1 style="margin-top:10px;">Dolabında ne varsa <em style="color:var(--paprika); font-style:italic;">söyle</em>,<br>ölçüsünü biz bulalım.</h1>
+      <p>Elindeki malzemeleri ekle, tercihlerini belirt — sana en uygun tarifleri listeleyelim.</p>
+    </div>
+    <div class="finder-box">
+      <div class="finder-col">
+        <h4>🧺 Elinizdeki malzemeleri girin</h4>
+        <div class="chip-input" id="chipInputBox">
+          <input id="ingInput" type="text" placeholder="Malzeme yazıp Enter'a basın..." onkeydown="if(event.key==='Enter'){event.preventDefault(); addIngredientChip(this.value); this.value='';}">
+        </div>
+        <p style="font-size:11.5px; color:var(--ink-soft); margin-top:10px;">Örn: tavuk göğsü, mantar, krema, sarımsak</p>
+      </div>
+      <div class="finder-col">
+        <h4>⚙️ Tercihlerinizi belirtin (opsiyonel)</h4>
+        <div class="pref-grid">
+          <div><label>Porsiyon</label><select><option>Farketmez</option><option>2 kişilik</option><option>4 kişilik</option><option>6+ kişilik</option></select></div>
+          <div><label>Hazırlama Süresi</label><select><option>Farketmez</option><option>30 dk altı</option><option>60 dk altı</option></select></div>
+          <div><label>Zorluk Seviyesi</label><select><option>Farketmez</option><option>Kolay</option><option>Orta</option><option>Zor</option></select></div>
+          <div><label>Yemek Türü</label>
+            <select id="finderCatSelect">
+              <option value="">Farketmez</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="finder-actions">
+      <button class="btn btn-primary" onclick="findByIngredients()">Tarifleri Bul →</button>
+      <button class="btn btn-ghost" onclick="clearIngredientChips()">🗑️ Malzemeleri Temizle</button>
+    </div>
+
+    <section>
+      <div class="section-head">
+        <h2 id="finderResultTitle">Sizin için bulduğumuz tarifler</h2>
+      </div>
+      <div class="grid" id="finderGrid"></div>
+    </section>
+
+    <div class="tip-box">
+      <div class="l"><span style="font-size:22px;">💡</span><div><b>İpucu</b><p>Daha isabetli sonuçlar için en az 3 malzeme eklemeyi deneyin.</p></div></div>
+      <a class="link" style="font-weight:700; color:var(--olive-deep); font-size:13.5px;" href="#" onclick="switchView('tarifler'); return false;">Tüm tarifleri gör →</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============ RECIPE DETAIL VIEW ============ -->
+<div id="view-detay" class="view">
+  <div class="wrap">
+    <div class="crumbs">
+      <button class="back-btn" onclick="goBack()" title="Geri dön">← Geri</button>
+      <button onclick="switchView('home')">Ana Sayfa</button> <span>›</span>
+      <span id="crumbCat">Ana Yemekler</span> <span>›</span>
+      <span class="cur" id="crumbTitle">Tarif</span>
+    </div>
+
+    <div class="detail-grid">
+      <div class="detail-media" id="detailMedia">
+        <button class="dfav" id="detailFavBtn"><svg viewBox="0 0 24 24"><path d="M12 21s-7.5-4.6-10-9.3C.5 8 2.3 4.5 6 4c2.2-.3 4.2.9 6 3 1.8-2.1 3.8-3.3 6-3 3.7.5 5.5 4 4 7.7C19.5 16.4 12 21 12 21Z"/></svg></button>
+        <span class="emo" id="detailEmo">🍝</span>
+      </div>
+      <div class="detail-info">
+        <span class="card-cat" id="detailCat">ANA YEMEK</span>
+        <h1 id="detailTitle">Tarif Adı</h1>
+        <p class="lead" id="detailDesc">Açıklama</p>
+
+        <div class="gauge-row">
+          <div class="gauge"><div class="ring" id="gaugePrep"><span>15 dk</span></div><label>Hazırlama</label></div>
+          <div class="gauge"><div class="ring" id="gaugeCook"><span>20 dk</span></div><label>Pişirme</label></div>
+          <div class="gauge"><div class="ring" id="gaugeTotal"><span>35 dk</span></div><label>Toplam Süre</label></div>
+          <div class="gauge"><div class="ring" id="gaugeCal"><span>520</span></div><label>Kalori (1 porsiyon)</label></div>
+          <div class="gauge"><div class="ring" id="gaugeDiff"><span>😊</span></div><label id="diffLabel">Kolay</label></div>
+        </div>
+
+        <div class="serve-box">
+          <div class="l">
+            <span style="font-size:22px;">🍽️</span>
+            <div><b id="serveCount">4 porsiyon</b><small>Malzeme miktarları otomatik ölçeklenir</small></div>
+          </div>
+          <div class="stepper">
+            <button onclick="changeServings(-1)">−</button>
+            <div class="val" id="servingVal">4</div>
+            <button onclick="changeServings(1)">+</button>
+          </div>
+        </div>
+
+        <div class="pairs">
+          <span style="font-size:20px;">🥗</span>
+          <div><b>En iyi eşlikçiler</b><span id="detailPairs">—</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="detail-body">
+      <div>
+        <div class="panel">
+          <h3><span class="ico">📋</span> Malzemeler</h3>
+          <div class="ing-list" id="ingList"></div>
+        </div>
+        <div class="panel">
+          <h3><span class="ico">✍️</span> Yapılışı</h3>
+          <div class="steps" id="stepsList"></div>
+        </div>
+      </div>
+      <div>
+        <div class="panel">
+          <h3><span class="ico">📊</span> Besin Değerleri <span style="font-size:11px; font-weight:600; color:var(--ink-soft);">(1 porsiyon)</span></h3>
+          <div class="nutri-panel">
+            <div class="donut" id="nutriDonut"><div class="hole"><b id="nutriKcal">520</b><span>kcal</span></div></div>
+            <div class="nutri-legend" id="nutriLegend"></div>
+          </div>
+          <p class="nutri-note">* Değerler yaklaşık olup kullanılan malzemelere göre değişiklik gösterebilir.</p>
+        </div>
+        <div class="panel">
+          <h3><span class="ico">🏷️</span> Tarif Etiketleri</h3>
+          <div class="tag-row" id="tagRow"></div>
+        </div>
+        <div class="panel chef-note">
+          <h3><span class="ico" style="background:var(--pink-tint-border);">👨‍🍳</span> Şefin Notu</h3>
+          <p id="chefNote">—</p>
+        </div>
+        <div class="panel">
+          <h3><span class="ico">🍲</span> Benzer Tarifler</h3>
+          <div class="similar-mini" id="similarList"></div>
+        </div>
+        <div class="panel" style="margin-bottom:0;">
+          <h3 style="margin-bottom:14px;"><span class="ico">📤</span> Tarifi Paylaş</h3>
+          <div class="share-row">
+            <button title="WhatsApp">💬</button>
+            <button title="Facebook">📘</button>
+            <button title="Pinterest">📌</button>
+            <button title="Bağlantıyı kopyala" onclick="copyLink()">🔗</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</main>
+
+<!-- ============ LOGIN / REGISTER MODAL ============ -->
+<div class="modal-overlay" id="authOverlay">
+  <div class="modal" id="authModal">
+    <button class="modal-close" onclick="closeAuth()">✕</button>
+
+    <form id="authLogin" onsubmit="return handleLogin(event)">
+      <div class="modal-icon">👩‍🍳</div>
+      <h2>Giriş Yap</h2>
+      <p class="sub">Ölçülü tariflere ulaşmak için giriş yap</p>
+      <p class="auth-error" id="loginError" style="display:none;"></p>
+      <div class="field"><label>E-posta</label><input type="email" id="loginEmail" autocomplete="email" placeholder="ornek@mail.com" required></div>
+      <div class="field"><label>Şifre</label><input type="password" id="loginPassword" autocomplete="current-password" placeholder="Şifrenizi girin" required></div>
+      <div class="row-between">
+        <label><input type="checkbox" id="loginRemember" checked style="accent-color:var(--paprika);"> Beni hatırla</label>
+        <a href="#" onclick="showAuth('forgot'); return false;">Şifremi unuttum?</a>
+      </div>
+      <button class="btn btn-primary" type="submit" id="loginSubmitBtn">Giriş Yap</button>
+      <p class="modal-foot">Hesabın yok mu? <a href="#" onclick="showAuth('register'); return false;">Kayıt ol</a></p>
+    </form>
+
+    <form id="authRegister" style="display:none;" onsubmit="return handleRegister(event)">
+      <div class="modal-icon">🧑‍🍳</div>
+      <h2>Kayıt Ol</h2>
+      <p class="sub">Hemen ücretsiz hesap oluştur</p>
+      <p class="auth-error" id="registerError" style="display:none;"></p>
+      <div class="field"><label>Ad Soyad</label><input type="text" id="registerName" autocomplete="name" placeholder="Adınız Soyadınız" required></div>
+      <div class="field"><label>E-posta</label><input type="email" id="registerEmail" autocomplete="email" placeholder="ornek@mail.com" required></div>
+      <div class="field"><label>Şifre</label><input type="password" id="registerPassword" autocomplete="new-password" placeholder="En az 6 karakter" minlength="6" required></div>
+      <button class="btn btn-primary" type="submit" id="registerSubmitBtn">Kayıt Ol</button>
+      <p class="modal-foot">Zaten hesabın var mı? <a href="#" onclick="showAuth('login'); return false;">Giriş yap</a></p>
+    </form>
+
+    <div id="authForgot" style="display:none;">
+      <div class="modal-icon">🔒</div>
+      <h2>Şifremi Unuttum</h2>
+      <p class="sub">Kayıtlı e-posta adresinizi girin, bağlantı gönderelim</p>
+      <p class="auth-error" id="forgotNotice" style="display:none;"></p>
+      <div class="field"><label>E-posta</label><input type="email" id="forgotEmail" placeholder="ornek@mail.com"></div>
+      <button class="btn btn-primary" type="button" onclick="handleForgotPassword()">Bağlantı Gönder</button>
+      <p class="modal-foot"><a href="#" onclick="showAuth('login'); return false;">← Giriş sayfasına dön</a></p>
+    </div>
+  </div>
+</div>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <div class="logo">
+          <div class="logo-mark"><svg viewBox="0 0 24 24" fill="none"><path d="M4 12c0-3 2-5 8-5s8 2 8 5" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/><path d="M4 12h16v1.5A5.5 5.5 0 0 1 14.5 19h-5A5.5 5.5 0 0 1 4 13.5V12Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 5.2V3M12 5.2V3M15 5.2V3" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></div>
+          <div class="logo-text"><b style="color:#fff;">GURMEDER</b><span style="color:#ADA69F;">ÖLÇÜSÜ TAM, LEZZETİ KESİN</span></div>
+        </div>
+        <p>Net gramajlı, doğru süreli, şef onaylı tarifler. Mutfakta tahmine yer yok — GURMEDER'de her şey ölçülü.</p>
+        <div class="foot-social" style="margin-top:18px;">
+          <a href="#">📷</a><a href="#">📘</a><a href="#">🐦</a><a href="#">📌</a>
+        </div>
+      </div>
+      <div><h4>Keşfet</h4><ul>
+        <li><a href="#" onclick="switchView('home'); return false;">Ana Sayfa</a></li>
+        <li><a href="#" onclick="switchView('tarifler'); return false;">Tarifler</a></li>
+        <li><a href="#" onclick="switchView('malzeme'); return false;">Malzemeden Tarif Bul</a></li>
+        <li><a href="#">Blog</a></li>
+      </ul></div>
+      <div><h4>Kategoriler</h4><ul id="footCatList"></ul></div>
+      <div><h4>Kurumsal</h4><ul>
+        <li><a href="#">Hakkımızda</a></li>
+        <li><a href="#">İletişim</a></li>
+        <li><a href="#">Gizlilik Politikası</a></li>
+        <li><a href="#">Kullanım Şartları</a></li>
+      </ul></div>
+    </div>
+    <div class="foot-bottom">
+      <span>© 2026 GURMEDER. Tüm hakları saklıdır.</span>
+      <span>İstanbul'da 🍅 ile hazırlandı.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/api.js"></script>
+<script src="js/recipes.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

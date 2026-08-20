@@ -1,0 +1,32 @@
+# Render Blueprint — bu dosyayı GitHub'a push edip Render panelinde
+# "New +" → "Blueprint" ile bu repoyu bağladığınızda, aşağıdaki web
+# servisi VE Postgres veritabanı birlikte, otomatik olarak birbirine
+# bağlanmış şekilde oluşturulur. Elle bir ortam değişkeni girmeniz
+# gerekmez — DATABASE_URL, Render tarafından gurmeder-db'den otomatik
+# okunup gurmeder-api servisine enjekte edilir (bkz. Program.cs).
+#
+# "free" planlar hem web servisi hem veritabanı için kullanılabilir
+# olsa da Render'ın ücretsiz Postgres'i 30 gün sonra süresi dolan
+# geçici bir veritabanıdır — gerçek/kalıcı bir dağıtım için ücretli bir
+# plana geçmeniz gerekir. Bkz. README.md'deki "Render'a dağıtım" bölümü.
+databases:
+  - name: gurmeder-db
+    databaseName: gurmeder
+    user: gurmeder
+    plan: free
+
+services:
+  - type: web
+    name: gurmeder-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /api/recipes
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: gurmeder-db
+          property: connectionString
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
